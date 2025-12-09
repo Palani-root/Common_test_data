@@ -1,0 +1,52 @@
+Trans_UUID,User_ID,User_Name,Home_City,Persona_Tag,Preferred_Payment,Timestamp,City_Zone,Station_Name,Trans_Type,Merchant_Context,Amount,Balance_After,Weather_Context,Event_Context
+tx_101,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-06 09:00:00,Chennai,Guindy,Metro_Entry,Transit,-10,240,Sunny,None
+tx_102,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-06 09:45:00,Chennai,Central,Metro_Exit,Transit,-35,205,Sunny,None
+tx_103,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-07 09:00:00,Chennai,Guindy,Metro_Entry,Transit,-10,195,Sunny,None
+tx_104,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-07 09:45:00,Chennai,Central,Metro_Exit,Transit,-35,160,Sunny,None
+tx_105,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-08 09:00:00,Chennai,Guindy,Metro_Entry,Transit,-10,150,Sunny,None
+tx_106,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-08 09:45:00,Chennai,Central,Metro_Exit,Transit,-35,115,Sunny,None
+tx_107,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-09 09:00:00,Chennai,Guindy,Metro_Entry,Transit,-10,105,Sunny,None
+tx_108,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-09 09:45:00,Chennai,Central,Metro_Exit,Transit,-35,70,Sunny,None
+tx_109,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-10 09:00:00,Chennai,Guindy,Metro_Entry,Transit,-10,60,Sunny,None
+tx_110,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-10 09:45:00,Chennai,Central,Metro_Exit,Transit,-35,25,Sunny,None
+tx_111,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-10 18:00:00,Chennai,Guindy,Recharge,Wallet_Topup,50,75,Sunny,None
+tx_112,CHN-1001,Karthik Raja,Chennai,Corporate_Commuter,UPI-HDFC,2025-10-12 20:00:00,Chennai,Home,Merchant_Pay,Swiggy,-45,30,Sunny,None
+tx_201,BLR-2001,Ananya Iyer,Bangalore,Coffee_Lover,UPI-ICICI,2025-10-01 10:00:00,Bangalore,Indiranagar,Metro_Entry,Transit,-10,900,Cloudy,None
+tx_202,BLR-2001,Ananya Iyer,Bangalore,Coffee_Lover,UPI-ICICI,2025-10-01 10:30:00,Bangalore,MG Road,Metro_Exit,Transit,-30,860,Cloudy,None
+tx_203,BLR-2001,Ananya Iyer,Bangalore,Coffee_Lover,UPI-ICICI,2025-10-01 10:45:00,Bangalore,MG Road,Merchant_Pay,Starbucks,-250,610,Cloudy,None
+tx_204,BLR-2001,Ananya Iyer,Bangalore,Coffee_Lover,UPI-ICICI,2025-10-05 11:00:00,Bangalore,Indiranagar,Metro_Entry,Transit,-10,600,Sunny,None
+tx_205,BLR-2001,Ananya Iyer,Bangalore,Coffee_Lover,UPI-ICICI,2025-10-05 11:35:00,Bangalore,MG Road,Metro_Exit,Transit,-30,560,Sunny,None
+tx_206,BLR-2001,Ananya Iyer,Bangalore,Coffee_Lover,UPI-ICICI,2025-10-05 11:50:00,Bangalore,MG Road,Merchant_Pay,Starbucks,-250,310,Sunny,None
+tx_207,BLR-2001,Ananya Iyer,Bangalore,Coffee_Lover,UPI-ICICI,2025-10-12 09:00:00,Bangalore,Indiranagar,Metro_Entry,Transit,-10,300,Sunny,None
+tx_208,BLR-2001,Ananya Iyer,Bangalore,Coffee_Lover,UPI-ICICI,2025-10-12 09:35:00,Bangalore,MG Road,Metro_Exit,Transit,-30,270,Sunny,None
+tx_301,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-01 08:00:00,Hyderabad,Raidurg,Metro_Entry,Transit,-10,2000,Sunny,None
+tx_302,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-01 08:45:00,Hyderabad,Ameerpet,Metro_Exit,Transit,-40,1950,Sunny,None
+tx_303,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-02 08:00:00,Hyderabad,Raidurg,Metro_Entry,Transit,-10,1940,Sunny,None
+tx_304,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-02 08:45:00,Hyderabad,Ameerpet,Metro_Exit,Transit,-40,1890,Sunny,None
+tx_305,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-03 08:00:00,Hyderabad,Raidurg,Metro_Entry,Transit,-10,1880,Sunny,None
+tx_306,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-03 08:45:00,Hyderabad,Ameerpet,Metro_Exit,Transit,-40,1830,Sunny,None
+tx_307,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-04 08:00:00,Hyderabad,Raidurg,Metro_Entry,Transit,-10,1820,Sunny,None
+tx_308,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-04 08:45:00,Hyderabad,Ameerpet,Metro_Exit,Transit,-40,1770,Sunny,None
+tx_309,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-05 08:00:00,Hyderabad,Raidurg,Metro_Entry,Transit,-10,1760,Sunny,None
+tx_310,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-05 08:45:00,Hyderabad,Ameerpet,Metro_Exit,Transit,-40,1710,Sunny,None
+tx_311,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-06 08:00:00,Hyderabad,Raidurg,Metro_Entry,Transit,-10,1700,Sunny,None
+tx_312,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-06 08:45:00,Hyderabad,Ameerpet,Metro_Exit,Transit,-40,1650,Sunny,None
+tx_313,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-07 08:00:00,Hyderabad,Raidurg,Metro_Entry,Transit,-10,1640,Sunny,None
+tx_314,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-07 08:45:00,Hyderabad,Ameerpet,Metro_Exit,Transit,-40,1590,Sunny,None
+tx_315,HYD-3001,Sandeep Reddy,Hyderabad,Heavy_Commuter,UPI-SBI,2025-10-12 10:00:00,Hyderabad,Raidurg,Metro_Entry,Transit,-10,1580,Sunny,None
+tx_401,CHN-1002,Meera Nambiar,Chennai,Business_Traveler,UPI-AXIS,2025-09-01 10:00:00,Chennai,Guindy,Metro_Entry,Transit,-10,800,Sunny,None
+tx_402,CHN-1002,Meera Nambiar,Chennai,Business_Traveler,UPI-AXIS,2025-09-01 11:00:00,Chennai,Airport,Metro_Exit,Transit,-40,750,Sunny,None
+tx_403,CHN-1002,Meera Nambiar,Chennai,Business_Traveler,UPI-AXIS,2025-09-15 14:00:00,Chennai,Guindy,Metro_Entry,Transit,-10,740,Sunny,None
+tx_404,CHN-1002,Meera Nambiar,Chennai,Business_Traveler,UPI-AXIS,2025-09-15 15:00:00,Chennai,Airport,Metro_Exit,Transit,-40,690,Sunny,None
+tx_405,CHN-1002,Meera Nambiar,Chennai,Business_Traveler,UPI-AXIS,2025-10-01 09:00:00,Chennai,Guindy,Metro_Entry,Transit,-10,680,Sunny,None
+tx_406,CHN-1002,Meera Nambiar,Chennai,Business_Traveler,UPI-AXIS,2025-10-01 10:00:00,Chennai,Airport,Metro_Exit,Transit,-40,630,Sunny,None
+tx_407,CHN-1002,Meera Nambiar,Chennai,Business_Traveler,UPI-AXIS,2025-10-12 18:00:00,Bangalore,Majestic,Metro_Entry,Transit,-10,620,Cloudy,None
+tx_501,CHN-1003,Rahul Dravid,Chennai,Sports_Fan,UPI-KOTAK,2025-08-10 17:00:00,Chennai,Chepauk,Metro_Exit,Transit,-30,500,Sunny,IPL_Match
+tx_502,CHN-1003,Rahul Dravid,Chennai,Sports_Fan,UPI-KOTAK,2025-09-05 18:00:00,Chennai,Guindy,Merchant_Pay,Cinema,-200,300,Sunny,None
+tx_503,CHN-1003,Rahul Dravid,Chennai,Sports_Fan,UPI-KOTAK,2025-10-12 17:45:00,Chennai,Chepauk,Metro_Exit,Transit,-30,270,Sunny,IPL_Match
+tx_601,KOC-4001,Divya Spandana,Kochi,Rain_Avoider,UPI-GPAY,2025-10-01 09:00:00,Kochi,Aluva,Merchant_Pay,Uber,-350,2000,Sunny,None
+tx_602,KOC-4001,Divya Spandana,Kochi,Rain_Avoider,UPI-GPAY,2025-10-02 09:00:00,Kochi,Aluva,Merchant_Pay,Uber,-350,1650,Sunny,None
+tx_603,KOC-4001,Divya Spandana,Kochi,Rain_Avoider,UPI-GPAY,2025-10-03 09:00:00,Kochi,Aluva,Metro_Entry,Transit,-10,1640,Rain,None
+tx_604,KOC-4001,Divya Spandana,Kochi,Rain_Avoider,UPI-GPAY,2025-10-03 09:45:00,Kochi,Edappally,Metro_Exit,Transit,-20,1610,Rain,None
+tx_605,KOC-4001,Divya Spandana,Kochi,Rain_Avoider,UPI-GPAY,2025-10-04 09:00:00,Kochi,Aluva,Merchant_Pay,Uber,-350,1260,Sunny,None
+tx_606,KOC-4001,Divya Spandana,Kochi,Rain_Avoider,UPI-GPAY,2025-10-12 08:30:00,Kochi,Aluva,Recharge,Wallet_Topup,100,1360,Heavy_Rain,None
