@@ -1,0 +1,51 @@
+Test_ID,Scenario_Mix,User_Name,Region,GPS_LatLong,Start_Station,End_Station,Time,Trip_State,Wallet_Balance,Avg_Trip_Cost,Gate_Wait_Mins,Idle_Cash,Portfolio_Signal,Market_Event,Last_Activity,Event_Gap_Mins,Merchant_Offer
+TC_01,All_3_Scenarios,Rohan Das,APAC_India,28.54_77.20,Hauz Khas,Central Sect,08:50,At_Gate,30,45,20,50000,Tech_Heavy|Risk_On,Nifty_Correction_-3%,Movie_Booking,60,DimSum_1+1_Shizusan
+TC_02,All_3_Scenarios,Sarah Jenkins,US_NYC,40.75_73.97,Grand Central,Times Sq,12:30,At_Gate,2.50,5.00,15,12000,Crypto_Heavy|Dip_Buyer,Bitcoin_Crash_-5%,Lunch_Break,45,Burger_Deal_ShakeShack
+TC_03,All_3_Scenarios,Kenji Sato,APAC_Japan,35.65_139.70,Shibuya Stn,Shinjuku,13:00,At_Gate,200,350,25,10000,Auto_Heavy|Stable,Nikkei_Dip_-2%,Cinema_Entry,50,Sushi_Set_Genki
+TC_04,All_3_Scenarios,Michael Ross,US_SF,37.79_122.39,Powell St,Mission St,17:30,At_Gate,3.00,5.50,10,25000,Tech_Heavy|Panic_Seller,Nasdaq_Correction_-4%,Happy_Hour,30,Taco_Deal_Chipotle
+TC_05,All_3_Scenarios,Priya Sharma,APAC_India,19.07_72.87,Bandra Stn,Churchgate,09:00,At_Gate,20,40,30,60000,Bank_Heavy|Value,Sensex_Dip_-1%,Coffee_Shop,20,Croissant_Combo_Starbucks
+TC_06,All_3_Scenarios,David Miller,US_Chicago,41.87_87.62,Loop Stn,O'Hare,18:00,At_Gate,1.50,5.00,45,8000,Energy_Heavy|Stable,Oil_Price_Crash,Airport_Transit,90,DutyFree_Offer_DFS
+TC_07,All_3_Scenarios,Wei Chen,APAC_Singapore,1.28_103.85,Raffles Place,Jurong East,18:15,At_Gate,2.00,4.50,15,40000,Reit_Heavy|Safe,Prop_Index_Dip,Mall_Entry,40,Noodle_Set_DinTaiFung
+TC_08,All_3_Scenarios,Emily Clark,US_Boston,42.36_71.05,South Stn,Harvard Sq,14:00,At_Gate,2.00,3.50,12,15000,BioTech_Heavy|Risk,FDA_News_Drop,Library_Visit,60,Coffee_Deal_Dunkin
+TC_09,All_3_Scenarios,Vikram Singh,APAC_India,12.97_77.63,Indiranagar,MG Road,20:00,At_Gate,25,50,20,35000,SmallCap_Heavy|Aggressive,MidCap_Crash_-5%,Pub_Entry,120,Beer_Pitcher_Toit
+TC_10,All_3_Scenarios,Liam O'Connor,US_London,51.50_0.12,Kings Cross,Victoria,08:45,At_Gate,1.50,6.00,25,5000,Fintech_Heavy|Stable,FTSE_Correction,Breakfast_Cafe,30,English_Breakfast_Pret
+TC_11,All_3_Scenarios,Arjun Reddy,APAC_India,17.44_78.34,Hitech City,Raidurg,18:30,At_Gate,40,60,18,100000,IT_Heavy|Dip_Buyer,IT_Index_Low,Mall_Exit,45,Pizza_BOGO_Dominos
+TC_12,All_3_Scenarios,Jessica Doe,US_LA,34.05_118.24,Union Stn,Hollywood,19:00,At_Gate,1.75,3.00,10,2000,Media_Heavy|Growth,Earnings_Miss_Disney,Theater_Entry,50,Popcorn_Combo_AMC
+TC_13,All_3_Scenarios,Mei Ling,APAC_HK,22.28_114.15,Central Stn,Tsim Sha Tsui,13:30,At_Gate,5.00,12.00,20,500000,China_Tech|Volatile,HangSeng_Dip_-6%,Lunch_Meeting,60,DimSum_Set_TimHoWan
+TC_14,All_3_Scenarios,Rahul Verma,APAC_India,28.45_77.02,Cyber City,Sikanderpur,17:45,At_Gate,15,30,15,45000,Auto_Heavy|Stable,Auto_Sales_Down,Office_Exit,40,Tea_Snack_Chaayos
+TC_15,All_3_Scenarios,Robert Brown,US_Seattle,47.60_122.33,Westlake,UW Station,09:15,At_Gate,2.50,3.25,10,30000,Cloud_Heavy|High_Beta,Amazon_Dip_-2%,Bookstore,25,Coffee_Muffin_Local
+TC_16,All_3_Scenarios,Tanaka Hiroshi,APAC_Japan,35.68_139.76,Tokyo Stn,Ueno,18:20,At_Gate,150,220,30,80000,Robotics_Heavy|Long,Yen_Crash,Electronics_Store,90,Ramen_Set_Ichiran
+TC_17,All_3_Scenarios,Sita Lakshmi,APAC_India,13.08_80.27,Central Stn,Airport,10:00,At_Gate,40,60,40,25000,Gold_Heavy|Safe,Gold_Price_Drop,Flight_Checkin,120,Lounge_Access_Visa
+TC_18,All_3_Scenarios,John Smith,US_NYC,40.71_74.00,Wall St,Brooklyn Br,16:45,At_Gate,2.75,2.75,5,100000,Bank_Heavy|Insider,Fed_Rate_Hike,Gym_Entry,45,Protein_Shake_GNC
+TC_19,All_3_Scenarios,Aarav Patel,APAC_India,23.02_72.57,Kalupur,Gift City,09:30,At_Gate,20,50,25,15000,Energy_Heavy|Stable,Oil_Price_Dip,Meeting_Point,30,Thali_Deal_Gordhan
+TC_20,All_3_Scenarios,Emma Watson,US_Chicago,41.89_87.62,Mag Mile,Navy Pier,12:15,At_Gate,2.00,3.00,20,10000,Retail_Heavy|Cyclical,Retail_Sales_Miss,Shopping_Mall,60,Shoe_Sale_Nike
+TC_21,Scenario_1_and_2,Carlos Gomez,US_Miami,25.76_80.19,Brickell,Airport,08:00,At_Gate,1.00,2.25,10,20000,Real_Estate|Risk,Housing_Crash,N/A,N/A,N/A
+TC_22,Scenario_1_and_2,Sneha Reddy,APAC_India,17.38_78.48,Begumpet,Secunderabad,18:00,At_Gate,10,30,15,50000,Pharma_Heavy|Defensive,Pharma_Index_Low,N/A,N/A,N/A
+TC_23,Scenario_1_and_2,James Bond,US_London,51.51_0.13,Bond St,Canary Wharf,09:00,At_Gate,2.50,6.50,12,10000,Def_Heavy|Stable,Geopol_Risk,N/A,N/A,N/A
+TC_24,Scenario_2_and_3,Liu Wei,APAC_China,39.90_116.40,Guomao,Sanlitun,19:30,En_Route,200,5,0,80000,EV_Heavy|Growth,EV_Subsidy_Cut,Cinema_Exit,45,HotPot_Combo_Haidilao
+TC_25,Scenario_2_and_3,Lucas Silva,US_Brazil,23.55_46.63,Paulista,Jardins,20:00,En_Route,500,10,0,15000,Agri_Heavy|Volatile,Coffee_Price_Drop,Concert_Entry,60,Caipirinha_2for1_Bar
+TC_26,Scenario_2_and_3,Fatima Al-Sayed,APAC_Dubai,25.20_55.27,Burj Khalifa,Mall of Emirates,14:00,En_Route,1000,15,0,200000,Oil_Heavy|Wealth,OPEC_Meeting,Mall_Entry,90,Luxury_Spa_Offer
+TC_27,Scenario_1_and_3,Yuki Tanaka,APAC_Japan,34.69_135.50,Osaka Stn,Namba,17:00,At_Gate,100,250,20,N/A,N/A,N/A,Game_Arcade,30,Token_Bonus_Sega
+TC_28,Scenario_1_and_3,Pooja Hegde,APAC_India,12.97_77.59,Majestic,Whitefield,08:30,At_Gate,20,45,25,N/A,N/A,N/A,Breakfast_Point,20,Masala_Dosa_MTR
+TC_29,Scenario_1_and_2,Michael Chen,US_SF,37.48_122.14,Menlo Park,Palo Alto,10:00,At_Gate,1.00,4.00,5,1000000,Meta_Heavy|Founder,Tech_Reg_News,N/A,N/A,N/A
+TC_30,Scenario_2_and_3,Chen Li,APAC_Singapore,1.35_103.81,Bishan,Orchard,13:00,En_Route,50,3,0,12000,Bank_Heavy|Yield,Div_Cut_DBS,Library_Exit,40,Coffee_Cake_CBTL
+TC_31,Scenario_1_and_2,Sophie Martin,US_Paris,48.85_2.35,Bastille,Louvre,09:15,At_Gate,1.00,1.90,15,5000,Luxury_Heavy|Cyclical,LVMH_Dip,N/A,N/A,N/A
+TC_32,Scenario_2_and_3,Vijay Kumar,APAC_India,13.08_80.20,Anna Nagar,Koyambedu,16:00,En_Route,500,20,0,30000,PSU_Heavy|Value,Election_Results,Mall_Entry,50,Movie_Combo_PVR
+TC_33,Scenario_1_and_3,Elena Petrova,US_Moscow,55.75_37.61,Red Square,Gorky Park,18:45,At_Gate,30,60,20,N/A,N/A,N/A,Theater_Exit,45,Vodka_Tasting_Bar
+TC_34,Scenario_1_and_2,Ali Khan,APAC_Pakistan,24.86_67.00,Saddar,Clifton,09:00,At_Gate,20,50,15,8000,Textile_Heavy|Risk,Export_Ban,N/A,N/A,N/A
+TC_35,Scenario_2_and_3,Grace Kim,US_Seoul,37.56_126.97,Gangnam,Itaewon,20:30,En_Route,10000,2000,0,50000,Elec_Heavy|Stable,Samsung_Earnings,Bar_Hop,60,Soju_Set_Pocha
+TC_36,Scenario_1_Only,Rajesh K,APAC_India,28.70_77.10,Pitampura,Kashmere Gate,08:45,At_Gate,10,35,18,N/A,N/A,N/A,N/A,N/A,N/A
+TC_37,Scenario_1_Only,William Turner,US_Sydney,33.86_151.20,Wynyard,Town Hall,17:15,At_Gate,2.00,4.50,10,N/A,N/A,N/A,N/A,N/A,N/A
+TC_38,Scenario_1_Only,Zara Sheikh,APAC_India,19.21_72.97,Thane,Dadar,09:10,At_Gate,15,40,30,N/A,N/A,N/A,N/A,N/A,N/A
+TC_39,Scenario_1_Only,Lucas Fernandez,US_Miami,25.76_80.19,South Beach,Downtown,19:00,At_Gate,1.50,5.00,12,N/A,N/A,N/A,N/A,N/A,N/A
+TC_40,Scenario_1_Only,Hans Muller,APAC_Berlin,52.52_13.40,Alexanderpl,Zoo Stn,08:00,At_Gate,1.50,3.20,8,N/A,N/A,N/A,N/A,N/A,N/A
+TC_41,Scenario_1_Only,Deepika P,APAC_India,12.97_77.59,Bangalore Cant,Yeshwantpur,18:30,At_Gate,20,50,25,N/A,N/A,N/A,N/A,N/A,N/A
+TC_42,Scenario_1_Only,Wei Zhang,APAC_China,30.27_120.15,Hangzhou East,West Lake,10:00,At_Gate,5,10,20,N/A,N/A,N/A,N/A,N/A,N/A
+TC_43,Scenario_1_Only,Ahmed Al-Fayed,US_Riyadh,24.71_46.67,KAFD,Olaya,19:30,At_Gate,10,25,10,N/A,N/A,N/A,N/A,N/A,N/A
+TC_44,Scenario_1_Only,David Cohen,US_SiliconVal,37.38_122.08,Mountain View,San Jose,09:45,At_Gate,2.00,6.00,15,N/A,N/A,N/A,N/A,N/A,N/A
+TC_45,Scenario_1_Only,Ananya Singh,APAC_India,19.07_72.87,Marine Lines,Bandra,20:00,At_Gate,15,35,30,N/A,N/A,N/A,N/A,N/A,N/A
+TC_46,Scenario_1_Only,Oliver Smith,US_London,51.50_0.12,Westminster,Bank,09:15,At_Gate,2.00,5.50,5,N/A,N/A,N/A,N/A,N/A,N/A
+TC_47,Scenario_1_Only,Lakshmi Narayanan,US_NY,41.03_73.70,White Plains,Grand Central,08:20,At_Gate,5.00,12.50,20,N/A,N/A,N/A,N/A,N/A,N/A
+TC_48,Scenario_1_Only,Rajesh Verma,APAC_India,28.61_77.20,Delhi Cantt,Gurgaon,17:00,At_Gate,30,60,40,N/A,N/A,N/A,N/A,N/A,N/A
+TC_49,Scenario_1_Only,Thomas Anderson,US_Texas,30.26_97.74,Downtown,Giga Factory,07:30,At_Gate,1.00,5.00,10,N/A,N/A,N/A,N/A,N/A,N/A
+TC_50,Scenario_1_Only,Karthik Krishnan,US_SF,37.77_122.41,Civic Center,Glen Park,18:15,At_Gate,2.00,4.00,15,N/A,N/A,N/A,N/A,N/A,N/A
