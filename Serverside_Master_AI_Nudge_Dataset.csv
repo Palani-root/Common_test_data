@@ -1,0 +1,801 @@
+User_ID,User_Name,City,Current_Station,Current_Time,Trips_Last_30_Days,Avg_Monthly_Spend_INR,Typical_Travel_Pattern,Common_Destinations_Type,Current_Card_Balance_INR,Live_Congestion_Level,AI_Nudge_Recommendation
+USR0001,Riya Chopra,Mumbai,Marol Naka,09:43,50,1085,Mon-Sat (Variable),Campus <-> Hangout Zones,412,High,No Nudge
+USR0002,Reyansh Jain,Mumbai,Airport Road,08:45,20,1337,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),38,High,Refill Alert: You have 20 recent trips but only ₹38 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0003,Aryan Agarwal,Hyderabad,Secunderabad East,10:23,17,1040,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),383,High,No Nudge
+USR0004,Myra Gupta,Delhi,Chandni Chowk,09:41,39,1416,Mon-Sat (Variable),Campus <-> Hangout Zones,235,High,No Nudge
+USR0005,Fatima Jain,Kolkata,Rabindra Sadan,15:23,42,2706,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),45,Low,Refill Alert: You have 42 recent trips but only ₹45 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0006,Vihaan Desai,Chennai,Airport,08:41,46,2634,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 46 recent trips but only ₹14 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0007,Lakshmi Singh,Bangalore,MG Road,08:58,52,2055,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),178,High,No Nudge
+USR0008,Divya Agarwal,Delhi,HUDA City Centre,09:57,47,1520,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),454,High,No Nudge
+USR0009,Ananya Sharma,Bangalore,Baiyappanahalli,15:49,4,347,Weekends Only,Random / Malls,305,Low,No Nudge
+USR0010,Reyansh Singh,Hyderabad,Ameerpet,17:27,28,1273,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),28,High,Refill Alert: You have 28 recent trips but only ₹28 left. Rush hour at Ameerpet is peaking. Auto-load ₹200?
+USR0011,Sai Menon,Kolkata,Dum Dum,09:04,38,1418,Mon-Sat (Variable),Campus <-> Hangout Zones,25,High,Refill Alert: You have 38 recent trips but only ₹25 left. Rush hour at Dum Dum is peaking. Auto-load ₹200?
+USR0012,Aarav Bose,Kolkata,Kalighat,19:59,48,2575,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),25,High,Refill Alert: You have 48 recent trips but only ₹25 left. Rush hour at Kalighat is peaking. Auto-load ₹200?
+USR0013,Myra Mishra,Bangalore,MG Road,08:26,58,2938,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),8,High,Refill Alert: You have 58 recent trips but only ₹8 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0014,Pari Bose,Hyderabad,Hitech City,18:20,44,2092,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),236,High,No Nudge
+USR0015,Karthik Bose,Bangalore,MG Road,12:09,28,1382,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),17,Low,Refill Alert: You have 28 recent trips but only ₹17 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0016,Lakshmi Gupta,Chennai,Airport,10:38,34,1278,Mon-Sat (Variable),Campus <-> Hangout Zones,43,High,Refill Alert: You have 34 recent trips but only ₹43 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0017,Aryan Chopra,Bangalore,Trinity,13:44,51,2773,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),375,Low,No Nudge
+USR0018,Manish Kumar,Delhi,Lajpat Nagar,10:58,42,1106,Mon-Sat (Variable),Campus <-> Hangout Zones,40,High,Refill Alert: You have 42 recent trips but only ₹40 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0019,Vijay Verma,Hyderabad,Secunderabad East,11:21,44,1662,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,Low,Refill Alert: You have 44 recent trips but only ₹17 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0020,Myra Sharma,Chennai,Alandur,09:22,36,1498,Mon-Sat (Variable),Campus <-> Hangout Zones,214,High,No Nudge
+USR0021,Rahul Chopra,Mumbai,Airport Road,13:48,38,1236,Mon-Sat (Variable),Campus <-> Hangout Zones,262,Low,No Nudge
+USR0022,Vijay Joshi,Mumbai,Airport Road,10:16,51,2217,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),36,High,Refill Alert: You have 51 recent trips but only ₹36 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0023,Anjali Jain,Mumbai,Ghatkopar,08:56,40,1938,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),33,High,Refill Alert: You have 40 recent trips but only ₹33 left. Rush hour at Ghatkopar is peaking. Auto-load ₹200?
+USR0024,Sai Mishra,Kolkata,Maidan,19:53,15,1178,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),168,High,No Nudge
+USR0025,Sneha Mehta,Delhi,Kashmere Gate,18:54,47,2169,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 47 recent trips but only ₹14 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0026,Arjun Mishra,Chennai,Chennai Central,17:05,41,1533,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 41 recent trips but only ₹32 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0027,Vihaan Chatterjee,Delhi,Dwarka Sec 21,13:12,52,2651,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),18,Low,Refill Alert: You have 52 recent trips but only ₹18 left. Rush hour at Dwarka Sec 21 is peaking. Auto-load ₹200?
+USR0028,Karthik Chatterjee,Hyderabad,Secunderabad East,14:23,45,2005,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),376,Low,No Nudge
+USR0029,Ravi Desai,Kolkata,Netaji Bhavan,08:36,9,341,Weekends Only,Random / Malls,24,High,Low Balance: ₹24. Please recharge at the counter.
+USR0030,Ravi Gupta,Chennai,Chennai Central,18:17,30,1482,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),33,High,Refill Alert: You have 30 recent trips but only ₹33 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0031,Rohit Nair,Kolkata,Dum Dum,18:12,41,1507,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 41 recent trips but only ₹16 left. Rush hour at Dum Dum is peaking. Auto-load ₹200?
+USR0032,Vihaan Patel,Chennai,Vadapalani,10:31,57,1573,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),462,High,No Nudge
+USR0033,Rohit Bose,Mumbai,Ghatkopar,09:11,37,1455,Mon-Sat (Variable),Campus <-> Hangout Zones,18,High,Refill Alert: You have 37 recent trips but only ₹18 left. Rush hour at Ghatkopar is peaking. Auto-load ₹200?
+USR0034,Priya Iyer,Chennai,Guindy,10:35,60,1980,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),45,High,Refill Alert: You have 60 recent trips but only ₹45 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0035,Ananya Yadav,Delhi,HUDA City Centre,15:19,18,849,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),289,Low,No Nudge
+USR0036,Anjali Gowda,Hyderabad,Secunderabad East,09:58,49,1575,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),28,High,Refill Alert: You have 49 recent trips but only ₹28 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0037,Amit Rao,Delhi,Rajiv Chowk,09:10,25,1109,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),29,High,Refill Alert: You have 25 recent trips but only ₹29 left. Rush hour at Rajiv Chowk is peaking. Auto-load ₹200?
+USR0038,Saanvi Mehta,Delhi,Hauz Khas,16:01,49,2058,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),214,Low,No Nudge
+USR0039,Vijay Agarwal,Delhi,Kashmere Gate,13:49,60,1658,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),296,Low,No Nudge
+USR0040,Deepa Pillai,Mumbai,Azad Nagar,18:13,40,2186,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),477,High,No Nudge
+USR0041,Vikram Chopra,Hyderabad,Secunderabad East,11:06,18,982,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),40,Low,Refill Alert: You have 18 recent trips but only ₹40 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0042,Meera Mehta,Bangalore,Vidhana Soudha,10:23,22,1212,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),20,High,Refill Alert: You have 22 recent trips but only ₹20 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0043,Riya Gupta,Kolkata,Maidan,18:00,49,1848,Mon-Sat (Variable),Campus <-> Hangout Zones,365,High,No Nudge
+USR0044,Rohit Gupta,Kolkata,Dum Dum,08:58,46,2653,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),395,High,No Nudge
+USR0045,Ravi Sharma,Kolkata,Netaji Bhavan,10:09,42,1693,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,High,Refill Alert: You have 42 recent trips but only ₹17 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0046,Muhammad Joshi,Hyderabad,Miyapur,13:53,60,1647,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,Low,Refill Alert: You have 60 recent trips but only ₹20 left. Rush hour at Miyapur is peaking. Auto-load ₹200?
+USR0047,Vihaan Joshi,Chennai,Koyambedu,09:56,57,1823,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 57 recent trips but only ₹40 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0048,Kavita Chatterjee,Delhi,New Delhi,19:47,41,1300,Mon-Sat (Variable),Campus <-> Hangout Zones,23,High,Refill Alert: You have 41 recent trips but only ₹23 left. Rush hour at New Delhi is peaking. Auto-load ₹200?
+USR0049,Arjun Jain,Hyderabad,Raidurg,12:04,42,2139,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),246,Low,No Nudge
+USR0050,Rahul Mukherjee,Delhi,Lajpat Nagar,17:01,55,1557,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),30,High,Refill Alert: You have 55 recent trips but only ₹30 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0051,Diya Reddy,Hyderabad,Raidurg,16:12,19,1248,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),12,Low,Refill Alert: You have 19 recent trips but only ₹12 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0052,Vihaan Pillai,Bangalore,Vidhana Soudha,10:08,60,1883,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 60 recent trips but only ₹15 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0053,Aarav Khan,Delhi,Noida City Centre,10:25,48,2236,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),341,High,No Nudge
+USR0054,Sanjay Mukherjee,Kolkata,Rabindra Sadan,19:27,20,1310,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),438,High,No Nudge
+USR0055,Neha Rao,Bangalore,Cubbon Park,19:10,36,1166,Mon-Sat (Variable),Campus <-> Hangout Zones,23,High,Refill Alert: You have 36 recent trips but only ₹23 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0056,Aarav Menon,Kolkata,Esplanade,10:23,19,1387,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),305,High,No Nudge
+USR0057,Vijay Menon,Bangalore,Vidhana Soudha,19:45,56,2835,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),330,High,No Nudge
+USR0058,Reyansh Yadav,Delhi,Lajpat Nagar,17:19,38,1273,Mon-Sat (Variable),Campus <-> Hangout Zones,15,High,Refill Alert: You have 38 recent trips but only ₹15 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0059,Kiara Patel,Mumbai,Versova,16:00,30,1363,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),447,Low,No Nudge
+USR0060,Arjun Desai,Delhi,Lajpat Nagar,17:55,56,1753,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),482,High,No Nudge
+USR0061,Meera Bose,Hyderabad,Secunderabad East,10:51,43,2098,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),348,High,No Nudge
+USR0062,Sneha Sharma,Chennai,Egmore,09:48,15,1376,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),6,High,Low Balance: ₹6. Please recharge at the counter.
+USR0063,Sai Kumar,Hyderabad,LB Nagar,13:04,20,916,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),139,Low,No Nudge
+USR0064,Aryan Banerjee,Hyderabad,Raidurg,10:39,54,2684,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 54 recent trips but only ₹14 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0065,Divya Agarwal,Mumbai,Chakala,09:57,43,2859,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),190,High,No Nudge
+USR0066,Aadhya Bose,Mumbai,Ghatkopar,12:35,26,1481,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),139,Low,No Nudge
+USR0067,Aadhya Menon,Hyderabad,Hitech City,13:12,17,1004,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),149,Low,No Nudge
+USR0068,Vikram Das,Chennai,Vadapalani,13:23,47,1883,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),225,Low,No Nudge
+USR0069,Divya Sharma,Bangalore,Halasuru,09:14,42,1882,Mon-Sat (Variable),Campus <-> Hangout Zones,195,High,No Nudge
+USR0070,Myra Reddy,Delhi,HUDA City Centre,13:27,17,1269,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),406,Low,No Nudge
+USR0071,Reyansh Banerjee,Bangalore,Halasuru,11:03,46,1605,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),25,Low,Refill Alert: You have 46 recent trips but only ₹25 left. Rush hour at Halasuru is peaking. Auto-load ₹200?
+USR0072,Vijay Yadav,Bangalore,Baiyappanahalli,15:02,1,130,Weekends Only,Random / Malls,34,Low,Low Balance: ₹34. Please recharge at the counter.
+USR0073,Kavita Patel,Bangalore,Majestic,18:30,60,2145,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),10,High,Refill Alert: You have 60 recent trips but only ₹10 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0074,Fatima Joshi,Mumbai,Chakala,11:22,20,925,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),18,Low,Refill Alert: You have 20 recent trips but only ₹18 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0075,Saanvi Gowda,Hyderabad,LB Nagar,14:22,16,1443,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),29,Low,Refill Alert: You have 16 recent trips but only ₹29 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0076,Anika Ghosh,Mumbai,Versova,10:46,53,2318,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),39,High,Refill Alert: You have 53 recent trips but only ₹39 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0077,Kavita Ghosh,Hyderabad,Hitech City,10:21,25,1264,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),28,High,Refill Alert: You have 25 recent trips but only ₹28 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0078,Manish Gupta,Hyderabad,Miyapur,09:41,56,2963,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),41,High,Refill Alert: You have 56 recent trips but only ₹41 left. Rush hour at Miyapur is peaking. Auto-load ₹200?
+USR0079,Aditya Das,Bangalore,Baiyappanahalli,12:21,43,1143,Mon-Sat (Variable),Campus <-> Hangout Zones,42,Low,Refill Alert: You have 43 recent trips but only ₹42 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0080,Aadhya Ghosh,Mumbai,Saki Naka,15:36,43,2849,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),206,Low,No Nudge
+USR0081,Ravi Chatterjee,Chennai,Guindy,13:06,48,1592,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),143,Low,No Nudge
+USR0082,Sneha Chatterjee,Kolkata,Park Street,19:00,23,1299,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),284,High,No Nudge
+USR0083,Vihaan Reddy,Chennai,Alandur,18:52,4,286,Weekends Only,Random / Malls,308,High,No Nudge
+USR0084,Vihaan Khan,Mumbai,Azad Nagar,14:08,43,2988,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),305,Low,No Nudge
+USR0085,Reyansh Malhotra,Mumbai,Azad Nagar,12:05,47,2573,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),21,Low,Refill Alert: You have 47 recent trips but only ₹21 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0086,Kiara Mukherjee,Kolkata,Kalighat,10:23,41,2411,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),45,High,Refill Alert: You have 41 recent trips but only ₹45 left. Rush hour at Kalighat is peaking. Auto-load ₹200?
+USR0087,Deepa Banerjee,Bangalore,Vidhana Soudha,11:19,45,2454,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),28,Low,Refill Alert: You have 45 recent trips but only ₹28 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0088,Manish Yadav,Delhi,Lajpat Nagar,19:27,57,2226,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),37,High,Refill Alert: You have 57 recent trips but only ₹37 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0089,Priya Menon,Mumbai,WEH,18:25,22,1339,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),345,High,No Nudge
+USR0090,Muhammad Chopra,Kolkata,Netaji Bhavan,18:22,56,2211,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 56 recent trips but only ₹16 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0091,Ananya Sharma,Chennai,Vadapalani,19:01,46,2953,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),171,High,No Nudge
+USR0092,Krishna Gowda,Delhi,Lajpat Nagar,17:39,16,806,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),371,High,No Nudge
+USR0093,Ravi Patel,Bangalore,Baiyappanahalli,18:42,19,951,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),401,High,No Nudge
+USR0094,Krishna Malhotra,Chennai,Thirumangalam,08:22,47,1920,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),432,High,No Nudge
+USR0095,Myra Yadav,Hyderabad,Secunderabad East,10:21,10,426,Weekends Only,Random / Malls,35,High,Low Balance: ₹35. Please recharge at the counter.
+USR0096,Myra Kumar,Chennai,Guindy,12:48,48,1331,Mon-Sat (Variable),Campus <-> Hangout Zones,26,Low,Refill Alert: You have 48 recent trips but only ₹26 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0097,Neha Verma,Mumbai,Airport Road,19:47,15,1023,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),104,High,No Nudge
+USR0098,Lakshmi Mukherjee,Bangalore,Trinity,09:51,44,1006,Mon-Sat (Variable),Campus <-> Hangout Zones,20,High,Refill Alert: You have 44 recent trips but only ₹20 left. Rush hour at Trinity is peaking. Auto-load ₹200?
+USR0099,Meera Jain,Mumbai,Saki Naka,08:32,27,1366,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),222,High,No Nudge
+USR0100,Sai Khan,Mumbai,Azad Nagar,08:43,56,2889,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),5,High,Refill Alert: You have 56 recent trips but only ₹5 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0101,Ishaan Pillai,Delhi,HUDA City Centre,10:19,39,1370,Mon-Sat (Variable),Campus <-> Hangout Zones,14,High,Refill Alert: You have 39 recent trips but only ₹14 left. Rush hour at HUDA City Centre is peaking. Auto-load ₹200?
+USR0102,Reyansh Yadav,Bangalore,MG Road,11:15,43,2947,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),274,Low,No Nudge
+USR0103,Ananya Iyer,Bangalore,MG Road,12:38,42,2022,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),19,Low,Refill Alert: You have 42 recent trips but only ₹19 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0104,Vihaan Desai,Chennai,Koyambedu,15:10,2,376,Weekends Only,Random / Malls,10,Low,Low Balance: ₹10. Please recharge at the counter.
+USR0105,Pari Sharma,Kolkata,Rabindra Sadan,18:16,55,1509,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),258,High,No Nudge
+USR0106,Manish Iyer,Chennai,Airport,17:12,46,2436,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),5,High,Refill Alert: You have 46 recent trips but only ₹5 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0107,Krishna Menon,Hyderabad,Raidurg,17:32,25,1164,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),7,High,Refill Alert: You have 25 recent trips but only ₹7 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0108,Deepa Mishra,Chennai,Koyambedu,19:48,47,2900,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),27,High,Refill Alert: You have 47 recent trips but only ₹27 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0109,Aarav Mishra,Delhi,Lajpat Nagar,10:36,52,2554,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),11,High,Refill Alert: You have 52 recent trips but only ₹11 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0110,Anika Verma,Mumbai,Ghatkopar,11:11,36,1550,Mon-Sat (Variable),Campus <-> Hangout Zones,180,Low,No Nudge
+USR0111,Lakshmi Iyer,Mumbai,Andheri,19:45,59,1597,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 59 recent trips but only ₹15 left. Rush hour at Andheri is peaking. Auto-load ₹200?
+USR0112,Rohit Yadav,Kolkata,Esplanade,11:41,43,2920,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),19,Low,Refill Alert: You have 43 recent trips but only ₹19 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0113,Sanjay Iyer,Delhi,Hauz Khas,09:46,34,1576,Mon-Sat (Variable),Campus <-> Hangout Zones,26,High,Refill Alert: You have 34 recent trips but only ₹26 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0114,Deepa Bose,Hyderabad,Hitech City,10:20,47,2403,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),244,High,No Nudge
+USR0115,Karthik Rao,Chennai,Alandur,09:16,49,1273,Mon-Sat (Variable),Campus <-> Hangout Zones,37,High,Refill Alert: You have 49 recent trips but only ₹37 left. Rush hour at Alandur is peaking. Auto-load ₹200?
+USR0116,Priya Ghosh,Chennai,Thirumangalam,10:03,60,1886,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 60 recent trips but only ₹40 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0117,Ishaan Singh,Hyderabad,Secunderabad East,18:43,23,1134,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),137,High,No Nudge
+USR0118,Manish Nair,Chennai,Vadapalani,17:54,47,2884,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),389,High,No Nudge
+USR0119,Deepa Malhotra,Delhi,Chandni Chowk,12:39,20,986,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),379,Low,No Nudge
+USR0120,Aditya Gowda,Bangalore,Halasuru,15:00,47,1626,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),45,Low,Refill Alert: You have 47 recent trips but only ₹45 left. Rush hour at Halasuru is peaking. Auto-load ₹200?
+USR0121,Aarav Malhotra,Chennai,Thirumangalam,17:18,53,2391,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),44,High,Refill Alert: You have 53 recent trips but only ₹44 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0122,Karthik Bose,Kolkata,Kalighat,15:21,47,1742,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),323,Low,No Nudge
+USR0123,Rahul Sharma,Chennai,Chennai Central,19:27,45,2489,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),288,High,No Nudge
+USR0124,Kavita Verma,Delhi,Dwarka Sec 21,19:14,18,924,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),199,High,No Nudge
+USR0125,Arjun Gupta,Delhi,Dwarka Sec 21,16:56,42,2909,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),33,Low,Refill Alert: You have 42 recent trips but only ₹33 left. Rush hour at Dwarka Sec 21 is peaking. Auto-load ₹200?
+USR0126,Manish Jain,Bangalore,Baiyappanahalli,16:35,42,1660,Mon-Sat (Variable),Campus <-> Hangout Zones,14,Low,Refill Alert: You have 42 recent trips but only ₹14 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0127,Priya Gupta,Hyderabad,Raidurg,08:53,33,1246,Mon-Sat (Variable),Campus <-> Hangout Zones,37,High,Refill Alert: You have 33 recent trips but only ₹37 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0128,Ishaan Patel,Bangalore,Vidhana Soudha,08:49,52,2241,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),367,High,No Nudge
+USR0129,Aadhya Bose,Chennai,Airport,18:44,56,1728,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),199,High,No Nudge
+USR0130,Sanjay Chopra,Kolkata,Maidan,16:33,5,362,Weekends Only,Random / Malls,299,Low,No Nudge
+USR0131,Fatima Singh,Hyderabad,Miyapur,10:17,46,1546,Mon-Sat (Variable),Campus <-> Hangout Zones,17,High,Refill Alert: You have 46 recent trips but only ₹17 left. Rush hour at Miyapur is peaking. Auto-load ₹200?
+USR0132,Riya Ghosh,Bangalore,MG Road,18:06,50,2768,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),39,High,Refill Alert: You have 50 recent trips but only ₹39 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0133,Reyansh Gupta,Delhi,Kashmere Gate,18:04,54,1790,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),480,High,No Nudge
+USR0134,Muhammad Kumar,Bangalore,Halasuru,09:00,57,1757,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),34,High,Refill Alert: You have 57 recent trips but only ₹34 left. Rush hour at Halasuru is peaking. Auto-load ₹200?
+USR0135,Krishna Agarwal,Hyderabad,Miyapur,08:16,30,845,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),31,High,Refill Alert: You have 30 recent trips but only ₹31 left. Rush hour at Miyapur is peaking. Auto-load ₹200?
+USR0136,Pooja Desai,Mumbai,Chakala,14:36,8,102,Weekends Only,Random / Malls,40,Low,Low Balance: ₹40. Please recharge at the counter.
+USR0137,Aarav Gupta,Bangalore,Baiyappanahalli,17:45,58,2994,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,High,Refill Alert: You have 58 recent trips but only ₹17 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0138,Diya Verma,Mumbai,Andheri,08:02,53,2432,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),8,High,Refill Alert: You have 53 recent trips but only ₹8 left. Rush hour at Andheri is peaking. Auto-load ₹200?
+USR0139,Sneha Verma,Kolkata,Esplanade,14:26,60,2184,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),11,Low,Refill Alert: You have 60 recent trips but only ₹11 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0140,Sai Mukherjee,Mumbai,Saki Naka,08:02,39,1414,Mon-Sat (Variable),Campus <-> Hangout Zones,38,High,Refill Alert: You have 39 recent trips but only ₹38 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0141,Saanvi Dutta,Mumbai,Chakala,13:39,3,320,Weekends Only,Random / Malls,10,Low,Low Balance: ₹10. Please recharge at the counter.
+USR0142,Kiara Iyer,Chennai,Koyambedu,17:18,26,1405,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),168,High,No Nudge
+USR0143,Suresh Bose,Mumbai,Chakala,17:02,54,2798,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),26,High,Refill Alert: You have 54 recent trips but only ₹26 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0144,Pari Kumar,Chennai,Guindy,08:19,23,813,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),37,High,Refill Alert: You have 23 recent trips but only ₹37 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0145,Reyansh Khan,Chennai,Vadapalani,09:14,56,1668,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),21,High,Refill Alert: You have 56 recent trips but only ₹21 left. Rush hour at Vadapalani is peaking. Auto-load ₹200?
+USR0146,Ananya Khan,Chennai,Vadapalani,19:37,26,1423,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),7,High,Refill Alert: You have 26 recent trips but only ₹7 left. Rush hour at Vadapalani is peaking. Auto-load ₹200?
+USR0147,Vihaan Nair,Chennai,Airport,11:42,45,2161,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,Low,Refill Alert: You have 45 recent trips but only ₹20 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0148,Vikram Reddy,Delhi,New Delhi,11:08,48,1529,Mon-Sat (Variable),Campus <-> Hangout Zones,436,Low,No Nudge
+USR0149,Neha Das,Bangalore,Halasuru,09:27,6,161,Weekends Only,Random / Malls,8,High,Low Balance: ₹8. Please recharge at the counter.
+USR0150,Kavita Bose,Bangalore,MG Road,19:55,30,1531,Mon-Sat (Variable),Campus <-> Hangout Zones,21,High,Refill Alert: You have 30 recent trips but only ₹21 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0151,Reyansh Menon,Mumbai,Chakala,09:47,56,2817,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),39,High,Refill Alert: You have 56 recent trips but only ₹39 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0152,Divya Mishra,Chennai,Chennai Central,17:36,41,1500,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),124,High,No Nudge
+USR0153,Deepa Yadav,Mumbai,Saki Naka,09:46,60,2462,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),23,High,Refill Alert: You have 60 recent trips but only ₹23 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0154,Meera Yadav,Hyderabad,Secunderabad East,17:20,39,1136,Mon-Sat (Variable),Campus <-> Hangout Zones,39,High,Refill Alert: You have 39 recent trips but only ₹39 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0155,Fatima Malhotra,Kolkata,Esplanade,15:11,41,1988,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),412,Low,No Nudge
+USR0156,Neha Patel,Kolkata,Rabindra Sadan,09:49,26,1261,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),27,High,Refill Alert: You have 26 recent trips but only ₹27 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0157,Vihaan Reddy,Delhi,Hauz Khas,11:39,52,2055,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),44,Low,Refill Alert: You have 52 recent trips but only ₹44 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0158,Manish Dutta,Delhi,New Delhi,09:03,27,1485,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),318,High,No Nudge
+USR0159,Aarav Desai,Mumbai,Marol Naka,12:38,26,1018,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),10,Low,Refill Alert: You have 26 recent trips but only ₹10 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0160,Vihaan Jain,Bangalore,Cubbon Park,11:56,54,2531,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),23,Low,Refill Alert: You have 54 recent trips but only ₹23 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0161,Arjun Desai,Hyderabad,Secunderabad East,08:11,58,1707,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),42,High,Refill Alert: You have 58 recent trips but only ₹42 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0162,Sai Menon,Delhi,Rajiv Chowk,17:29,57,2443,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),264,High,No Nudge
+USR0163,Anjali Reddy,Bangalore,Halasuru,16:21,50,1119,Mon-Sat (Variable),Campus <-> Hangout Zones,6,Low,Refill Alert: You have 50 recent trips but only ₹6 left. Rush hour at Halasuru is peaking. Auto-load ₹200?
+USR0164,Vijay Reddy,Kolkata,Dum Dum,14:56,41,1633,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),11,Low,Refill Alert: You have 41 recent trips but only ₹11 left. Rush hour at Dum Dum is peaking. Auto-load ₹200?
+USR0165,Divya Joshi,Mumbai,Azad Nagar,17:55,19,1192,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),293,High,No Nudge
+USR0166,Sanjay Malhotra,Delhi,Kashmere Gate,08:09,51,1904,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),265,High,No Nudge
+USR0167,Rahul Agarwal,Kolkata,Esplanade,19:42,2,138,Weekends Only,Random / Malls,18,High,Low Balance: ₹18. Please recharge at the counter.
+USR0168,Meera Rao,Bangalore,Baiyappanahalli,10:45,56,2221,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),43,High,Refill Alert: You have 56 recent trips but only ₹43 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0169,Sneha Mukherjee,Delhi,HUDA City Centre,09:46,25,1228,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),476,High,No Nudge
+USR0170,Sanjay Mishra,Bangalore,Majestic,18:26,51,2707,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),235,High,No Nudge
+USR0171,Pooja Reddy,Hyderabad,Hitech City,14:23,51,2120,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),33,Low,Refill Alert: You have 51 recent trips but only ₹33 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0172,Vikram Menon,Hyderabad,Raidurg,19:48,40,1691,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 40 recent trips but only ₹32 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0173,Divya Patel,Kolkata,Dum Dum,13:51,37,1142,Mon-Sat (Variable),Campus <-> Hangout Zones,44,Low,Refill Alert: You have 37 recent trips but only ₹44 left. Rush hour at Dum Dum is peaking. Auto-load ₹200?
+USR0174,Riya Pillai,Hyderabad,Hitech City,19:59,21,1436,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),27,High,Refill Alert: You have 21 recent trips but only ₹27 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0175,Muhammad Menon,Bangalore,Majestic,10:13,51,1962,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 51 recent trips but only ₹16 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0176,Rohit Dutta,Bangalore,MG Road,11:25,2,113,Weekends Only,Random / Malls,21,Low,Low Balance: ₹21. Please recharge at the counter.
+USR0177,Aadhya Mukherjee,Delhi,Rajiv Chowk,16:25,60,1757,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),22,Low,Refill Alert: You have 60 recent trips but only ₹22 left. Rush hour at Rajiv Chowk is peaking. Auto-load ₹200?
+USR0178,Anjali Gupta,Kolkata,Netaji Bhavan,09:14,42,2691,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),22,High,Refill Alert: You have 42 recent trips but only ₹22 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0179,Kiara Dutta,Delhi,Chandni Chowk,08:26,42,2004,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),269,High,No Nudge
+USR0180,Karthik Chatterjee,Bangalore,MG Road,16:45,43,1111,Mon-Sat (Variable),Campus <-> Hangout Zones,495,Low,No Nudge
+USR0181,Sanjay Reddy,Hyderabad,LB Nagar,09:29,41,2105,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),30,High,Refill Alert: You have 41 recent trips but only ₹30 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0182,Aarav Ghosh,Chennai,Chennai Central,18:22,51,2630,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,High,Refill Alert: You have 51 recent trips but only ₹17 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0183,Vikram Mishra,Mumbai,Versova,19:03,41,1296,Mon-Sat (Variable),Campus <-> Hangout Zones,327,High,No Nudge
+USR0184,Divya Menon,Chennai,Egmore,18:44,46,1014,Mon-Sat (Variable),Campus <-> Hangout Zones,12,High,Refill Alert: You have 46 recent trips but only ₹12 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0185,Anjali Jain,Chennai,Egmore,16:11,20,1055,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),6,Low,Refill Alert: You have 20 recent trips but only ₹6 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0186,Arjun Chopra,Delhi,New Delhi,08:14,40,1702,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,High,Refill Alert: You have 40 recent trips but only ₹17 left. Rush hour at New Delhi is peaking. Auto-load ₹200?
+USR0187,Diya Khan,Chennai,Guindy,16:23,57,2870,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),41,Low,Refill Alert: You have 57 recent trips but only ₹41 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0188,Amit Desai,Bangalore,MG Road,09:24,52,2945,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 52 recent trips but only ₹40 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0189,Vihaan Jain,Kolkata,Rabindra Sadan,17:59,47,2108,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),5,High,Refill Alert: You have 47 recent trips but only ₹5 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0190,Anjali Bose,Bangalore,Cubbon Park,09:49,51,2321,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),28,High,Refill Alert: You have 51 recent trips but only ₹28 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0191,Sneha Joshi,Mumbai,Marol Naka,09:37,49,1972,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),31,High,Refill Alert: You have 49 recent trips but only ₹31 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0192,Ananya Banerjee,Mumbai,Saki Naka,09:03,45,2466,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),325,High,No Nudge
+USR0193,Ravi Chatterjee,Kolkata,Esplanade,18:26,60,2806,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),448,High,No Nudge
+USR0194,Deepa Pillai,Hyderabad,Secunderabad East,17:58,43,1675,Mon-Sat (Variable),Campus <-> Hangout Zones,34,High,Refill Alert: You have 43 recent trips but only ₹34 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0195,Karthik Dutta,Hyderabad,LB Nagar,18:07,40,2084,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),9,High,Refill Alert: You have 40 recent trips but only ₹9 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0196,Pari Pillai,Chennai,Guindy,08:31,21,1171,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),10,High,Refill Alert: You have 21 recent trips but only ₹10 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0197,Reyansh Singh,Delhi,Chandni Chowk,11:54,58,1959,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),24,Low,Refill Alert: You have 58 recent trips but only ₹24 left. Rush hour at Chandni Chowk is peaking. Auto-load ₹200?
+USR0198,Sneha Menon,Chennai,Thirumangalam,18:47,44,2245,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 44 recent trips but only ₹13 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0199,Anika Malhotra,Hyderabad,Raidurg,11:36,29,1313,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),262,Low,No Nudge
+USR0200,Reyansh Singh,Hyderabad,Hitech City,17:30,47,2703,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),34,High,Refill Alert: You have 47 recent trips but only ₹34 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0201,Fatima Joshi,Delhi,Kashmere Gate,18:25,48,1849,Mon-Sat (Variable),Campus <-> Hangout Zones,41,High,Refill Alert: You have 48 recent trips but only ₹41 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0202,Vikram Kumar,Hyderabad,Ameerpet,17:05,5,155,Weekends Only,Random / Malls,36,High,Low Balance: ₹36. Please recharge at the counter.
+USR0203,Saanvi Khan,Mumbai,Marol Naka,10:24,15,1470,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),199,High,No Nudge
+USR0204,Rahul Kumar,Kolkata,Rabindra Sadan,16:42,6,303,Weekends Only,Random / Malls,20,Low,Low Balance: ₹20. Please recharge at the counter.
+USR0205,Kavita Mukherjee,Mumbai,Saki Naka,18:56,47,2946,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),18,High,Refill Alert: You have 47 recent trips but only ₹18 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0206,Aditya Verma,Bangalore,MG Road,18:07,41,2890,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),179,High,No Nudge
+USR0207,Divya Gupta,Hyderabad,Secunderabad East,18:37,30,1560,Mon-Sat (Variable),Campus <-> Hangout Zones,108,High,No Nudge
+USR0208,Anika Agarwal,Hyderabad,Raidurg,08:42,23,1485,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 23 recent trips but only ₹32 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0209,Ravi Gowda,Hyderabad,Secunderabad East,08:13,50,2124,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),21,High,Refill Alert: You have 50 recent trips but only ₹21 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0210,Pooja Mukherjee,Bangalore,Cubbon Park,14:36,50,2610,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),28,Low,Refill Alert: You have 50 recent trips but only ₹28 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0211,Anjali Banerjee,Bangalore,Majestic,08:24,19,842,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),7,High,Refill Alert: You have 19 recent trips but only ₹7 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0212,Rohit Jain,Chennai,Koyambedu,08:42,45,2094,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),202,High,No Nudge
+USR0213,Pooja Das,Hyderabad,Raidurg,18:59,2,435,Weekends Only,Random / Malls,32,High,Low Balance: ₹32. Please recharge at the counter.
+USR0214,Karthik Reddy,Kolkata,Kalighat,18:42,51,1691,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),23,High,Refill Alert: You have 51 recent trips but only ₹23 left. Rush hour at Kalighat is peaking. Auto-load ₹200?
+USR0215,Ananya Bose,Delhi,Kashmere Gate,19:47,53,2888,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 53 recent trips but only ₹15 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0216,Ananya Mishra,Delhi,HUDA City Centre,14:43,48,2822,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),117,Low,No Nudge
+USR0217,Vikram Chatterjee,Hyderabad,LB Nagar,08:16,48,1932,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),149,High,No Nudge
+USR0218,Deepa Yadav,Hyderabad,Raidurg,18:55,2,218,Weekends Only,Random / Malls,226,High,No Nudge
+USR0219,Kiara Ghosh,Bangalore,Halasuru,10:08,50,1676,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),259,High,No Nudge
+USR0220,Krishna Agarwal,Bangalore,Baiyappanahalli,08:02,18,1061,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),155,High,No Nudge
+USR0221,Lakshmi Nair,Kolkata,Park Street,08:32,17,849,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),393,High,No Nudge
+USR0222,Pari Sharma,Bangalore,Halasuru,14:12,46,1626,Mon-Sat (Variable),Campus <-> Hangout Zones,452,Low,No Nudge
+USR0223,Riya Patel,Delhi,Noida City Centre,09:48,15,1346,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),220,High,No Nudge
+USR0224,Sai Chatterjee,Bangalore,Majestic,10:41,21,1337,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),45,High,Refill Alert: You have 21 recent trips but only ₹45 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0225,Aryan Nair,Delhi,Dwarka Sec 21,09:35,18,1183,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),12,High,Refill Alert: You have 18 recent trips but only ₹12 left. Rush hour at Dwarka Sec 21 is peaking. Auto-load ₹200?
+USR0226,Arjun Sharma,Mumbai,Marol Naka,13:08,42,2135,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),13,Low,Refill Alert: You have 42 recent trips but only ₹13 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0227,Sanjay Mishra,Bangalore,Baiyappanahalli,17:00,56,1505,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),209,High,No Nudge
+USR0228,Saanvi Desai,Chennai,Airport,16:36,4,138,Weekends Only,Random / Malls,352,Low,No Nudge
+USR0229,Aarav Joshi,Chennai,Alandur,16:00,58,2727,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),45,Low,Refill Alert: You have 58 recent trips but only ₹45 left. Rush hour at Alandur is peaking. Auto-load ₹200?
+USR0230,Pari Gowda,Kolkata,Park Street,18:15,53,1576,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 53 recent trips but only ₹40 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0231,Vihaan Chopra,Chennai,Thirumangalam,18:28,57,2202,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),31,High,Refill Alert: You have 57 recent trips but only ₹31 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0232,Priya Kumar,Kolkata,Kalighat,16:23,7,424,Weekends Only,Random / Malls,17,Low,Low Balance: ₹17. Please recharge at the counter.
+USR0233,Riya Yadav,Bangalore,Trinity,19:41,50,1506,Mon-Sat (Variable),Campus <-> Hangout Zones,134,High,No Nudge
+USR0234,Pooja Ghosh,Hyderabad,Ameerpet,10:49,45,2973,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),38,High,Refill Alert: You have 45 recent trips but only ₹38 left. Rush hour at Ameerpet is peaking. Auto-load ₹200?
+USR0235,Rohit Gupta,Delhi,HUDA City Centre,12:12,48,1677,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),182,Low,No Nudge
+USR0236,Aditya Gowda,Delhi,Noida City Centre,17:35,57,2888,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),430,High,No Nudge
+USR0237,Anjali Dutta,Chennai,Chennai Central,19:53,56,1616,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),287,High,No Nudge
+USR0238,Ananya Sharma,Delhi,Chandni Chowk,11:58,47,1564,Mon-Sat (Variable),Campus <-> Hangout Zones,12,High,Refill Alert: You have 47 recent trips but only ₹12 left. Rush hour at Chandni Chowk is peaking. Auto-load ₹200?
+USR0239,Sneha Kumar,Bangalore,MG Road,18:43,44,1438,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),311,High,No Nudge
+USR0240,Myra Nair,Kolkata,Maidan,08:50,47,2138,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),30,High,Refill Alert: You have 47 recent trips but only ₹30 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0241,Anika Nair,Mumbai,Ghatkopar,14:42,50,2119,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),246,Low,No Nudge
+USR0242,Lakshmi Kumar,Mumbai,Chakala,09:12,47,2085,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),43,High,Refill Alert: You have 47 recent trips but only ₹43 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0243,Ravi Agarwal,Mumbai,Andheri,14:38,40,2308,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),41,Low,Refill Alert: You have 40 recent trips but only ₹41 left. Rush hour at Andheri is peaking. Auto-load ₹200?
+USR0244,Deepa Gowda,Hyderabad,Raidurg,15:58,42,1663,Mon-Sat (Variable),Campus <-> Hangout Zones,39,High,Refill Alert: You have 42 recent trips but only ₹39 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0245,Ananya Chatterjee,Delhi,Chandni Chowk,09:07,35,1611,Mon-Sat (Variable),Campus <-> Hangout Zones,23,High,Refill Alert: You have 35 recent trips but only ₹23 left. Rush hour at Chandni Chowk is peaking. Auto-load ₹200?
+USR0246,Lakshmi Agarwal,Hyderabad,Hitech City,11:43,58,1873,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),11,Low,Refill Alert: You have 58 recent trips but only ₹11 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0247,Amit Sharma,Kolkata,Rabindra Sadan,13:50,15,1035,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),13,High,Low Balance: ₹13. Please recharge at the counter.
+USR0248,Anjali Dutta,Chennai,Chennai Central,08:26,58,2609,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),37,High,Refill Alert: You have 58 recent trips but only ₹37 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0249,Deepa Jain,Hyderabad,Raidurg,17:29,21,1232,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),12,High,Refill Alert: You have 21 recent trips but only ₹12 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0250,Kavita Chatterjee,Mumbai,Azad Nagar,14:50,56,1681,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),48,High,Refill Alert: You have 56 recent trips but only ₹48 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0251,Vihaan Dutta,Delhi,Rajiv Chowk,09:12,19,956,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),34,High,Refill Alert: You have 19 recent trips but only ₹34 left. Rush hour at Rajiv Chowk is peaking. Auto-load ₹200?
+USR0252,Vihaan Nair,Hyderabad,Ameerpet,19:18,50,2304,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),24,High,Refill Alert: You have 50 recent trips but only ₹24 left. Rush hour at Ameerpet is peaking. Auto-load ₹200?
+USR0253,Riya Mehta,Mumbai,Marol Naka,09:13,22,1102,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 22 recent trips but only ₹14 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0254,Arjun Khan,Hyderabad,Hitech City,08:00,19,1035,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 19 recent trips but only ₹40 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0255,Reyansh Desai,Hyderabad,Hitech City,17:28,49,1664,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),42,High,Refill Alert: You have 49 recent trips but only ₹42 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0256,Krishna Mehta,Chennai,Airport,15:37,42,1261,Mon-Sat (Variable),Campus <-> Hangout Zones,21,Low,Refill Alert: You have 42 recent trips but only ₹21 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0257,Saanvi Iyer,Delhi,Rajiv Chowk,08:58,42,1663,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),37,High,Refill Alert: You have 42 recent trips but only ₹37 left. Rush hour at Rajiv Chowk is peaking. Auto-load ₹200?
+USR0258,Neha Desai,Mumbai,Azad Nagar,09:47,40,1837,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),35,High,Refill Alert: You have 40 recent trips but only ₹35 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0259,Meera Chopra,Chennai,Alandur,10:28,52,2841,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 52 recent trips but only ₹14 left. Rush hour at Alandur is peaking. Auto-load ₹200?
+USR0260,Arjun Chatterjee,Chennai,Guindy,19:22,46,2687,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),28,High,Refill Alert: You have 46 recent trips but only ₹28 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0261,Aadhya Banerjee,Bangalore,MG Road,08:48,30,1199,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),42,High,Refill Alert: You have 30 recent trips but only ₹42 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0262,Vihaan Gupta,Chennai,Airport,10:49,36,1553,Mon-Sat (Variable),Campus <-> Hangout Zones,21,High,Refill Alert: You have 36 recent trips but only ₹21 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0263,Aarav Banerjee,Hyderabad,Raidurg,09:16,21,930,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 21 recent trips but only ₹13 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0264,Neha Gupta,Delhi,Dwarka Sec 21,11:39,43,1093,Mon-Sat (Variable),Campus <-> Hangout Zones,15,Low,Refill Alert: You have 43 recent trips but only ₹15 left. Rush hour at Dwarka Sec 21 is peaking. Auto-load ₹200?
+USR0265,Fatima Dutta,Mumbai,Airport Road,18:50,49,2758,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),43,High,Refill Alert: You have 49 recent trips but only ₹43 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0266,Myra Gowda,Bangalore,Trinity,09:07,59,2198,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),22,High,Refill Alert: You have 59 recent trips but only ₹22 left. Rush hour at Trinity is peaking. Auto-load ₹200?
+USR0267,Divya Reddy,Chennai,Egmore,19:15,58,2103,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,High,Refill Alert: You have 58 recent trips but only ₹20 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0268,Ananya Chopra,Mumbai,Chakala,09:08,24,1032,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 24 recent trips but only ₹13 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0269,Anika Dutta,Mumbai,Saki Naka,17:28,47,2158,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 47 recent trips but only ₹32 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0270,Krishna Reddy,Mumbai,Andheri,09:07,43,2675,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),118,High,No Nudge
+USR0271,Anika Agarwal,Kolkata,Netaji Bhavan,16:08,45,2631,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),208,Low,No Nudge
+USR0272,Aarav Jain,Kolkata,Park Street,13:56,36,1347,Mon-Sat (Variable),Campus <-> Hangout Zones,42,Low,Refill Alert: You have 36 recent trips but only ₹42 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0273,Ravi Khan,Delhi,Hauz Khas,09:44,48,2723,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),10,High,Refill Alert: You have 48 recent trips but only ₹10 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0274,Riya Desai,Bangalore,MG Road,08:35,46,2687,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),18,High,Refill Alert: You have 46 recent trips but only ₹18 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0275,Saanvi Reddy,Delhi,Kashmere Gate,10:29,48,1622,Mon-Sat (Variable),Campus <-> Hangout Zones,324,High,No Nudge
+USR0276,Aditya Khan,Bangalore,MG Road,17:23,40,2962,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),333,High,No Nudge
+USR0277,Sneha Das,Chennai,Vadapalani,19:54,58,1980,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 58 recent trips but only ₹14 left. Rush hour at Vadapalani is peaking. Auto-load ₹200?
+USR0278,Anika Gupta,Chennai,Airport,10:04,41,2001,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),178,High,No Nudge
+USR0279,Aryan Malhotra,Chennai,Egmore,19:15,48,2308,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),35,High,Refill Alert: You have 48 recent trips but only ₹35 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0280,Lakshmi Patel,Bangalore,Cubbon Park,12:28,49,1503,Mon-Sat (Variable),Campus <-> Hangout Zones,491,Low,No Nudge
+USR0281,Amit Mishra,Hyderabad,Miyapur,10:37,56,1631,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),31,High,Refill Alert: You have 56 recent trips but only ₹31 left. Rush hour at Miyapur is peaking. Auto-load ₹200?
+USR0282,Rahul Khan,Chennai,Egmore,08:52,43,1535,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 43 recent trips but only ₹15 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0283,Fatima Gupta,Bangalore,Majestic,09:47,56,2111,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 56 recent trips but only ₹13 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0284,Karthik Desai,Chennai,Guindy,16:53,49,1515,Mon-Sat (Variable),Campus <-> Hangout Zones,232,High,No Nudge
+USR0285,Amit Gowda,Mumbai,Marol Naka,09:27,51,2888,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 51 recent trips but only ₹15 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0286,Arjun Kumar,Kolkata,Dum Dum,19:28,30,1355,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),288,High,No Nudge
+USR0287,Riya Reddy,Hyderabad,Raidurg,15:58,40,2335,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),382,High,No Nudge
+USR0288,Vihaan Verma,Delhi,Kashmere Gate,10:55,25,833,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 25 recent trips but only ₹40 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0289,Lakshmi Bose,Kolkata,Rabindra Sadan,19:35,47,1579,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,High,Refill Alert: You have 47 recent trips but only ₹20 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0290,Kiara Pillai,Chennai,Airport,19:18,52,2439,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),29,High,Refill Alert: You have 52 recent trips but only ₹29 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0291,Meera Jain,Bangalore,Cubbon Park,12:29,20,1325,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),41,Low,Refill Alert: You have 20 recent trips but only ₹41 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0292,Neha Agarwal,Delhi,Dwarka Sec 21,11:47,40,2484,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),43,Low,Refill Alert: You have 40 recent trips but only ₹43 left. Rush hour at Dwarka Sec 21 is peaking. Auto-load ₹200?
+USR0293,Kavita Nair,Bangalore,Vidhana Soudha,12:00,43,1844,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),38,Low,Refill Alert: You have 43 recent trips but only ₹38 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0294,Aryan Singh,Kolkata,Rabindra Sadan,12:08,24,1422,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),22,Low,Refill Alert: You have 24 recent trips but only ₹22 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0295,Reyansh Gowda,Delhi,Noida City Centre,15:37,45,2068,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),392,Low,No Nudge
+USR0296,Aryan Verma,Mumbai,Chakala,09:41,40,2772,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),21,High,Refill Alert: You have 40 recent trips but only ₹21 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0297,Saanvi Pillai,Mumbai,Versova,08:34,35,1657,Mon-Sat (Variable),Campus <-> Hangout Zones,168,High,No Nudge
+USR0298,Aarav Desai,Hyderabad,Hitech City,08:34,42,1687,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 42 recent trips but only ₹32 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0299,Ishaan Gupta,Mumbai,Airport Road,18:59,33,1434,Mon-Sat (Variable),Campus <-> Hangout Zones,33,High,Refill Alert: You have 33 recent trips but only ₹33 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0300,Amit Gowda,Mumbai,Versova,14:48,34,1362,Mon-Sat (Variable),Campus <-> Hangout Zones,21,Low,Refill Alert: You have 34 recent trips but only ₹21 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0301,Riya Verma,Kolkata,Dum Dum,10:20,31,1121,Mon-Sat (Variable),Campus <-> Hangout Zones,6,High,Refill Alert: You have 31 recent trips but only ₹6 left. Rush hour at Dum Dum is peaking. Auto-load ₹200?
+USR0302,Lakshmi Mishra,Hyderabad,LB Nagar,10:14,33,1401,Mon-Sat (Variable),Campus <-> Hangout Zones,181,High,No Nudge
+USR0303,Vikram Joshi,Mumbai,Marol Naka,18:05,24,1207,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),43,High,Refill Alert: You have 24 recent trips but only ₹43 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0304,Reyansh Das,Mumbai,Chakala,09:27,19,987,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),314,High,No Nudge
+USR0305,Vijay Bose,Hyderabad,Raidurg,08:37,51,1829,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),39,High,Refill Alert: You have 51 recent trips but only ₹39 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0306,Muhammad Dutta,Chennai,Egmore,11:47,50,1407,Mon-Sat (Variable),Campus <-> Hangout Zones,497,Low,No Nudge
+USR0307,Krishna Verma,Delhi,Lajpat Nagar,09:47,55,2430,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),37,High,Refill Alert: You have 55 recent trips but only ₹37 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0308,Ananya Reddy,Delhi,Dwarka Sec 21,08:48,36,1325,Mon-Sat (Variable),Campus <-> Hangout Zones,32,High,Refill Alert: You have 36 recent trips but only ₹32 left. Rush hour at Dwarka Sec 21 is peaking. Auto-load ₹200?
+USR0309,Suresh Joshi,Bangalore,Cubbon Park,16:27,27,865,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),164,Low,No Nudge
+USR0310,Ishaan Jain,Mumbai,Airport Road,19:05,28,1011,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),33,High,Refill Alert: You have 28 recent trips but only ₹33 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0311,Myra Menon,Chennai,Chennai Central,08:00,37,1896,Mon-Sat (Variable),Campus <-> Hangout Zones,16,High,Refill Alert: You have 37 recent trips but only ₹16 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0312,Arjun Pillai,Chennai,Chennai Central,08:14,33,1796,Mon-Sat (Variable),Campus <-> Hangout Zones,274,High,No Nudge
+USR0313,Lakshmi Khan,Hyderabad,LB Nagar,14:09,7,223,Weekends Only,Random / Malls,36,Low,Low Balance: ₹36. Please recharge at the counter.
+USR0314,Myra Jain,Kolkata,Dum Dum,09:01,46,1451,Mon-Sat (Variable),Campus <-> Hangout Zones,388,High,No Nudge
+USR0315,Krishna Pillai,Chennai,Chennai Central,11:58,33,1490,Mon-Sat (Variable),Campus <-> Hangout Zones,38,Low,Refill Alert: You have 33 recent trips but only ₹38 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0316,Reyansh Iyer,Mumbai,Marol Naka,10:15,34,1925,Mon-Sat (Variable),Campus <-> Hangout Zones,24,High,Refill Alert: You have 34 recent trips but only ₹24 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0317,Krishna Verma,Hyderabad,Raidurg,13:30,46,2719,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),332,Low,No Nudge
+USR0318,Meera Chopra,Bangalore,Vidhana Soudha,08:06,44,1545,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 44 recent trips but only ₹13 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0319,Suresh Das,Hyderabad,Ameerpet,13:23,15,1294,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),39,Low,Low Balance: ₹39. Please recharge at the counter.
+USR0320,Aditya Malhotra,Bangalore,Indiranagar,15:16,24,1318,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),482,Low,No Nudge
+USR0321,Anjali Jain,Hyderabad,LB Nagar,09:45,44,2730,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),472,High,No Nudge
+USR0322,Vihaan Chatterjee,Kolkata,Netaji Bhavan,10:22,30,1257,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 30 recent trips but only ₹32 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0323,Rohit Mishra,Mumbai,Azad Nagar,19:10,40,2342,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),27,High,Refill Alert: You have 40 recent trips but only ₹27 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0324,Aarav Chopra,Bangalore,Trinity,19:22,37,1093,Mon-Sat (Variable),Campus <-> Hangout Zones,31,High,Refill Alert: You have 37 recent trips but only ₹31 left. Rush hour at Trinity is peaking. Auto-load ₹200?
+USR0325,Deepa Verma,Chennai,Vadapalani,19:29,28,1152,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),42,High,Refill Alert: You have 28 recent trips but only ₹42 left. Rush hour at Vadapalani is peaking. Auto-load ₹200?
+USR0326,Aryan Dutta,Chennai,Egmore,17:23,33,1907,Mon-Sat (Variable),Campus <-> Hangout Zones,223,High,No Nudge
+USR0327,Deepa Khan,Bangalore,Indiranagar,09:50,41,2721,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 41 recent trips but only ₹16 left. Rush hour at Indiranagar is peaking. Auto-load ₹200?
+USR0328,Lakshmi Banerjee,Bangalore,Majestic,08:22,53,1627,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),272,High,No Nudge
+USR0329,Vihaan Verma,Bangalore,Baiyappanahalli,09:09,44,1484,Mon-Sat (Variable),Campus <-> Hangout Zones,27,High,Refill Alert: You have 44 recent trips but only ₹27 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0330,Saanvi Mukherjee,Hyderabad,Hitech City,09:06,32,1679,Mon-Sat (Variable),Campus <-> Hangout Zones,18,High,Refill Alert: You have 32 recent trips but only ₹18 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0331,Sanjay Kumar,Mumbai,Airport Road,10:40,57,2625,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),167,High,No Nudge
+USR0332,Deepa Reddy,Kolkata,Dum Dum,10:18,26,814,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),336,High,No Nudge
+USR0333,Priya Mehta,Delhi,Kashmere Gate,10:16,22,1090,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),326,High,No Nudge
+USR0334,Kavita Verma,Kolkata,Netaji Bhavan,12:18,49,2196,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,Low,Refill Alert: You have 49 recent trips but only ₹20 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0335,Diya Mehta,Kolkata,Rabindra Sadan,10:58,54,1784,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),438,High,No Nudge
+USR0336,Arjun Gowda,Chennai,Guindy,18:17,47,2805,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),386,High,No Nudge
+USR0337,Karthik Patel,Chennai,Airport,10:33,5,426,Weekends Only,Random / Malls,41,High,Low Balance: ₹41. Please recharge at the counter.
+USR0338,Ravi Rao,Mumbai,Azad Nagar,19:25,31,1816,Mon-Sat (Variable),Campus <-> Hangout Zones,295,High,No Nudge
+USR0339,Vikram Mishra,Bangalore,Indiranagar,10:47,39,1500,Mon-Sat (Variable),Campus <-> Hangout Zones,416,High,No Nudge
+USR0340,Saanvi Reddy,Delhi,New Delhi,10:56,42,1972,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),461,High,No Nudge
+USR0341,Anjali Menon,Chennai,Airport,08:07,17,805,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),12,High,Refill Alert: You have 17 recent trips but only ₹12 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0342,Lakshmi Das,Delhi,Noida City Centre,10:07,45,2104,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 45 recent trips but only ₹40 left. Rush hour at Noida City Centre is peaking. Auto-load ₹200?
+USR0343,Diya Joshi,Mumbai,Versova,08:27,27,1174,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),5,High,Refill Alert: You have 27 recent trips but only ₹5 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0344,Priya Verma,Hyderabad,Raidurg,10:31,30,1144,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),21,High,Refill Alert: You have 30 recent trips but only ₹21 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0345,Aadhya Yadav,Mumbai,Versova,13:04,44,1838,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),124,Low,No Nudge
+USR0346,Vihaan Nair,Chennai,Egmore,16:37,43,2292,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),28,Low,Refill Alert: You have 43 recent trips but only ₹28 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0347,Sai Chopra,Kolkata,Netaji Bhavan,19:38,23,1430,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),18,High,Refill Alert: You have 23 recent trips but only ₹18 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0348,Anjali Banerjee,Kolkata,Esplanade,17:45,41,2388,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),352,High,No Nudge
+USR0349,Deepa Iyer,Mumbai,Chakala,09:35,46,2862,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 46 recent trips but only ₹15 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0350,Meera Desai,Kolkata,Maidan,16:55,49,1862,Mon-Sat (Variable),Campus <-> Hangout Zones,205,Low,No Nudge
+USR0351,Priya Desai,Kolkata,Maidan,16:54,42,1699,Mon-Sat (Variable),Campus <-> Hangout Zones,26,Low,Refill Alert: You have 42 recent trips but only ₹26 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0352,Ravi Mukherjee,Bangalore,Baiyappanahalli,19:34,56,2331,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,High,Refill Alert: You have 56 recent trips but only ₹20 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0353,Kiara Mehta,Kolkata,Esplanade,08:51,57,1550,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),7,High,Refill Alert: You have 57 recent trips but only ₹7 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0354,Karthik Sharma,Mumbai,WEH,14:32,17,1020,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),6,Low,Refill Alert: You have 17 recent trips but only ₹6 left. Rush hour at WEH is peaking. Auto-load ₹200?
+USR0355,Sai Menon,Chennai,Koyambedu,14:00,17,936,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),11,Low,Refill Alert: You have 17 recent trips but only ₹11 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0356,Divya Verma,Mumbai,Azad Nagar,10:33,53,1580,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),370,High,No Nudge
+USR0357,Ananya Dutta,Mumbai,Azad Nagar,19:28,30,1813,Mon-Sat (Variable),Campus <-> Hangout Zones,24,High,Refill Alert: You have 30 recent trips but only ₹24 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0358,Aryan Gowda,Hyderabad,Raidurg,13:56,44,1897,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),208,Low,No Nudge
+USR0359,Aadhya Joshi,Kolkata,Esplanade,10:42,55,2577,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),137,High,No Nudge
+USR0360,Rahul Gupta,Chennai,Alandur,09:43,49,2525,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),227,High,No Nudge
+USR0361,Sai Banerjee,Mumbai,Chakala,08:15,8,388,Weekends Only,Random / Malls,32,High,Low Balance: ₹32. Please recharge at the counter.
+USR0362,Vikram Agarwal,Kolkata,Park Street,18:58,28,1487,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),10,High,Refill Alert: You have 28 recent trips but only ₹10 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0363,Reyansh Verma,Hyderabad,Ameerpet,19:33,46,1250,Mon-Sat (Variable),Campus <-> Hangout Zones,27,High,Refill Alert: You have 46 recent trips but only ₹27 left. Rush hour at Ameerpet is peaking. Auto-load ₹200?
+USR0364,Suresh Das,Kolkata,Rabindra Sadan,10:34,60,1733,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),11,High,Refill Alert: You have 60 recent trips but only ₹11 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0365,Sneha Kumar,Hyderabad,Secunderabad East,18:47,26,1152,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),202,High,No Nudge
+USR0366,Krishna Patel,Mumbai,Airport Road,19:04,42,2188,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),377,High,No Nudge
+USR0367,Kavita Mishra,Mumbai,Chakala,19:02,48,1363,Mon-Sat (Variable),Campus <-> Hangout Zones,482,High,No Nudge
+USR0368,Deepa Iyer,Kolkata,Kalighat,18:03,40,2888,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),130,High,No Nudge
+USR0369,Lakshmi Dutta,Hyderabad,LB Nagar,09:12,50,1546,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),36,High,Refill Alert: You have 50 recent trips but only ₹36 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0370,Vikram Yadav,Kolkata,Maidan,14:10,52,2909,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,Low,Refill Alert: You have 52 recent trips but only ₹16 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0371,Vikram Agarwal,Hyderabad,Secunderabad East,18:52,15,1363,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),22,High,Low Balance: ₹22. Please recharge at the counter.
+USR0372,Diya Agarwal,Delhi,Hauz Khas,18:38,56,2163,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),18,High,Refill Alert: You have 56 recent trips but only ₹18 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0373,Deepa Rao,Mumbai,Chakala,15:16,17,825,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),36,Low,Refill Alert: You have 17 recent trips but only ₹36 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0374,Priya Dutta,Chennai,Egmore,18:02,49,2967,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),101,High,No Nudge
+USR0375,Sanjay Joshi,Mumbai,Chakala,14:34,53,1671,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),293,Low,No Nudge
+USR0376,Lakshmi Chopra,Kolkata,Dum Dum,14:26,40,1978,Mon-Sat (Variable),Campus <-> Hangout Zones,8,Low,Refill Alert: You have 40 recent trips but only ₹8 left. Rush hour at Dum Dum is peaking. Auto-load ₹200?
+USR0377,Arjun Chatterjee,Bangalore,Baiyappanahalli,09:41,9,277,Weekends Only,Random / Malls,43,High,Low Balance: ₹43. Please recharge at the counter.
+USR0378,Aarav Nair,Chennai,Chennai Central,17:27,17,982,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),411,High,No Nudge
+USR0379,Anjali Patel,Kolkata,Esplanade,17:05,40,1695,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),25,High,Refill Alert: You have 40 recent trips but only ₹25 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0380,Anjali Khan,Mumbai,Chakala,11:17,51,2194,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),21,Low,Refill Alert: You have 51 recent trips but only ₹21 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0381,Deepa Nair,Chennai,Thirumangalam,16:57,56,2594,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),33,Low,Refill Alert: You have 56 recent trips but only ₹33 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0382,Kavita Kumar,Mumbai,Airport Road,17:57,45,2711,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 45 recent trips but only ₹15 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0383,Sneha Kumar,Hyderabad,Miyapur,19:53,42,2012,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),19,High,Refill Alert: You have 42 recent trips but only ₹19 left. Rush hour at Miyapur is peaking. Auto-load ₹200?
+USR0384,Rahul Agarwal,Chennai,Egmore,19:36,56,2344,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),463,High,No Nudge
+USR0385,Sneha Kumar,Hyderabad,LB Nagar,18:36,43,1539,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,High,Refill Alert: You have 43 recent trips but only ₹20 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0386,Vijay Yadav,Hyderabad,Secunderabad East,09:31,57,2203,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),160,High,No Nudge
+USR0387,Anjali Jain,Hyderabad,Miyapur,08:25,58,2454,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),22,High,Refill Alert: You have 58 recent trips but only ₹22 left. Rush hour at Miyapur is peaking. Auto-load ₹200?
+USR0388,Riya Iyer,Chennai,Chennai Central,19:44,50,1392,Mon-Sat (Variable),Campus <-> Hangout Zones,203,High,No Nudge
+USR0389,Pooja Patel,Hyderabad,Raidurg,13:52,54,2688,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),287,Low,No Nudge
+USR0390,Muhammad Dutta,Hyderabad,Miyapur,11:39,4,463,Weekends Only,Random / Malls,472,Low,No Nudge
+USR0391,Muhammad Verma,Hyderabad,LB Nagar,17:45,50,1465,Mon-Sat (Variable),Campus <-> Hangout Zones,15,High,Refill Alert: You have 50 recent trips but only ₹15 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0392,Ananya Das,Delhi,Hauz Khas,19:44,50,2951,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),33,High,Refill Alert: You have 50 recent trips but only ₹33 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0393,Kiara Khan,Kolkata,Maidan,13:03,42,2577,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),44,Low,Refill Alert: You have 42 recent trips but only ₹44 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0394,Sai Desai,Hyderabad,Raidurg,10:25,48,2008,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),44,High,Refill Alert: You have 48 recent trips but only ₹44 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0395,Neha Menon,Hyderabad,Raidurg,19:46,1,137,Weekends Only,Random / Malls,424,High,No Nudge
+USR0396,Rohit Verma,Delhi,Chandni Chowk,09:01,51,2818,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),417,High,No Nudge
+USR0397,Aadhya Verma,Bangalore,Majestic,13:09,42,2928,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),387,Low,No Nudge
+USR0398,Ravi Yadav,Kolkata,Kalighat,18:45,40,2580,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,High,Refill Alert: You have 40 recent trips but only ₹17 left. Rush hour at Kalighat is peaking. Auto-load ₹200?
+USR0399,Diya Reddy,Bangalore,Majestic,18:12,60,1617,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 60 recent trips but only ₹15 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0400,Manish Yadav,Kolkata,Kalighat,17:40,29,837,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),28,High,Refill Alert: You have 29 recent trips but only ₹28 left. Rush hour at Kalighat is peaking. Auto-load ₹200?
+USR0401,Ishaan Chatterjee,Kolkata,Maidan,10:24,48,1341,Mon-Sat (Variable),Campus <-> Hangout Zones,40,High,Refill Alert: You have 48 recent trips but only ₹40 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0402,Ravi Menon,Delhi,Rajiv Chowk,18:24,50,2376,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),284,High,No Nudge
+USR0403,Amit Dutta,Mumbai,WEH,13:36,7,402,Weekends Only,Random / Malls,21,Low,Low Balance: ₹21. Please recharge at the counter.
+USR0404,Priya Bose,Delhi,Rajiv Chowk,08:50,9,472,Weekends Only,Random / Malls,167,High,No Nudge
+USR0405,Deepa Das,Chennai,Chennai Central,14:57,50,2758,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),222,Low,No Nudge
+USR0406,Aarav Sharma,Delhi,Rajiv Chowk,17:44,49,1290,Mon-Sat (Variable),Campus <-> Hangout Zones,19,High,Refill Alert: You have 49 recent trips but only ₹19 left. Rush hour at Rajiv Chowk is peaking. Auto-load ₹200?
+USR0407,Sai Chatterjee,Kolkata,Netaji Bhavan,09:57,46,1476,Mon-Sat (Variable),Campus <-> Hangout Zones,15,High,Refill Alert: You have 46 recent trips but only ₹15 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0408,Ananya Mishra,Bangalore,Baiyappanahalli,17:23,57,2997,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),25,High,Refill Alert: You have 57 recent trips but only ₹25 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0409,Deepa Yadav,Chennai,Chennai Central,17:38,15,836,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),465,High,No Nudge
+USR0410,Neha Joshi,Kolkata,Netaji Bhavan,10:33,55,2946,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),455,High,No Nudge
+USR0411,Aadhya Das,Kolkata,Kalighat,09:14,47,1945,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),463,High,No Nudge
+USR0412,Arjun Sharma,Bangalore,MG Road,14:54,36,1514,Mon-Sat (Variable),Campus <-> Hangout Zones,356,Low,No Nudge
+USR0413,Suresh Banerjee,Bangalore,Halasuru,08:09,6,394,Weekends Only,Random / Malls,14,High,Low Balance: ₹14. Please recharge at the counter.
+USR0414,Kavita Pillai,Kolkata,Netaji Bhavan,19:16,4,265,Weekends Only,Random / Malls,181,High,No Nudge
+USR0415,Pooja Agarwal,Hyderabad,Secunderabad East,17:09,47,2438,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 47 recent trips but only ₹40 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0416,Aditya Mukherjee,Chennai,Thirumangalam,17:30,19,926,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),26,High,Refill Alert: You have 19 recent trips but only ₹26 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0417,Anjali Ghosh,Delhi,Noida City Centre,10:39,23,1358,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),466,High,No Nudge
+USR0418,Sanjay Chatterjee,Mumbai,Ghatkopar,19:57,50,1873,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),453,High,No Nudge
+USR0419,Divya Ghosh,Mumbai,Andheri,11:39,5,300,Weekends Only,Random / Malls,143,Low,No Nudge
+USR0420,Ananya Rao,Bangalore,Indiranagar,09:16,17,830,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),398,High,No Nudge
+USR0421,Aryan Mehta,Bangalore,MG Road,18:08,42,2895,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),5,High,Refill Alert: You have 42 recent trips but only ₹5 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0422,Ravi Sharma,Bangalore,Halasuru,11:10,58,1778,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),475,Low,No Nudge
+USR0423,Rohit Mukherjee,Mumbai,Versova,08:02,20,912,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),7,High,Refill Alert: You have 20 recent trips but only ₹7 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0424,Vijay Chopra,Mumbai,Marol Naka,17:04,47,2865,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),347,High,No Nudge
+USR0425,Rahul Menon,Kolkata,Park Street,18:43,42,2008,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),38,High,Refill Alert: You have 42 recent trips but only ₹38 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0426,Saanvi Pillai,Hyderabad,Secunderabad East,16:27,46,2707,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,Low,Refill Alert: You have 46 recent trips but only ₹20 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0427,Kavita Mishra,Bangalore,Baiyappanahalli,08:13,52,2625,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),36,High,Refill Alert: You have 52 recent trips but only ₹36 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0428,Rahul Iyer,Chennai,Egmore,10:06,27,1163,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),37,High,Refill Alert: You have 27 recent trips but only ₹37 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0429,Reyansh Verma,Kolkata,Esplanade,14:52,44,2317,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),230,Low,No Nudge
+USR0430,Ishaan Pillai,Delhi,Chandni Chowk,09:38,44,2416,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),414,High,No Nudge
+USR0431,Riya Malhotra,Kolkata,Park Street,17:17,52,1869,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),18,High,Refill Alert: You have 52 recent trips but only ₹18 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0432,Vijay Kumar,Delhi,Chandni Chowk,17:07,31,1201,Mon-Sat (Variable),Campus <-> Hangout Zones,33,High,Refill Alert: You have 31 recent trips but only ₹33 left. Rush hour at Chandni Chowk is peaking. Auto-load ₹200?
+USR0433,Saanvi Gupta,Chennai,Chennai Central,10:00,58,2484,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),39,High,Refill Alert: You have 58 recent trips but only ₹39 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0434,Rohit Gupta,Mumbai,Andheri,18:50,56,2801,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),318,High,No Nudge
+USR0435,Divya Patel,Kolkata,Park Street,08:04,6,380,Weekends Only,Random / Malls,17,High,Low Balance: ₹17. Please recharge at the counter.
+USR0436,Pooja Bose,Bangalore,Cubbon Park,12:19,43,1613,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,Low,Refill Alert: You have 43 recent trips but only ₹17 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0437,Ananya Desai,Kolkata,Rabindra Sadan,13:25,25,1036,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),8,Low,Refill Alert: You have 25 recent trips but only ₹8 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0438,Manish Pillai,Mumbai,Airport Road,10:46,44,2581,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),36,High,Refill Alert: You have 44 recent trips but only ₹36 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0439,Sanjay Jain,Chennai,Guindy,17:19,5,453,Weekends Only,Random / Malls,269,High,No Nudge
+USR0440,Aarav Mukherjee,Hyderabad,Miyapur,10:05,54,1975,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),268,High,No Nudge
+USR0441,Riya Khan,Bangalore,Trinity,19:45,3,401,Weekends Only,Random / Malls,356,High,No Nudge
+USR0442,Arjun Gowda,Hyderabad,Hitech City,08:27,43,2747,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 43 recent trips but only ₹13 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0443,Fatima Malhotra,Hyderabad,LB Nagar,08:11,56,1805,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 56 recent trips but only ₹16 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0444,Lakshmi Mukherjee,Kolkata,Maidan,09:47,40,2484,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),43,High,Refill Alert: You have 40 recent trips but only ₹43 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0445,Aryan Ghosh,Mumbai,Azad Nagar,14:23,19,942,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),6,Low,Refill Alert: You have 19 recent trips but only ₹6 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0446,Neha Reddy,Bangalore,Cubbon Park,12:08,46,1285,Mon-Sat (Variable),Campus <-> Hangout Zones,232,Low,No Nudge
+USR0447,Sai Rao,Hyderabad,Secunderabad East,14:14,21,1185,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),32,Low,Refill Alert: You have 21 recent trips but only ₹32 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0448,Pari Desai,Chennai,Chennai Central,18:02,30,810,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 30 recent trips but only ₹14 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0449,Kiara Bose,Mumbai,Azad Nagar,18:49,43,1535,Mon-Sat (Variable),Campus <-> Hangout Zones,370,High,No Nudge
+USR0450,Ishaan Gowda,Mumbai,Chakala,10:25,32,1599,Mon-Sat (Variable),Campus <-> Hangout Zones,220,High,No Nudge
+USR0451,Amit Reddy,Kolkata,Esplanade,13:58,45,2121,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),19,Low,Refill Alert: You have 45 recent trips but only ₹19 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0452,Vihaan Bose,Chennai,Egmore,08:33,18,879,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),366,High,No Nudge
+USR0453,Ananya Khan,Kolkata,Park Street,19:54,20,1316,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),33,High,Refill Alert: You have 20 recent trips but only ₹33 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0454,Meera Joshi,Hyderabad,Secunderabad East,11:30,22,1065,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),34,Low,Refill Alert: You have 22 recent trips but only ₹34 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0455,Sneha Bose,Delhi,New Delhi,13:17,45,2631,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),43,Low,Refill Alert: You have 45 recent trips but only ₹43 left. Rush hour at New Delhi is peaking. Auto-load ₹200?
+USR0456,Sai Gowda,Bangalore,Majestic,09:21,50,2985,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),12,High,Refill Alert: You have 50 recent trips but only ₹12 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0457,Manish Bose,Delhi,Noida City Centre,10:52,43,1619,Mon-Sat (Variable),Campus <-> Hangout Zones,21,High,Refill Alert: You have 43 recent trips but only ₹21 left. Rush hour at Noida City Centre is peaking. Auto-load ₹200?
+USR0458,Priya Patel,Delhi,Rajiv Chowk,08:51,21,985,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),31,High,Refill Alert: You have 21 recent trips but only ₹31 left. Rush hour at Rajiv Chowk is peaking. Auto-load ₹200?
+USR0459,Aditya Das,Hyderabad,Raidurg,12:49,47,1579,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,Low,Refill Alert: You have 47 recent trips but only ₹40 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0460,Priya Singh,Bangalore,Baiyappanahalli,16:30,51,1917,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),487,Low,No Nudge
+USR0461,Rahul Joshi,Mumbai,Andheri,14:25,32,1591,Mon-Sat (Variable),Campus <-> Hangout Zones,8,Low,Refill Alert: You have 32 recent trips but only ₹8 left. Rush hour at Andheri is peaking. Auto-load ₹200?
+USR0462,Lakshmi Mukherjee,Kolkata,Park Street,13:58,41,1894,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,Low,Refill Alert: You have 41 recent trips but only ₹16 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0463,Arjun Gowda,Chennai,Vadapalani,10:50,42,1657,Mon-Sat (Variable),Campus <-> Hangout Zones,384,High,No Nudge
+USR0464,Aryan Mehta,Bangalore,Trinity,09:47,40,2403,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),203,High,No Nudge
+USR0465,Kavita Verma,Chennai,Koyambedu,13:46,47,2089,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),30,Low,Refill Alert: You have 47 recent trips but only ₹30 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0466,Manish Reddy,Delhi,Kashmere Gate,10:56,43,1869,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),27,High,Refill Alert: You have 43 recent trips but only ₹27 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0467,Aarav Rao,Kolkata,Rabindra Sadan,19:15,48,2789,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),43,High,Refill Alert: You have 48 recent trips but only ₹43 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0468,Fatima Bose,Hyderabad,Ameerpet,19:15,48,1274,Mon-Sat (Variable),Campus <-> Hangout Zones,420,High,No Nudge
+USR0469,Deepa Jain,Mumbai,Chakala,09:37,56,1973,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),23,High,Refill Alert: You have 56 recent trips but only ₹23 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0470,Ananya Sharma,Mumbai,Versova,08:52,58,2308,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),24,High,Refill Alert: You have 58 recent trips but only ₹24 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0471,Anika Pillai,Hyderabad,Ameerpet,18:57,48,1547,Mon-Sat (Variable),Campus <-> Hangout Zones,162,High,No Nudge
+USR0472,Riya Verma,Bangalore,Vidhana Soudha,17:09,30,1324,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 30 recent trips but only ₹13 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0473,Reyansh Patel,Bangalore,Cubbon Park,12:20,58,2613,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,Low,Refill Alert: You have 58 recent trips but only ₹17 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0474,Reyansh Gupta,Chennai,Airport,11:39,40,2484,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),32,Low,Refill Alert: You have 40 recent trips but only ₹32 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0475,Karthik Iyer,Hyderabad,Hitech City,17:21,43,1588,Mon-Sat (Variable),Campus <-> Hangout Zones,496,High,No Nudge
+USR0476,Aditya Khan,Bangalore,Majestic,11:15,53,1652,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),30,Low,Refill Alert: You have 53 recent trips but only ₹30 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0477,Ananya Gowda,Mumbai,WEH,14:26,45,2140,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),28,Low,Refill Alert: You have 45 recent trips but only ₹28 left. Rush hour at WEH is peaking. Auto-load ₹200?
+USR0478,Sai Sharma,Mumbai,Saki Naka,18:24,53,2483,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 53 recent trips but only ₹14 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0479,Sanjay Sharma,Hyderabad,LB Nagar,17:26,45,2007,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 45 recent trips but only ₹14 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0480,Aarav Jain,Mumbai,Chakala,09:05,42,1663,Mon-Sat (Variable),Campus <-> Hangout Zones,38,High,Refill Alert: You have 42 recent trips but only ₹38 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0481,Krishna Nair,Mumbai,Airport Road,18:14,24,1130,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),436,High,No Nudge
+USR0482,Anjali Jain,Kolkata,Kalighat,08:52,43,2681,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),320,High,No Nudge
+USR0483,Priya Banerjee,Delhi,Hauz Khas,08:54,47,1590,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),253,High,No Nudge
+USR0484,Lakshmi Joshi,Mumbai,Andheri,14:14,46,2896,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),42,Low,Refill Alert: You have 46 recent trips but only ₹42 left. Rush hour at Andheri is peaking. Auto-load ₹200?
+USR0485,Aadhya Banerjee,Hyderabad,Secunderabad East,19:15,44,1968,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),18,High,Refill Alert: You have 44 recent trips but only ₹18 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0486,Vihaan Sharma,Kolkata,Kalighat,16:47,19,1399,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),33,Low,Refill Alert: You have 19 recent trips but only ₹33 left. Rush hour at Kalighat is peaking. Auto-load ₹200?
+USR0487,Vikram Banerjee,Kolkata,Esplanade,13:58,40,1925,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),118,Low,No Nudge
+USR0488,Diya Jain,Mumbai,Versova,16:35,46,1430,Mon-Sat (Variable),Campus <-> Hangout Zones,224,Low,No Nudge
+USR0489,Ishaan Gupta,Delhi,HUDA City Centre,10:35,46,2808,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),38,High,Refill Alert: You have 46 recent trips but only ₹38 left. Rush hour at HUDA City Centre is peaking. Auto-load ₹200?
+USR0490,Vihaan Patel,Bangalore,Cubbon Park,16:09,19,951,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),27,Low,Refill Alert: You have 19 recent trips but only ₹27 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0491,Aryan Gupta,Bangalore,MG Road,09:12,19,975,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),37,High,Refill Alert: You have 19 recent trips but only ₹37 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0492,Anika Nair,Mumbai,Ghatkopar,09:47,40,1652,Mon-Sat (Variable),Campus <-> Hangout Zones,33,High,Refill Alert: You have 40 recent trips but only ₹33 left. Rush hour at Ghatkopar is peaking. Auto-load ₹200?
+USR0493,Ananya Khan,Bangalore,Indiranagar,12:28,49,2719,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,Low,Refill Alert: You have 49 recent trips but only ₹40 left. Rush hour at Indiranagar is peaking. Auto-load ₹200?
+USR0494,Arjun Sharma,Delhi,HUDA City Centre,15:20,55,1645,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),41,Low,Refill Alert: You have 55 recent trips but only ₹41 left. Rush hour at HUDA City Centre is peaking. Auto-load ₹200?
+USR0495,Muhammad Gowda,Hyderabad,Secunderabad East,19:15,58,1542,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 58 recent trips but only ₹13 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0496,Pari Sharma,Mumbai,Azad Nagar,14:28,29,1418,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),13,Low,Refill Alert: You have 29 recent trips but only ₹13 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0497,Aadhya Banerjee,Mumbai,Chakala,09:59,33,1431,Mon-Sat (Variable),Campus <-> Hangout Zones,237,High,No Nudge
+USR0498,Ravi Pillai,Mumbai,Versova,08:58,45,2002,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 45 recent trips but only ₹16 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0499,Riya Dutta,Bangalore,Vidhana Soudha,12:12,46,2896,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),24,Low,Refill Alert: You have 46 recent trips but only ₹24 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0500,Ishaan Menon,Hyderabad,Raidurg,15:37,59,2522,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),36,Low,Refill Alert: You have 59 recent trips but only ₹36 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0501,Riya Khan,Kolkata,Kalighat,14:12,41,2078,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),134,Low,No Nudge
+USR0502,Arjun Mishra,Chennai,Airport,08:03,29,858,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 29 recent trips but only ₹13 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0503,Aditya Khan,Delhi,HUDA City Centre,13:51,10,339,Weekends Only,Random / Malls,195,Low,No Nudge
+USR0504,Anjali Mishra,Chennai,Vadapalani,19:16,3,182,Weekends Only,Random / Malls,157,High,No Nudge
+USR0505,Ravi Nair,Kolkata,Rabindra Sadan,19:58,40,1144,Mon-Sat (Variable),Campus <-> Hangout Zones,139,High,No Nudge
+USR0506,Fatima Mishra,Delhi,HUDA City Centre,14:34,48,1992,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),317,Low,No Nudge
+USR0507,Aditya Sharma,Chennai,Chennai Central,17:18,45,1986,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),476,High,No Nudge
+USR0508,Vijay Agarwal,Bangalore,MG Road,13:37,19,810,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),45,Low,Refill Alert: You have 19 recent trips but only ₹45 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0509,Lakshmi Kumar,Mumbai,Azad Nagar,10:21,57,2362,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),42,High,Refill Alert: You have 57 recent trips but only ₹42 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0510,Rahul Kumar,Delhi,Dwarka Sec 21,13:17,26,1391,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),38,Low,Refill Alert: You have 26 recent trips but only ₹38 left. Rush hour at Dwarka Sec 21 is peaking. Auto-load ₹200?
+USR0511,Karthik Reddy,Chennai,Airport,10:19,60,2160,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),149,High,No Nudge
+USR0512,Reyansh Mehta,Chennai,Alandur,12:46,44,2271,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),21,Low,Refill Alert: You have 44 recent trips but only ₹21 left. Rush hour at Alandur is peaking. Auto-load ₹200?
+USR0513,Aditya Mishra,Hyderabad,Hitech City,13:00,31,1029,Mon-Sat (Variable),Campus <-> Hangout Zones,16,Low,Refill Alert: You have 31 recent trips but only ₹16 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0514,Ishaan Malhotra,Mumbai,WEH,09:39,30,1268,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),35,High,Refill Alert: You have 30 recent trips but only ₹35 left. Rush hour at WEH is peaking. Auto-load ₹200?
+USR0515,Sanjay Verma,Chennai,Thirumangalam,08:58,7,197,Weekends Only,Random / Malls,109,High,No Nudge
+USR0516,Meera Das,Chennai,Egmore,11:01,56,1864,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),37,Low,Refill Alert: You have 56 recent trips but only ₹37 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0517,Sanjay Yadav,Chennai,Koyambedu,11:14,57,2241,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),12,Low,Refill Alert: You have 57 recent trips but only ₹12 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0518,Anika Singh,Kolkata,Maidan,17:02,6,217,Weekends Only,Random / Malls,27,High,Low Balance: ₹27. Please recharge at the counter.
+USR0519,Deepa Chopra,Kolkata,Rabindra Sadan,13:29,18,1214,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),111,Low,No Nudge
+USR0520,Pooja Bose,Chennai,Koyambedu,17:38,42,1880,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),39,High,Refill Alert: You have 42 recent trips but only ₹39 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0521,Ananya Desai,Bangalore,Trinity,10:41,44,2767,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),400,High,No Nudge
+USR0522,Sai Ghosh,Delhi,Chandni Chowk,14:51,55,1663,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),271,Low,No Nudge
+USR0523,Anika Mukherjee,Kolkata,Esplanade,11:26,31,1555,Mon-Sat (Variable),Campus <-> Hangout Zones,41,Low,Refill Alert: You have 31 recent trips but only ₹41 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0524,Karthik Mehta,Delhi,HUDA City Centre,14:56,30,929,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),17,Low,Refill Alert: You have 30 recent trips but only ₹17 left. Rush hour at HUDA City Centre is peaking. Auto-load ₹200?
+USR0525,Sanjay Rao,Bangalore,Trinity,09:54,40,1952,Mon-Sat (Variable),Campus <-> Hangout Zones,42,High,Refill Alert: You have 40 recent trips but only ₹42 left. Rush hour at Trinity is peaking. Auto-load ₹200?
+USR0526,Ananya Dutta,Hyderabad,Hitech City,10:58,49,1672,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),5,High,Refill Alert: You have 49 recent trips but only ₹5 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0527,Manish Yadav,Mumbai,Ghatkopar,19:38,54,2781,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),203,High,No Nudge
+USR0528,Rahul Reddy,Bangalore,Vidhana Soudha,15:11,3,391,Weekends Only,Random / Malls,37,Low,Low Balance: ₹37. Please recharge at the counter.
+USR0529,Riya Iyer,Kolkata,Kalighat,13:22,43,2191,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),489,Low,No Nudge
+USR0530,Saanvi Gupta,Delhi,Hauz Khas,13:39,45,1614,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),19,Low,Refill Alert: You have 45 recent trips but only ₹19 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0531,Aarav Verma,Mumbai,Andheri,19:12,57,2363,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),10,High,Refill Alert: You have 57 recent trips but only ₹10 left. Rush hour at Andheri is peaking. Auto-load ₹200?
+USR0532,Neha Sharma,Mumbai,Chakala,19:04,34,1874,Mon-Sat (Variable),Campus <-> Hangout Zones,38,High,Refill Alert: You have 34 recent trips but only ₹38 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0533,Karthik Malhotra,Kolkata,Park Street,09:14,21,895,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),222,High,No Nudge
+USR0534,Fatima Gupta,Kolkata,Park Street,19:41,45,1109,Mon-Sat (Variable),Campus <-> Hangout Zones,40,High,Refill Alert: You have 45 recent trips but only ₹40 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0535,Pari Gowda,Kolkata,Netaji Bhavan,08:55,26,1116,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 26 recent trips but only ₹14 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0536,Ishaan Gowda,Chennai,Alandur,09:07,31,1892,Mon-Sat (Variable),Campus <-> Hangout Zones,21,High,Refill Alert: You have 31 recent trips but only ₹21 left. Rush hour at Alandur is peaking. Auto-load ₹200?
+USR0537,Sneha Iyer,Bangalore,MG Road,17:17,46,2671,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 46 recent trips but only ₹16 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0538,Lakshmi Dutta,Chennai,Thirumangalam,11:20,51,2133,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),300,Low,No Nudge
+USR0539,Neha Nair,Bangalore,Vidhana Soudha,18:54,7,192,Weekends Only,Random / Malls,24,High,Low Balance: ₹24. Please recharge at the counter.
+USR0540,Sneha Das,Bangalore,Trinity,18:19,36,1285,Mon-Sat (Variable),Campus <-> Hangout Zones,35,High,Refill Alert: You have 36 recent trips but only ₹35 left. Rush hour at Trinity is peaking. Auto-load ₹200?
+USR0541,Meera Khan,Bangalore,Trinity,19:41,48,1750,Mon-Sat (Variable),Campus <-> Hangout Zones,221,High,No Nudge
+USR0542,Suresh Menon,Mumbai,Airport Road,13:52,53,2225,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),200,Low,No Nudge
+USR0543,Muhammad Khan,Bangalore,Halasuru,11:09,45,2265,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,Low,Refill Alert: You have 45 recent trips but only ₹16 left. Rush hour at Halasuru is peaking. Auto-load ₹200?
+USR0544,Neha Gowda,Mumbai,Azad Nagar,15:36,42,2614,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),28,Low,Refill Alert: You have 42 recent trips but only ₹28 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0545,Saanvi Das,Kolkata,Maidan,10:28,46,2362,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),33,High,Refill Alert: You have 46 recent trips but only ₹33 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0546,Krishna Verma,Bangalore,Trinity,12:22,5,245,Weekends Only,Random / Malls,44,Low,Low Balance: ₹44. Please recharge at the counter.
+USR0547,Fatima Gowda,Chennai,Egmore,13:48,48,1894,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),29,Low,Refill Alert: You have 48 recent trips but only ₹29 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0548,Krishna Gowda,Bangalore,Majestic,17:02,48,2318,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),9,High,Refill Alert: You have 48 recent trips but only ₹9 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0549,Manish Chopra,Hyderabad,Secunderabad East,17:27,47,2407,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 47 recent trips but only ₹32 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0550,Manish Bose,Mumbai,Versova,18:10,39,1302,Mon-Sat (Variable),Campus <-> Hangout Zones,40,High,Refill Alert: You have 39 recent trips but only ₹40 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0551,Suresh Reddy,Bangalore,Indiranagar,08:48,47,2599,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),24,High,Refill Alert: You have 47 recent trips but only ₹24 left. Rush hour at Indiranagar is peaking. Auto-load ₹200?
+USR0552,Riya Khan,Delhi,Kashmere Gate,12:44,52,2794,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),27,Low,Refill Alert: You have 52 recent trips but only ₹27 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0553,Rahul Mukherjee,Delhi,Lajpat Nagar,08:26,41,1812,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),460,High,No Nudge
+USR0554,Vihaan Menon,Mumbai,Andheri,10:53,40,2787,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),168,High,No Nudge
+USR0555,Vikram Menon,Mumbai,Marol Naka,13:08,5,292,Weekends Only,Random / Malls,31,Low,Low Balance: ₹31. Please recharge at the counter.
+USR0556,Karthik Chopra,Bangalore,Baiyappanahalli,12:50,45,1845,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),434,Low,No Nudge
+USR0557,Ananya Pillai,Chennai,Vadapalani,16:07,50,1284,Mon-Sat (Variable),Campus <-> Hangout Zones,12,Low,Refill Alert: You have 50 recent trips but only ₹12 left. Rush hour at Vadapalani is peaking. Auto-load ₹200?
+USR0558,Sanjay Khan,Hyderabad,Raidurg,09:24,41,2972,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),496,High,No Nudge
+USR0559,Manish Verma,Delhi,Lajpat Nagar,18:16,37,1377,Mon-Sat (Variable),Campus <-> Hangout Zones,21,High,Refill Alert: You have 37 recent trips but only ₹21 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0560,Reyansh Sharma,Kolkata,Netaji Bhavan,12:31,43,1663,Mon-Sat (Variable),Campus <-> Hangout Zones,43,Low,Refill Alert: You have 43 recent trips but only ₹43 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0561,Krishna Rao,Hyderabad,Hitech City,11:54,33,1844,Mon-Sat (Variable),Campus <-> Hangout Zones,101,Low,No Nudge
+USR0562,Deepa Jain,Kolkata,Park Street,11:53,44,2133,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),195,Low,No Nudge
+USR0563,Diya Desai,Kolkata,Kalighat,17:20,24,1381,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),450,High,No Nudge
+USR0564,Diya Gupta,Delhi,Lajpat Nagar,17:10,33,1523,Mon-Sat (Variable),Campus <-> Hangout Zones,32,High,Refill Alert: You have 33 recent trips but only ₹32 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0565,Reyansh Malhotra,Bangalore,Indiranagar,10:46,51,1808,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),384,High,No Nudge
+USR0566,Aarav Chatterjee,Bangalore,Halasuru,08:24,41,2798,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),21,High,Refill Alert: You have 41 recent trips but only ₹21 left. Rush hour at Halasuru is peaking. Auto-load ₹200?
+USR0567,Amit Menon,Bangalore,Cubbon Park,18:56,48,1805,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),41,High,Refill Alert: You have 48 recent trips but only ₹41 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0568,Ishaan Agarwal,Delhi,Lajpat Nagar,08:07,17,1300,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),42,High,Refill Alert: You have 17 recent trips but only ₹42 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0569,Pooja Jain,Kolkata,Kalighat,14:02,51,1870,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),487,Low,No Nudge
+USR0570,Neha Dutta,Bangalore,Cubbon Park,09:39,20,1205,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),358,High,No Nudge
+USR0571,Sneha Sharma,Chennai,Egmore,13:25,50,1354,Mon-Sat (Variable),Campus <-> Hangout Zones,24,Low,Refill Alert: You have 50 recent trips but only ₹24 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0572,Muhammad Menon,Mumbai,WEH,11:45,57,1663,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,Low,Refill Alert: You have 57 recent trips but only ₹20 left. Rush hour at WEH is peaking. Auto-load ₹200?
+USR0573,Aarav Gowda,Bangalore,MG Road,17:50,40,2759,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),26,High,Refill Alert: You have 40 recent trips but only ₹26 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0574,Sai Jain,Delhi,Lajpat Nagar,19:43,28,804,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),43,High,Refill Alert: You have 28 recent trips but only ₹43 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0575,Pooja Desai,Hyderabad,Secunderabad East,09:25,5,455,Weekends Only,Random / Malls,36,High,Low Balance: ₹36. Please recharge at the counter.
+USR0576,Aditya Kumar,Delhi,Lajpat Nagar,10:41,54,2802,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),307,High,No Nudge
+USR0577,Aryan Iyer,Mumbai,Ghatkopar,12:43,4,229,Weekends Only,Random / Malls,333,Low,No Nudge
+USR0578,Deepa Mishra,Delhi,Lajpat Nagar,10:07,29,1286,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),422,High,No Nudge
+USR0579,Manish Singh,Bangalore,Indiranagar,18:10,15,1203,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),16,High,Low Balance: ₹16. Please recharge at the counter.
+USR0580,Saanvi Verma,Chennai,Chennai Central,17:47,47,2443,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),495,High,No Nudge
+USR0581,Meera Khan,Chennai,Airport,17:49,15,1411,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),26,High,Low Balance: ₹26. Please recharge at the counter.
+USR0582,Aadhya Khan,Bangalore,Baiyappanahalli,11:28,33,1490,Mon-Sat (Variable),Campus <-> Hangout Zones,20,Low,Refill Alert: You have 33 recent trips but only ₹20 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0583,Aryan Sharma,Chennai,Thirumangalam,08:42,43,1856,Mon-Sat (Variable),Campus <-> Hangout Zones,281,High,No Nudge
+USR0584,Aarav Mishra,Kolkata,Rabindra Sadan,14:33,46,2727,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),134,Low,No Nudge
+USR0585,Ishaan Patel,Chennai,Guindy,10:12,43,1602,Mon-Sat (Variable),Campus <-> Hangout Zones,9,High,Refill Alert: You have 43 recent trips but only ₹9 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0586,Saanvi Banerjee,Delhi,Hauz Khas,14:22,10,376,Weekends Only,Random / Malls,171,Low,No Nudge
+USR0587,Manish Banerjee,Hyderabad,Hitech City,10:29,50,1797,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),158,High,No Nudge
+USR0588,Pooja Gowda,Mumbai,Azad Nagar,17:58,47,1642,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),25,High,Refill Alert: You have 47 recent trips but only ₹25 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0589,Fatima Iyer,Chennai,Vadapalani,18:19,59,2307,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),270,High,No Nudge
+USR0590,Kiara Iyer,Chennai,Guindy,12:46,56,2940,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),35,Low,Refill Alert: You have 56 recent trips but only ₹35 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0591,Krishna Rao,Delhi,HUDA City Centre,17:19,41,2309,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),409,High,No Nudge
+USR0592,Vikram Yadav,Chennai,Koyambedu,13:56,49,1512,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),8,Low,Refill Alert: You have 49 recent trips but only ₹8 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0593,Anika Desai,Bangalore,MG Road,17:36,60,1746,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 60 recent trips but only ₹16 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0594,Aditya Bose,Bangalore,Baiyappanahalli,17:56,58,2658,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),11,High,Refill Alert: You have 58 recent trips but only ₹11 left. Rush hour at Baiyappanahalli is peaking. Auto-load ₹200?
+USR0595,Myra Kumar,Chennai,Koyambedu,19:52,47,1902,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),361,High,No Nudge
+USR0596,Amit Jain,Mumbai,Airport Road,11:56,47,1355,Mon-Sat (Variable),Campus <-> Hangout Zones,38,Low,Refill Alert: You have 47 recent trips but only ₹38 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0597,Aditya Yadav,Delhi,HUDA City Centre,09:26,17,983,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),36,High,Refill Alert: You have 17 recent trips but only ₹36 left. Rush hour at HUDA City Centre is peaking. Auto-load ₹200?
+USR0598,Sneha Kumar,Mumbai,Airport Road,09:19,34,1625,Mon-Sat (Variable),Campus <-> Hangout Zones,29,High,Refill Alert: You have 34 recent trips but only ₹29 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0599,Fatima Nair,Delhi,New Delhi,08:56,17,1424,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),6,High,Refill Alert: You have 17 recent trips but only ₹6 left. Rush hour at New Delhi is peaking. Auto-load ₹200?
+USR0600,Kavita Malhotra,Mumbai,Azad Nagar,08:21,23,1067,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 23 recent trips but only ₹16 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0601,Divya Chatterjee,Hyderabad,Secunderabad East,17:58,10,485,Weekends Only,Random / Malls,142,High,No Nudge
+USR0602,Vihaan Desai,Bangalore,Cubbon Park,08:45,57,2625,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),22,High,Refill Alert: You have 57 recent trips but only ₹22 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0603,Priya Chopra,Delhi,Kashmere Gate,11:46,38,1392,Mon-Sat (Variable),Campus <-> Hangout Zones,9,Low,Refill Alert: You have 38 recent trips but only ₹9 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0604,Anjali Jain,Hyderabad,Hitech City,10:49,40,1844,Mon-Sat (Variable),Campus <-> Hangout Zones,42,High,Refill Alert: You have 40 recent trips but only ₹42 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0605,Deepa Khan,Chennai,Chennai Central,19:52,2,469,Weekends Only,Random / Malls,312,High,No Nudge
+USR0606,Amit Dutta,Hyderabad,Ameerpet,17:59,28,996,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),335,High,No Nudge
+USR0607,Rahul Iyer,Kolkata,Esplanade,17:03,51,1937,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),38,High,Refill Alert: You have 51 recent trips but only ₹38 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0608,Divya Pillai,Bangalore,Vidhana Soudha,08:51,35,1131,Mon-Sat (Variable),Campus <-> Hangout Zones,42,High,Refill Alert: You have 35 recent trips but only ₹42 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0609,Aditya Mukherjee,Kolkata,Esplanade,19:46,51,2517,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 51 recent trips but only ₹32 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0610,Myra Mishra,Bangalore,Vidhana Soudha,13:04,27,882,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),18,Low,Refill Alert: You have 27 recent trips but only ₹18 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0611,Amit Patel,Kolkata,Maidan,19:41,58,2463,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),312,High,No Nudge
+USR0612,Suresh Menon,Delhi,Dwarka Sec 21,08:05,9,406,Weekends Only,Random / Malls,26,High,Low Balance: ₹26. Please recharge at the counter.
+USR0613,Rahul Joshi,Mumbai,Versova,12:58,50,1619,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),42,Low,Refill Alert: You have 50 recent trips but only ₹42 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0614,Sanjay Mishra,Delhi,Kashmere Gate,10:09,57,1633,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),106,High,No Nudge
+USR0615,Myra Gowda,Kolkata,Maidan,13:18,16,1469,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),10,Low,Refill Alert: You have 16 recent trips but only ₹10 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0616,Neha Jain,Bangalore,MG Road,15:20,45,1676,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),19,Low,Refill Alert: You have 45 recent trips but only ₹19 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0617,Meera Joshi,Chennai,Koyambedu,14:19,35,1692,Mon-Sat (Variable),Campus <-> Hangout Zones,361,Low,No Nudge
+USR0618,Rahul Yadav,Chennai,Egmore,16:57,56,1998,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),33,Low,Refill Alert: You have 56 recent trips but only ₹33 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0619,Aditya Joshi,Bangalore,Cubbon Park,09:19,30,1483,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 30 recent trips but only ₹16 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0620,Aryan Joshi,Chennai,Egmore,10:52,58,2027,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),21,High,Refill Alert: You have 58 recent trips but only ₹21 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0621,Vihaan Dutta,Mumbai,Saki Naka,14:17,28,892,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),21,Low,Refill Alert: You have 28 recent trips but only ₹21 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0622,Ravi Khan,Hyderabad,Secunderabad East,18:26,47,1860,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),24,High,Refill Alert: You have 47 recent trips but only ₹24 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0623,Sai Khan,Bangalore,Majestic,17:34,44,1961,Mon-Sat (Variable),Campus <-> Hangout Zones,7,High,Refill Alert: You have 44 recent trips but only ₹7 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0624,Sanjay Menon,Delhi,Hauz Khas,08:38,42,1053,Mon-Sat (Variable),Campus <-> Hangout Zones,7,High,Refill Alert: You have 42 recent trips but only ₹7 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0625,Myra Sharma,Bangalore,Indiranagar,17:24,38,1844,Mon-Sat (Variable),Campus <-> Hangout Zones,38,High,Refill Alert: You have 38 recent trips but only ₹38 left. Rush hour at Indiranagar is peaking. Auto-load ₹200?
+USR0626,Vijay Desai,Bangalore,MG Road,09:59,2,104,Weekends Only,Random / Malls,45,High,Low Balance: ₹45. Please recharge at the counter.
+USR0627,Aryan Iyer,Bangalore,Trinity,18:10,41,2347,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),12,High,Refill Alert: You have 41 recent trips but only ₹12 left. Rush hour at Trinity is peaking. Auto-load ₹200?
+USR0628,Anjali Das,Chennai,Guindy,12:49,48,2687,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),29,Low,Refill Alert: You have 48 recent trips but only ₹29 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0629,Vijay Desai,Mumbai,Saki Naka,14:17,53,1826,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),120,Low,No Nudge
+USR0630,Sneha Joshi,Hyderabad,Hitech City,19:57,50,1913,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),11,High,Refill Alert: You have 50 recent trips but only ₹11 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0631,Aryan Mehta,Hyderabad,Ameerpet,19:34,59,1872,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),492,High,No Nudge
+USR0632,Manish Reddy,Mumbai,Versova,17:36,55,1796,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),448,High,No Nudge
+USR0633,Kavita Chatterjee,Mumbai,Saki Naka,10:55,19,1498,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 19 recent trips but only ₹32 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0634,Krishna Dutta,Hyderabad,LB Nagar,11:11,54,2648,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),197,Low,No Nudge
+USR0635,Ishaan Malhotra,Chennai,Egmore,15:02,25,1416,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),437,Low,No Nudge
+USR0636,Anjali Das,Mumbai,Saki Naka,12:23,57,2944,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),17,Low,Refill Alert: You have 57 recent trips but only ₹17 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0637,Vihaan Pillai,Hyderabad,LB Nagar,19:41,50,2116,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),25,High,Refill Alert: You have 50 recent trips but only ₹25 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0638,Sneha Jain,Mumbai,Versova,10:27,50,2548,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),41,High,Refill Alert: You have 50 recent trips but only ₹41 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0639,Deepa Malhotra,Hyderabad,Ameerpet,19:52,54,1999,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),11,High,Refill Alert: You have 54 recent trips but only ₹11 left. Rush hour at Ameerpet is peaking. Auto-load ₹200?
+USR0640,Fatima Pillai,Delhi,Hauz Khas,18:22,43,1583,Mon-Sat (Variable),Campus <-> Hangout Zones,233,High,No Nudge
+USR0641,Myra Dutta,Mumbai,Airport Road,19:47,40,1194,Mon-Sat (Variable),Campus <-> Hangout Zones,128,High,No Nudge
+USR0642,Deepa Jain,Mumbai,Marol Naka,18:22,23,892,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 23 recent trips but only ₹32 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0643,Rahul Chatterjee,Bangalore,Majestic,19:27,27,1130,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),398,High,No Nudge
+USR0644,Aditya Jain,Delhi,Noida City Centre,10:27,25,1234,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),28,High,Refill Alert: You have 25 recent trips but only ₹28 left. Rush hour at Noida City Centre is peaking. Auto-load ₹200?
+USR0645,Kiara Gowda,Delhi,Noida City Centre,17:23,45,2997,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),332,High,No Nudge
+USR0646,Aarav Khan,Chennai,Alandur,08:47,15,966,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),33,High,Low Balance: ₹33. Please recharge at the counter.
+USR0647,Riya Rao,Mumbai,Versova,19:26,49,2676,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),10,High,Refill Alert: You have 49 recent trips but only ₹10 left. Rush hour at Versova is peaking. Auto-load ₹200?
+USR0648,Aadhya Desai,Bangalore,Majestic,18:56,58,2730,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),215,High,No Nudge
+USR0649,Manish Chopra,Bangalore,Halasuru,08:06,45,1452,Mon-Sat (Variable),Campus <-> Hangout Zones,18,High,Refill Alert: You have 45 recent trips but only ₹18 left. Rush hour at Halasuru is peaking. Auto-load ₹200?
+USR0650,Sneha Bose,Mumbai,Saki Naka,08:51,16,1440,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),9,High,Refill Alert: You have 16 recent trips but only ₹9 left. Rush hour at Saki Naka is peaking. Auto-load ₹200?
+USR0651,Aarav Verma,Kolkata,Kalighat,16:03,55,2627,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),308,Low,No Nudge
+USR0652,Kiara Joshi,Hyderabad,Secunderabad East,10:15,32,1074,Mon-Sat (Variable),Campus <-> Hangout Zones,360,High,No Nudge
+USR0653,Meera Verma,Bangalore,MG Road,09:54,27,1370,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),140,High,No Nudge
+USR0654,Pooja Gupta,Chennai,Vadapalani,19:48,52,1548,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),254,High,No Nudge
+USR0655,Pari Mishra,Bangalore,Trinity,18:41,42,1480,Mon-Sat (Variable),Campus <-> Hangout Zones,143,High,No Nudge
+USR0656,Vihaan Gupta,Mumbai,WEH,08:39,50,1407,Mon-Sat (Variable),Campus <-> Hangout Zones,212,High,No Nudge
+USR0657,Muhammad Yadav,Hyderabad,Secunderabad East,13:47,34,1878,Mon-Sat (Variable),Campus <-> Hangout Zones,13,Low,Refill Alert: You have 34 recent trips but only ₹13 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0658,Vijay Bose,Delhi,HUDA City Centre,14:23,46,1616,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),9,Low,Refill Alert: You have 46 recent trips but only ₹9 left. Rush hour at HUDA City Centre is peaking. Auto-load ₹200?
+USR0659,Aadhya Malhotra,Chennai,Egmore,11:11,29,1361,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),19,Low,Refill Alert: You have 29 recent trips but only ₹19 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0660,Sai Pillai,Delhi,Lajpat Nagar,09:43,6,129,Weekends Only,Random / Malls,185,High,No Nudge
+USR0661,Aditya Mukherjee,Bangalore,Trinity,12:20,42,1628,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),332,Low,No Nudge
+USR0662,Kavita Nair,Mumbai,Azad Nagar,18:54,3,106,Weekends Only,Random / Malls,21,High,Low Balance: ₹21. Please recharge at the counter.
+USR0663,Muhammad Ghosh,Kolkata,Rabindra Sadan,19:04,58,2602,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 58 recent trips but only ₹14 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0664,Riya Reddy,Bangalore,MG Road,10:07,60,1520,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),327,High,No Nudge
+USR0665,Anika Malhotra,Bangalore,Majestic,08:46,45,1596,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),172,High,No Nudge
+USR0666,Vikram Gowda,Mumbai,Chakala,12:04,49,1791,Mon-Sat (Variable),Campus <-> Hangout Zones,30,Low,Refill Alert: You have 49 recent trips but only ₹30 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0667,Deepa Gupta,Bangalore,Indiranagar,16:06,19,1335,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),442,Low,No Nudge
+USR0668,Meera Ghosh,Hyderabad,Miyapur,15:58,57,2009,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),201,Low,No Nudge
+USR0669,Suresh Chopra,Kolkata,Netaji Bhavan,16:30,26,1393,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),15,Low,Refill Alert: You have 26 recent trips but only ₹15 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0670,Priya Banerjee,Chennai,Airport,09:30,42,2219,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),420,High,No Nudge
+USR0671,Anika Sharma,Hyderabad,LB Nagar,18:57,54,2586,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),25,High,Refill Alert: You have 54 recent trips but only ₹25 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0672,Fatima Pillai,Mumbai,Saki Naka,15:06,46,1999,Mon-Sat (Variable),Campus <-> Hangout Zones,275,Low,No Nudge
+USR0673,Ananya Rao,Chennai,Vadapalani,09:19,51,2775,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,High,Refill Alert: You have 51 recent trips but only ₹20 left. Rush hour at Vadapalani is peaking. Auto-load ₹200?
+USR0674,Anjali Das,Hyderabad,Hitech City,14:51,53,1789,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),390,Low,No Nudge
+USR0675,Manish Nair,Bangalore,MG Road,18:33,40,1717,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),12,High,Refill Alert: You have 40 recent trips but only ₹12 left. Rush hour at MG Road is peaking. Auto-load ₹200?
+USR0676,Sanjay Gowda,Kolkata,Dum Dum,08:07,30,1663,Mon-Sat (Variable),Campus <-> Hangout Zones,37,High,Refill Alert: You have 30 recent trips but only ₹37 left. Rush hour at Dum Dum is peaking. Auto-load ₹200?
+USR0677,Kavita Nair,Delhi,Rajiv Chowk,12:07,8,350,Weekends Only,Random / Malls,12,Low,Low Balance: ₹12. Please recharge at the counter.
+USR0678,Rahul Desai,Hyderabad,LB Nagar,16:20,45,2304,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),18,Low,Refill Alert: You have 45 recent trips but only ₹18 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0679,Fatima Khan,Delhi,Noida City Centre,15:15,44,2630,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),200,Low,No Nudge
+USR0680,Fatima Malhotra,Kolkata,Esplanade,14:21,38,1910,Mon-Sat (Variable),Campus <-> Hangout Zones,9,Low,Refill Alert: You have 38 recent trips but only ₹9 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0681,Neha Iyer,Delhi,Chandni Chowk,17:00,20,1385,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),23,High,Refill Alert: You have 20 recent trips but only ₹23 left. Rush hour at Chandni Chowk is peaking. Auto-load ₹200?
+USR0682,Manish Jain,Kolkata,Park Street,19:17,16,1383,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),259,High,No Nudge
+USR0683,Neha Yadav,Chennai,Chennai Central,10:59,58,2055,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),35,High,Refill Alert: You have 58 recent trips but only ₹35 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0684,Muhammad Mukherjee,Kolkata,Netaji Bhavan,08:03,51,1785,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),32,High,Refill Alert: You have 51 recent trips but only ₹32 left. Rush hour at Netaji Bhavan is peaking. Auto-load ₹200?
+USR0685,Ishaan Desai,Chennai,Alandur,08:20,30,1594,Mon-Sat (Variable),Campus <-> Hangout Zones,462,High,No Nudge
+USR0686,Vijay Ghosh,Delhi,Noida City Centre,19:06,60,2513,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),7,High,Refill Alert: You have 60 recent trips but only ₹7 left. Rush hour at Noida City Centre is peaking. Auto-load ₹200?
+USR0687,Aditya Banerjee,Delhi,Kashmere Gate,19:47,46,1876,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),23,High,Refill Alert: You have 46 recent trips but only ₹23 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0688,Anika Yadav,Kolkata,Maidan,11:21,48,2124,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),22,Low,Refill Alert: You have 48 recent trips but only ₹22 left. Rush hour at Maidan is peaking. Auto-load ₹200?
+USR0689,Aditya Rao,Bangalore,Vidhana Soudha,14:41,46,1133,Mon-Sat (Variable),Campus <-> Hangout Zones,215,Low,No Nudge
+USR0690,Myra Iyer,Hyderabad,Raidurg,12:32,29,1273,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),45,Low,Refill Alert: You have 29 recent trips but only ₹45 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0691,Kavita Das,Kolkata,Park Street,18:17,50,1935,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),278,High,No Nudge
+USR0692,Lakshmi Ghosh,Chennai,Koyambedu,19:01,54,2587,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),298,High,No Nudge
+USR0693,Muhammad Mukherjee,Kolkata,Rabindra Sadan,17:08,47,1239,Mon-Sat (Variable),Campus <-> Hangout Zones,35,High,Refill Alert: You have 47 recent trips but only ₹35 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0694,Rahul Das,Delhi,Kashmere Gate,10:37,45,1751,Mon-Sat (Variable),Campus <-> Hangout Zones,45,High,Refill Alert: You have 45 recent trips but only ₹45 left. Rush hour at Kashmere Gate is peaking. Auto-load ₹200?
+USR0695,Sneha Pillai,Mumbai,Azad Nagar,08:04,26,1367,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),323,High,No Nudge
+USR0696,Saanvi Ghosh,Hyderabad,LB Nagar,11:12,20,1312,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),25,Low,Refill Alert: You have 20 recent trips but only ₹25 left. Rush hour at LB Nagar is peaking. Auto-load ₹200?
+USR0697,Vijay Banerjee,Delhi,Lajpat Nagar,10:53,32,1296,Mon-Sat (Variable),Campus <-> Hangout Zones,17,High,Refill Alert: You have 32 recent trips but only ₹17 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0698,Myra Mukherjee,Kolkata,Dum Dum,09:16,44,1151,Mon-Sat (Variable),Campus <-> Hangout Zones,163,High,No Nudge
+USR0699,Sneha Menon,Bangalore,Indiranagar,10:06,16,875,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),30,High,Refill Alert: You have 16 recent trips but only ₹30 left. Rush hour at Indiranagar is peaking. Auto-load ₹200?
+USR0700,Ishaan Malhotra,Mumbai,Versova,16:18,55,1983,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),477,Low,No Nudge
+USR0701,Rohit Mishra,Delhi,Hauz Khas,18:33,40,1502,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),13,High,Refill Alert: You have 40 recent trips but only ₹13 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0702,Arjun Dutta,Kolkata,Dum Dum,19:21,60,1677,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),198,High,No Nudge
+USR0703,Amit Bose,Hyderabad,Hitech City,15:06,4,195,Weekends Only,Random / Malls,33,Low,Low Balance: ₹33. Please recharge at the counter.
+USR0704,Pooja Gupta,Delhi,New Delhi,08:14,44,2143,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),133,High,No Nudge
+USR0705,Fatima Kumar,Delhi,Chandni Chowk,10:50,29,1472,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),17,High,Refill Alert: You have 29 recent trips but only ₹17 left. Rush hour at Chandni Chowk is peaking. Auto-load ₹200?
+USR0706,Ishaan Agarwal,Kolkata,Esplanade,08:08,32,1734,Mon-Sat (Variable),Campus <-> Hangout Zones,41,High,Refill Alert: You have 32 recent trips but only ₹41 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0707,Muhammad Agarwal,Mumbai,Azad Nagar,18:12,4,106,Weekends Only,Random / Malls,20,High,Low Balance: ₹20. Please recharge at the counter.
+USR0708,Vihaan Dutta,Delhi,HUDA City Centre,10:33,18,968,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),492,High,No Nudge
+USR0709,Fatima Joshi,Hyderabad,LB Nagar,08:54,54,1598,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),284,High,No Nudge
+USR0710,Rohit Agarwal,Bangalore,Majestic,17:32,54,2524,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),22,High,Refill Alert: You have 54 recent trips but only ₹22 left. Rush hour at Majestic is peaking. Auto-load ₹200?
+USR0711,Reyansh Banerjee,Chennai,Koyambedu,12:44,58,2054,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,Low,Refill Alert: You have 58 recent trips but only ₹40 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0712,Diya Verma,Delhi,Noida City Centre,18:00,58,1593,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),162,High,No Nudge
+USR0713,Reyansh Das,Kolkata,Kalighat,17:46,8,202,Weekends Only,Random / Malls,40,High,Low Balance: ₹40. Please recharge at the counter.
+USR0714,Rahul Malhotra,Chennai,Vadapalani,13:44,55,2324,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),355,Low,No Nudge
+USR0715,Kiara Joshi,Mumbai,Chakala,08:12,48,1970,Mon-Sat (Variable),Campus <-> Hangout Zones,231,High,No Nudge
+USR0716,Vijay Chopra,Chennai,Guindy,14:01,42,2810,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,Low,Refill Alert: You have 42 recent trips but only ₹40 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0717,Krishna Pillai,Chennai,Chennai Central,08:46,41,1991,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),164,High,No Nudge
+USR0718,Meera Khan,Bangalore,Cubbon Park,14:22,31,1655,Mon-Sat (Variable),Campus <-> Hangout Zones,325,Low,No Nudge
+USR0719,Divya Chopra,Kolkata,Esplanade,10:17,49,2707,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),15,High,Refill Alert: You have 49 recent trips but only ₹15 left. Rush hour at Esplanade is peaking. Auto-load ₹200?
+USR0720,Ravi Sharma,Kolkata,Dum Dum,19:40,6,326,Weekends Only,Random / Malls,14,High,Low Balance: ₹14. Please recharge at the counter.
+USR0721,Suresh Kumar,Chennai,Koyambedu,08:18,42,1053,Mon-Sat (Variable),Campus <-> Hangout Zones,18,High,Refill Alert: You have 42 recent trips but only ₹18 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0722,Vikram Das,Mumbai,Chakala,09:54,46,1368,Mon-Sat (Variable),Campus <-> Hangout Zones,42,High,Refill Alert: You have 46 recent trips but only ₹42 left. Rush hour at Chakala is peaking. Auto-load ₹200?
+USR0723,Diya Rao,Chennai,Chennai Central,09:59,50,1013,Mon-Sat (Variable),Campus <-> Hangout Zones,43,High,Refill Alert: You have 50 recent trips but only ₹43 left. Rush hour at Chennai Central is peaking. Auto-load ₹200?
+USR0724,Sai Agarwal,Chennai,Airport,19:47,31,1136,Mon-Sat (Variable),Campus <-> Hangout Zones,22,High,Refill Alert: You have 31 recent trips but only ₹22 left. Rush hour at Airport is peaking. Auto-load ₹200?
+USR0725,Sai Singh,Hyderabad,Ameerpet,11:26,32,1523,Mon-Sat (Variable),Campus <-> Hangout Zones,27,Low,Refill Alert: You have 32 recent trips but only ₹27 left. Rush hour at Ameerpet is peaking. Auto-load ₹200?
+USR0726,Aadhya Das,Delhi,Kashmere Gate,08:16,2,239,Weekends Only,Random / Malls,43,High,Low Balance: ₹43. Please recharge at the counter.
+USR0727,Deepa Desai,Delhi,HUDA City Centre,17:56,22,1104,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),43,High,Refill Alert: You have 22 recent trips but only ₹43 left. Rush hour at HUDA City Centre is peaking. Auto-load ₹200?
+USR0728,Diya Patel,Mumbai,Versova,09:45,42,2725,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),218,High,No Nudge
+USR0729,Reyansh Das,Chennai,Vadapalani,11:20,47,1562,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),361,Low,No Nudge
+USR0730,Ishaan Bose,Delhi,Hauz Khas,17:05,46,2567,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),9,High,Refill Alert: You have 46 recent trips but only ₹9 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0731,Ananya Yadav,Mumbai,Azad Nagar,10:31,26,951,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),202,High,No Nudge
+USR0732,Vijay Yadav,Mumbai,Chakala,17:09,6,263,Weekends Only,Random / Malls,468,High,No Nudge
+USR0733,Aryan Agarwal,Chennai,Thirumangalam,19:35,59,2430,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),16,High,Refill Alert: You have 59 recent trips but only ₹16 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0734,Lakshmi Agarwal,Kolkata,Park Street,17:44,47,1772,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),198,High,No Nudge
+USR0735,Riya Desai,Mumbai,Airport Road,18:18,52,2271,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),25,High,Refill Alert: You have 52 recent trips but only ₹25 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0736,Vihaan Chatterjee,Delhi,Hauz Khas,10:36,46,2864,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),6,High,Refill Alert: You have 46 recent trips but only ₹6 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0737,Myra Sharma,Mumbai,Chakala,14:01,43,2631,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),229,Low,No Nudge
+USR0738,Arjun Agarwal,Kolkata,Park Street,08:12,43,2504,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),19,High,Refill Alert: You have 43 recent trips but only ₹19 left. Rush hour at Park Street is peaking. Auto-load ₹200?
+USR0739,Arjun Mukherjee,Mumbai,Andheri,13:58,41,2320,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),26,Low,Refill Alert: You have 41 recent trips but only ₹26 left. Rush hour at Andheri is peaking. Auto-load ₹200?
+USR0740,Ananya Rao,Chennai,Koyambedu,10:58,42,2716,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),188,High,No Nudge
+USR0741,Rohit Das,Hyderabad,Raidurg,16:59,21,1182,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),41,Low,Refill Alert: You have 21 recent trips but only ₹41 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0742,Myra Verma,Kolkata,Netaji Bhavan,10:36,2,201,Weekends Only,Random / Malls,172,High,No Nudge
+USR0743,Aryan Chatterjee,Mumbai,Andheri,19:15,17,1046,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),116,High,No Nudge
+USR0744,Anjali Gowda,Chennai,Koyambedu,17:23,47,1391,Mon-Sat (Variable),Campus <-> Hangout Zones,27,High,Refill Alert: You have 47 recent trips but only ₹27 left. Rush hour at Koyambedu is peaking. Auto-load ₹200?
+USR0745,Priya Agarwal,Chennai,Vadapalani,09:11,58,2784,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),20,High,Refill Alert: You have 58 recent trips but only ₹20 left. Rush hour at Vadapalani is peaking. Auto-load ₹200?
+USR0746,Ishaan Mehta,Kolkata,Kalighat,18:39,34,1003,Mon-Sat (Variable),Campus <-> Hangout Zones,209,High,No Nudge
+USR0747,Manish Banerjee,Chennai,Thirumangalam,15:38,54,1969,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),366,Low,No Nudge
+USR0748,Lakshmi Jain,Chennai,Koyambedu,19:48,51,2130,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),378,High,No Nudge
+USR0749,Karthik Chatterjee,Delhi,Lajpat Nagar,19:53,44,2382,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),40,High,Refill Alert: You have 44 recent trips but only ₹40 left. Rush hour at Lajpat Nagar is peaking. Auto-load ₹200?
+USR0750,Anjali Agarwal,Chennai,Guindy,10:14,49,2277,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),36,High,Refill Alert: You have 49 recent trips but only ₹36 left. Rush hour at Guindy is peaking. Auto-load ₹200?
+USR0751,Meera Pillai,Hyderabad,Secunderabad East,18:34,53,1780,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),30,High,Refill Alert: You have 53 recent trips but only ₹30 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0752,Aarav Sharma,Delhi,Chandni Chowk,14:14,3,365,Weekends Only,Random / Malls,368,Low,No Nudge
+USR0753,Manish Jain,Chennai,Thirumangalam,19:30,45,2509,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),39,High,Refill Alert: You have 45 recent trips but only ₹39 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0754,Pari Chatterjee,Bangalore,Halasuru,09:02,52,2188,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),402,High,No Nudge
+USR0755,Aarav Chatterjee,Chennai,Egmore,11:56,59,2633,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),39,Low,Refill Alert: You have 59 recent trips but only ₹39 left. Rush hour at Egmore is peaking. Auto-load ₹200?
+USR0756,Neha Pillai,Kolkata,Dum Dum,08:33,47,2904,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),484,High,No Nudge
+USR0757,Aadhya Mehta,Hyderabad,Ameerpet,11:50,37,1113,Mon-Sat (Variable),Campus <-> Hangout Zones,415,Low,No Nudge
+USR0758,Fatima Gupta,Bangalore,MG Road,09:34,58,2637,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),246,High,No Nudge
+USR0759,Myra Nair,Chennai,Thirumangalam,13:37,58,2564,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),8,Low,Refill Alert: You have 58 recent trips but only ₹8 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0760,Arjun Khan,Kolkata,Netaji Bhavan,08:56,39,1422,Mon-Sat (Variable),Campus <-> Hangout Zones,143,High,No Nudge
+USR0761,Vikram Ghosh,Chennai,Vadapalani,17:20,39,1976,Mon-Sat (Variable),Campus <-> Hangout Zones,22,High,Refill Alert: You have 39 recent trips but only ₹22 left. Rush hour at Vadapalani is peaking. Auto-load ₹200?
+USR0762,Aadhya Chopra,Mumbai,Airport Road,09:15,9,123,Weekends Only,Random / Malls,39,High,Low Balance: ₹39. Please recharge at the counter.
+USR0763,Sneha Jain,Hyderabad,Secunderabad East,12:16,45,2124,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),23,Low,Refill Alert: You have 45 recent trips but only ₹23 left. Rush hour at Secunderabad East is peaking. Auto-load ₹200?
+USR0764,Krishna Chopra,Mumbai,Marol Naka,11:43,43,1964,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),23,Low,Refill Alert: You have 43 recent trips but only ₹23 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0765,Divya Reddy,Bangalore,Vidhana Soudha,19:12,56,1619,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),18,High,Refill Alert: You have 56 recent trips but only ₹18 left. Rush hour at Vidhana Soudha is peaking. Auto-load ₹200?
+USR0766,Rahul Joshi,Delhi,HUDA City Centre,08:49,60,1655,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),179,High,No Nudge
+USR0767,Arjun Das,Chennai,Egmore,12:12,50,1117,Mon-Sat (Variable),Campus <-> Hangout Zones,352,Low,No Nudge
+USR0768,Sanjay Rao,Hyderabad,Secunderabad East,17:54,55,1547,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),327,High,No Nudge
+USR0769,Pooja Mukherjee,Delhi,Lajpat Nagar,17:00,57,2930,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),359,High,No Nudge
+USR0770,Diya Singh,Delhi,Rajiv Chowk,19:50,45,1636,Mon-Sat (Variable),Campus <-> Hangout Zones,42,High,Refill Alert: You have 45 recent trips but only ₹42 left. Rush hour at Rajiv Chowk is peaking. Auto-load ₹200?
+USR0771,Riya Chopra,Delhi,HUDA City Centre,12:00,57,2737,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),12,Low,Refill Alert: You have 57 recent trips but only ₹12 left. Rush hour at HUDA City Centre is peaking. Auto-load ₹200?
+USR0772,Pooja Gowda,Kolkata,Dum Dum,09:00,55,2373,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),146,High,No Nudge
+USR0773,Amit Jain,Bangalore,Cubbon Park,14:43,42,2211,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),10,Low,Refill Alert: You have 42 recent trips but only ₹10 left. Rush hour at Cubbon Park is peaking. Auto-load ₹200?
+USR0774,Krishna Rao,Delhi,New Delhi,13:40,24,1002,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),370,Low,No Nudge
+USR0775,Sneha Desai,Kolkata,Esplanade,08:32,57,2434,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),498,High,No Nudge
+USR0776,Fatima Chopra,Hyderabad,Hitech City,17:03,27,830,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),10,High,Refill Alert: You have 27 recent trips but only ₹10 left. Rush hour at Hitech City is peaking. Auto-load ₹200?
+USR0777,Rohit Desai,Chennai,Alandur,08:58,39,1408,Mon-Sat (Variable),Campus <-> Hangout Zones,445,High,No Nudge
+USR0778,Fatima Gowda,Delhi,Lajpat Nagar,16:43,34,1341,Mon-Sat (Variable),Campus <-> Hangout Zones,217,Low,No Nudge
+USR0779,Neha Das,Mumbai,Marol Naka,11:56,36,1995,Mon-Sat (Variable),Campus <-> Hangout Zones,18,Low,Refill Alert: You have 36 recent trips but only ₹18 left. Rush hour at Marol Naka is peaking. Auto-load ₹200?
+USR0780,Vijay Mishra,Bangalore,MG Road,18:17,42,1569,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),457,High,No Nudge
+USR0781,Priya Desai,Hyderabad,Raidurg,08:39,41,2498,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),41,High,Refill Alert: You have 41 recent trips but only ₹41 left. Rush hour at Raidurg is peaking. Auto-load ₹200?
+USR0782,Muhammad Singh,Kolkata,Rabindra Sadan,16:23,19,1374,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),35,Low,Refill Alert: You have 19 recent trips but only ₹35 left. Rush hour at Rabindra Sadan is peaking. Auto-load ₹200?
+USR0783,Priya Chopra,Mumbai,WEH,17:13,29,1463,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),42,High,Refill Alert: You have 29 recent trips but only ₹42 left. Rush hour at WEH is peaking. Auto-load ₹200?
+USR0784,Manish Patel,Bangalore,Indiranagar,17:16,35,1838,Mon-Sat (Variable),Campus <-> Hangout Zones,385,High,No Nudge
+USR0785,Muhammad Chatterjee,Mumbai,Airport Road,10:58,60,2156,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),14,High,Refill Alert: You have 60 recent trips but only ₹14 left. Rush hour at Airport Road is peaking. Auto-load ₹200?
+USR0786,Kiara Iyer,Chennai,Vadapalani,08:14,43,2374,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),225,High,No Nudge
+USR0787,Lakshmi Kumar,Delhi,Dwarka Sec 21,13:13,51,2636,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),453,Low,No Nudge
+USR0788,Anika Rao,Chennai,Thirumangalam,19:54,41,1467,Mon-Sat (Variable),Campus <-> Hangout Zones,45,High,Refill Alert: You have 41 recent trips but only ₹45 left. Rush hour at Thirumangalam is peaking. Auto-load ₹200?
+USR0789,Ishaan Kumar,Delhi,Hauz Khas,16:24,41,2065,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),106,Low,No Nudge
+USR0790,Aryan Verma,Kolkata,Kalighat,09:47,40,1995,Mon-Sat (Variable),Campus <-> Hangout Zones,32,High,Refill Alert: You have 40 recent trips but only ₹32 left. Rush hour at Kalighat is peaking. Auto-load ₹200?
+USR0791,Ravi Yadav,Hyderabad,Ameerpet,12:46,60,2230,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),31,Low,Refill Alert: You have 60 recent trips but only ₹31 left. Rush hour at Ameerpet is peaking. Auto-load ₹200?
+USR0792,Karthik Banerjee,Kolkata,Dum Dum,17:43,54,2293,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),7,High,Refill Alert: You have 54 recent trips but only ₹7 left. Rush hour at Dum Dum is peaking. Auto-load ₹200?
+USR0793,Pari Desai,Mumbai,Azad Nagar,19:40,32,1181,Mon-Sat (Variable),Campus <-> Hangout Zones,30,High,Refill Alert: You have 32 recent trips but only ₹30 left. Rush hour at Azad Nagar is peaking. Auto-load ₹200?
+USR0794,Divya Menon,Delhi,Hauz Khas,18:04,39,1969,Mon-Sat (Variable),Campus <-> Hangout Zones,36,High,Refill Alert: You have 39 recent trips but only ₹36 left. Rush hour at Hauz Khas is peaking. Auto-load ₹200?
+USR0795,Pooja Chatterjee,Kolkata,Netaji Bhavan,17:43,57,2077,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),222,High,No Nudge
+USR0796,Rohit Singh,Bangalore,Halasuru,11:27,48,1131,Mon-Sat (Variable),Campus <-> Hangout Zones,335,Low,No Nudge
+USR0797,Arjun Sharma,Chennai,Guindy,11:44,54,2863,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),301,Low,No Nudge
+USR0798,Manish Agarwal,Chennai,Alandur,10:42,24,1002,Tue-Thu (Peak Hours),Fixed Route (Home <-> Office),473,High,No Nudge
+USR0799,Riya Mehta,Bangalore,MG Road,13:35,43,1846,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),207,Low,No Nudge
+USR0800,Ravi Iyer,Chennai,Alandur,09:19,42,2825,Mon-Fri (Peak Hours),Fixed Route (Home <-> Office),8,High,Refill Alert: You have 42 recent trips but only ₹8 left. Rush hour at Alandur is peaking. Auto-load ₹200?
