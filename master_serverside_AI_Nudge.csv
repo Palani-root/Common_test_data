@@ -1,0 +1,802 @@
+Log_ID,User_ID,Station_ID,Is_Target_Event,User_Type,Velocity_State,Entry_Velocity_mps,Wallet_Balance,Gate_Block_Risk,Timestamp,Day_Of_Week,GPS_Accuracy_Meters,Network_Latency_ms,Avg_Recharge_Amt,Trip_Cost_Estimated
+a1b2c3d4,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.21,450,Low,2025-10-01 08:48:12,Mon,5.2,42,500,45
+b2c3d4e5,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.18,405,Low,2025-10-02 08:51:05,Tue,4.8,39,500,45
+c3d4e5f6,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.25,360,Low,2025-10-03 08:49:55,Wed,6.1,45,500,45
+d4e5f6g7,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.15,315,Low,2025-10-04 08:52:10,Thu,5.5,41,500,45
+e5f6g7h8,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.22,270,Low,2025-10-05 08:47:45,Fri,4.9,38,500,45
+f6g7h8i9,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.19,225,Low,2025-10-08 08:50:30,Mon,5.3,44,500,45
+g7h8i9j0,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.20,500,Low,2025-10-09 08:53:15,Tue,4.7,40,500,45
+h8i9j0k1,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.24,455,Low,2025-10-10 08:49:20,Wed,5.0,37,500,45
+i9j0k1l2,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.17,410,Low,2025-10-11 08:51:50,Thu,6.2,46,500,45
+j0k1l2m3,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.23,365,Low,2025-10-12 08:48:05,Fri,5.1,43,500,45
+k1l2m3n4,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.16,320,Low,2025-10-15 08:50:40,Mon,5.8,39,500,45
+l2m3n4o5,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.26,275,Low,2025-10-16 08:52:25,Tue,4.6,41,500,45
+m3n4o5p6,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.18,230,Low,2025-10-17 08:49:10,Wed,5.4,38,500,45
+n4o5p6q7,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.21,185,Low,2025-10-18 08:51:35,Thu,5.9,45,500,45
+o5p6q7r8,USR_001,Hauz Khas,False,Daily_Commuter,Walking,1.19,140,Low,2025-10-19 08:50:15,Fri,4.8,42,500,45
+p6q7r8s9,USR_001,Hauz Khas,True,Daily_Commuter,Sprinting,2.15,30,High,2025-10-22 08:54:00,Mon,2.1,35,500,45
+q7r8s9t0,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.15,500,Low,2025-10-01 09:02:10,Mon,5.5,48,500,45
+r8s9t0u1,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.22,460,Low,2025-10-02 09:05:45,Tue,4.9,41,500,45
+s9t0u1v2,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.19,420,Low,2025-10-03 08:59:30,Wed,6.0,39,500,45
+t0u1v2w3,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.25,380,Low,2025-10-04 09:03:15,Thu,5.2,45,500,45
+u1v2w3x4,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.18,340,Low,2025-10-05 09:01:50,Fri,5.7,40,500,45
+v2w3x4y5,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.21,300,Low,2025-10-08 09:04:25,Mon,4.8,38,500,45
+w3x4y5z6,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.16,260,Low,2025-10-09 09:00:55,Tue,5.3,42,500,45
+x4y5z6a7,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.23,220,Low,2025-10-10 09:06:10,Wed,6.1,44,500,45
+y5z6a7b8,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.17,500,Low,2025-10-11 09:02:40,Thu,5.0,39,500,45
+z6a7b8c9,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.20,460,Low,2025-10-12 09:05:15,Fri,4.9,43,500,45
+a7b8c9d0,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.24,420,Low,2025-10-15 08:59:50,Mon,5.6,40,500,45
+b8c9d0e1,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.15,380,Low,2025-10-16 09:03:30,Tue,4.5,37,500,45
+c9d0e1f2,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.22,340,Low,2025-10-17 09:01:20,Wed,5.8,45,500,45
+d0e1f2g3,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.18,300,Low,2025-10-18 09:04:05,Thu,5.1,41,500,45
+e1f2g3h4,USR_002,Indiranagar,False,Daily_Commuter,Walking,1.21,260,Low,2025-10-19 09:00:45,Fri,6.3,38,500,45
+f2g3h4i5,USR_002,Indiranagar,True,Daily_Commuter,Sprinting,2.18,30,High,2025-10-22 09:06:00,Mon,2.5,33,500,45
+g3h4i5j6,USR_003,Cyber City,False,Daily_Commuter,Walking,1.22,600,Low,2025-10-01 08:50:30,Mon,5.1,44,500,45
+h4i5j6k7,USR_003,Cyber City,False,Daily_Commuter,Walking,1.19,555,Low,2025-10-02 08:52:15,Tue,4.7,40,500,45
+i5j6k7l8,USR_003,Cyber City,False,Daily_Commuter,Walking,1.25,510,Low,2025-10-03 08:49:10,Wed,5.8,46,500,45
+j6k7l8m9,USR_003,Cyber City,False,Daily_Commuter,Walking,1.16,465,Low,2025-10-04 08:51:45,Thu,5.2,42,500,45
+k7l8m9n0,USR_003,Cyber City,False,Daily_Commuter,Walking,1.21,420,Low,2025-10-05 08:50:20,Fri,4.9,39,500,45
+l8m9n0o1,USR_003,Cyber City,False,Daily_Commuter,Walking,1.18,375,Low,2025-10-08 08:53:05,Mon,5.5,43,500,45
+m9n0o1p2,USR_003,Cyber City,False,Daily_Commuter,Walking,1.23,330,Low,2025-10-09 08:48:50,Tue,4.6,38,500,45
+n0o1p2q3,USR_003,Cyber City,False,Daily_Commuter,Walking,1.17,285,Low,2025-10-10 08:51:25,Wed,5.0,41,500,45
+o1p2q3r4,USR_003,Cyber City,False,Daily_Commuter,Walking,1.20,240,Low,2025-10-11 08:50:00,Thu,6.1,47,500,45
+p2q3r4s5,USR_003,Cyber City,False,Daily_Commuter,Walking,1.24,195,Low,2025-10-12 08:52:40,Fri,4.8,36,500,45
+q3r4s5t6,USR_003,Cyber City,False,Daily_Commuter,Walking,1.15,150,Low,2025-10-15 08:49:35,Mon,5.3,44,500,45
+r4s5t6u7,USR_003,Cyber City,False,Daily_Commuter,Walking,1.22,105,Low,2025-10-16 08:51:15,Tue,5.7,40,500,45
+s5t6u7v8,USR_003,Cyber City,False,Daily_Commuter,Walking,1.19,60,Low,2025-10-17 08:50:50,Wed,4.9,45,500,45
+t6u7v8w9,USR_003,Cyber City,False,Daily_Commuter,Walking,1.21,15,High,2025-10-18 08:48:25,Thu,5.2,39,500,45
+u7v8w9x0,USR_003,Cyber City,False,Daily_Commuter,Walking,1.26,515,Low,2025-10-19 08:51:55,Fri,4.5,42,500,45
+v8w9x0y1,USR_003,Cyber City,True,Daily_Commuter,Sprinting,2.12,30,High,2025-10-22 08:54:30,Mon,2.4,34,500,45
+w9x0y1z2,USR_004,MG Road,False,Daily_Commuter,Walking,1.18,300,Low,2025-10-01 09:10:20,Mon,5.5,41,500,45
+x0y1z2a3,USR_004,MG Road,False,Daily_Commuter,Walking,1.22,260,Low,2025-10-02 09:12:45,Tue,4.7,44,500,45
+y1z2a3b4,USR_004,MG Road,False,Daily_Commuter,Walking,1.15,220,Low,2025-10-03 09:08:10,Wed,6.2,38,500,45
+z2a3b4c5,USR_004,MG Road,False,Daily_Commuter,Walking,1.20,180,Low,2025-10-04 09:11:30,Thu,5.1,46,500,45
+a3b4c5d6,USR_004,MG Road,False,Daily_Commuter,Walking,1.25,140,Low,2025-10-05 09:09:55,Fri,4.8,37,500,45
+b4c5d6e7,USR_004,MG Road,False,Daily_Commuter,Walking,1.17,100,Low,2025-10-08 09:10:40,Mon,5.4,43,500,45
+c5d6e7f8,USR_004,MG Road,False,Daily_Commuter,Walking,1.23,60,Low,2025-10-09 09:13:15,Tue,4.9,40,500,45
+d6e7f8g9,USR_004,MG Road,False,Daily_Commuter,Walking,1.19,20,High,2025-10-10 09:11:05,Wed,5.8,42,500,45
+e7f8g9h0,USR_004,MG Road,False,Daily_Commuter,Walking,1.21,520,Low,2025-10-11 09:08:50,Thu,4.6,39,500,45
+f8g9h0i1,USR_004,MG Road,False,Daily_Commuter,Walking,1.16,480,Low,2025-10-12 09:12:25,Fri,5.2,45,500,45
+g9h0i1j2,USR_004,MG Road,False,Daily_Commuter,Walking,1.24,440,Low,2025-10-15 09:10:10,Mon,6.0,41,500,45
+h0i1j2k3,USR_004,MG Road,False,Daily_Commuter,Walking,1.18,400,Low,2025-10-16 09:11:55,Tue,4.7,44,500,45
+i1j2k3l4,USR_004,MG Road,False,Daily_Commuter,Walking,1.22,360,Low,2025-10-17 09:09:30,Wed,5.5,38,500,45
+j2k3l4m5,USR_004,MG Road,False,Daily_Commuter,Walking,1.20,320,Low,2025-10-18 09:10:45,Thu,5.0,42,500,45
+k3l4m5n6,USR_004,MG Road,False,Daily_Commuter,Walking,1.25,280,Low,2025-10-19 09:13:00,Fri,4.4,47,500,45
+l4m5n6o7,USR_004,MG Road,True,Daily_Commuter,Sprinting,2.10,30,High,2025-10-22 09:14:30,Mon,2.3,36,500,45
+m5n6o7p8,USR_005,Churchgate,False,Daily_Commuter,Walking,1.20,600,Low,2025-10-01 08:35:10,Mon,5.3,43,500,45
+n6o7p8q9,USR_005,Churchgate,False,Daily_Commuter,Walking,1.16,555,Low,2025-10-02 08:38:45,Tue,4.8,39,500,45
+o7p8q9r0,USR_005,Churchgate,False,Daily_Commuter,Walking,1.23,510,Low,2025-10-03 08:36:20,Wed,6.1,46,500,45
+p8q9r0s1,USR_005,Churchgate,False,Daily_Commuter,Walking,1.19,465,Low,2025-10-04 08:39:55,Thu,5.4,41,500,45
+q9r0s1t2,USR_005,Churchgate,False,Daily_Commuter,Walking,1.22,420,Low,2025-10-05 08:37:30,Fri,4.9,38,500,45
+r0s1t2u3,USR_005,Churchgate,False,Daily_Commuter,Walking,1.18,375,Low,2025-10-08 08:34:05,Mon,5.7,44,500,45
+s1t2u3v4,USR_005,Churchgate,False,Daily_Commuter,Walking,1.21,330,Low,2025-10-09 08:36:50,Tue,4.6,40,500,45
+t2u3v4w5,USR_005,Churchgate,False,Daily_Commuter,Walking,1.17,285,Low,2025-10-10 08:38:25,Wed,5.8,45,500,45
+u3v4w5x6,USR_005,Churchgate,False,Daily_Commuter,Walking,1.24,240,Low,2025-10-11 08:35:40,Thu,5.0,37,500,45
+v4w5x6y7,USR_005,Churchgate,False,Daily_Commuter,Walking,1.15,195,Low,2025-10-12 08:39:15,Fri,6.2,42,500,45
+w5x6y7z8,USR_005,Churchgate,False,Daily_Commuter,Walking,1.20,150,Low,2025-10-15 08:36:00,Mon,5.2,48,500,45
+x6y7z8a9,USR_005,Churchgate,False,Daily_Commuter,Walking,1.26,105,Low,2025-10-16 08:37:35,Tue,4.7,39,500,45
+y7z8a9b0,USR_005,Churchgate,False,Daily_Commuter,Walking,1.18,60,Low,2025-10-17 08:35:50,Wed,5.5,43,500,45
+z8a9b0c1,USR_005,Churchgate,False,Daily_Commuter,Walking,1.22,15,High,2025-10-18 08:38:10,Thu,4.8,40,500,45
+a9b0c1d2,USR_005,Churchgate,False,Daily_Commuter,Walking,1.19,515,Low,2025-10-19 08:36:45,Fri,5.9,46,500,45
+b0c1d2e3,USR_005,Churchgate,True,Daily_Commuter,Sprinting,2.16,30,High,2025-10-22 08:40:00,Mon,2.2,35,500,45
+c1d2e3f4,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.21,600,Low,2025-10-01 08:50:20,Mon,5.1,42,500,45
+d2e3f4g5,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.18,555,Low,2025-10-02 08:53:55,Tue,4.6,38,500,45
+e3f4g5h6,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.25,510,Low,2025-10-03 08:51:30,Wed,6.0,45,500,45
+f4g5h6i7,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.16,465,Low,2025-10-04 08:54:15,Thu,5.3,41,500,45
+g5h6i7j8,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.22,420,Low,2025-10-05 08:52:40,Fri,4.8,37,500,45
+h6i7j8k9,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.17,375,Low,2025-10-08 08:49:05,Mon,5.5,43,500,45
+i7j8k9l0,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.23,330,Low,2025-10-09 08:51:50,Tue,4.7,40,500,45
+j8k9l0m1,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.20,285,Low,2025-10-10 08:53:25,Wed,5.9,46,500,45
+k9l0m1n2,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.24,240,Low,2025-10-11 08:50:50,Thu,5.0,39,500,45
+l0m1n2o3,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.15,195,Low,2025-10-12 08:54:35,Fri,6.2,44,500,45
+m1n2o3p4,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.21,150,Low,2025-10-15 08:51:10,Mon,5.2,47,500,45
+n2o3p4q5,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.19,105,Low,2025-10-16 08:53:45,Tue,4.8,40,500,45
+o3p4q5r6,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.26,60,Low,2025-10-17 08:52:00,Wed,5.7,43,500,45
+p4q5r6s7,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.18,15,High,2025-10-18 08:50:35,Thu,5.1,38,500,45
+q5r6s7t8,USR_006,Hauz Khas,False,Daily_Commuter,Walking,1.22,515,Low,2025-10-19 08:54:10,Fri,6.0,42,500,45
+r6s7t8u9,USR_006,Hauz Khas,True,Daily_Commuter,Sprinting,2.14,30,High,2025-10-22 08:55:00,Mon,2.3,34,500,45
+s7t8u9v0,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.15,600,Low,2025-10-01 09:00:15,Mon,5.4,41,500,45
+t8u9v0w1,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.21,555,Low,2025-10-02 09:03:50,Tue,4.7,45,500,45
+u9v0w1x2,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.18,510,Low,2025-10-03 09:01:25,Wed,6.1,38,500,45
+v0w1x2y3,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.24,465,Low,2025-10-04 09:04:10,Thu,5.2,46,500,45
+w1x2y3z4,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.17,420,Low,2025-10-05 09:02:35,Fri,4.9,37,500,45
+x2y3z4a5,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.22,375,Low,2025-10-08 09:05:00,Mon,5.6,43,500,45
+y3z4a5b6,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.16,330,Low,2025-10-09 09:00:45,Tue,4.6,39,500,45
+z4a5b6c7,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.20,285,Low,2025-10-10 09:03:30,Wed,5.8,44,500,45
+a5b6c7d8,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.25,240,Low,2025-10-11 09:01:05,Thu,5.1,38,500,45
+b6c7d8e9,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.19,195,Low,2025-10-12 09:04:50,Fri,6.2,47,500,45
+c7d8e9f0,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.23,150,Low,2025-10-15 09:02:25,Mon,5.3,40,500,45
+d8e9f0g1,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.16,105,Low,2025-10-16 09:05:10,Tue,4.8,42,500,45
+e9f0g1h2,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.21,60,Low,2025-10-17 09:01:55,Wed,5.7,46,500,45
+f0g1h2i3,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.18,15,High,2025-10-18 09:04:30,Thu,5.0,39,500,45
+g1h2i3j4,USR_007,Indiranagar,False,Daily_Commuter,Walking,1.24,515,Low,2025-10-19 09:00:05,Fri,6.0,43,500,45
+h2i3j4k5,USR_007,Indiranagar,True,Daily_Commuter,Sprinting,2.11,30,High,2025-10-22 09:05:00,Mon,2.4,36,500,45
+i3j4k5l6,USR_008,Cyber City,False,Daily_Commuter,Walking,1.21,600,Low,2025-10-01 08:50:30,Mon,5.1,44,500,45
+j4k5l6m7,USR_008,Cyber City,False,Daily_Commuter,Walking,1.19,555,Low,2025-10-02 08:52:15,Tue,4.7,40,500,45
+k5l6m7n8,USR_008,Cyber City,False,Daily_Commuter,Walking,1.25,510,Low,2025-10-03 08:49:10,Wed,5.8,46,500,45
+l6m7n8o9,USR_008,Cyber City,False,Daily_Commuter,Walking,1.16,465,Low,2025-10-04 08:51:45,Thu,5.2,42,500,45
+m7n8o9p0,USR_008,Cyber City,False,Daily_Commuter,Walking,1.21,420,Low,2025-10-05 08:50:20,Fri,4.9,39,500,45
+n8o9p0q1,USR_008,Cyber City,False,Daily_Commuter,Walking,1.18,375,Low,2025-10-08 08:53:05,Mon,5.5,43,500,45
+o9p0q1r2,USR_008,Cyber City,False,Daily_Commuter,Walking,1.23,330,Low,2025-10-09 08:48:50,Tue,4.6,38,500,45
+p0q1r2s3,USR_008,Cyber City,False,Daily_Commuter,Walking,1.17,285,Low,2025-10-10 08:51:25,Wed,5.0,41,500,45
+q1r2s3t4,USR_008,Cyber City,False,Daily_Commuter,Walking,1.20,240,Low,2025-10-11 08:50:00,Thu,6.1,47,500,45
+r2s3t4u5,USR_008,Cyber City,False,Daily_Commuter,Walking,1.24,195,Low,2025-10-12 08:52:40,Fri,4.8,36,500,45
+s3t4u5v6,USR_008,Cyber City,False,Daily_Commuter,Walking,1.15,150,Low,2025-10-15 08:49:35,Mon,5.3,44,500,45
+t4u5v6w7,USR_008,Cyber City,False,Daily_Commuter,Walking,1.22,105,Low,2025-10-16 08:51:15,Tue,5.7,40,500,45
+u5v6w7x8,USR_008,Cyber City,False,Daily_Commuter,Walking,1.19,60,Low,2025-10-17 08:50:50,Wed,4.9,45,500,45
+v6w7x8y9,USR_008,Cyber City,False,Daily_Commuter,Walking,1.21,15,High,2025-10-18 08:48:25,Thu,5.2,39,500,45
+w7x8y9z0,USR_008,Cyber City,False,Daily_Commuter,Walking,1.26,515,Low,2025-10-19 08:51:55,Fri,4.5,42,500,45
+x8y9z0a1,USR_008,Cyber City,True,Daily_Commuter,Sprinting,2.12,30,High,2025-10-22 08:54:30,Mon,2.4,34,500,45
+y9z0a1b2,USR_009,MG Road,False,Daily_Commuter,Walking,1.18,300,Low,2025-10-01 09:10:20,Mon,5.5,41,500,45
+z0a1b2c3,USR_009,MG Road,False,Daily_Commuter,Walking,1.22,260,Low,2025-10-02 09:12:45,Tue,4.7,44,500,45
+a1b2c3d4,USR_009,MG Road,False,Daily_Commuter,Walking,1.15,220,Low,2025-10-03 09:08:10,Wed,6.2,38,500,45
+b2c3d4e5,USR_009,MG Road,False,Daily_Commuter,Walking,1.20,180,Low,2025-10-04 09:11:30,Thu,5.1,46,500,45
+c3d4e5f6,USR_009,MG Road,False,Daily_Commuter,Walking,1.25,140,Low,2025-10-05 09:09:55,Fri,4.8,37,500,45
+d4e5f6g7,USR_009,MG Road,False,Daily_Commuter,Walking,1.17,100,Low,2025-10-08 09:10:40,Mon,5.4,43,500,45
+e5f6g7h8,USR_009,MG Road,False,Daily_Commuter,Walking,1.23,60,Low,2025-10-09 09:13:15,Tue,4.9,40,500,45
+f6g7h8i9,USR_009,MG Road,False,Daily_Commuter,Walking,1.19,20,High,2025-10-10 09:11:05,Wed,5.8,42,500,45
+g7h8i9j0,USR_009,MG Road,False,Daily_Commuter,Walking,1.21,520,Low,2025-10-11 09:08:50,Thu,4.6,39,500,45
+h8i9j0k1,USR_009,MG Road,False,Daily_Commuter,Walking,1.16,480,Low,2025-10-12 09:12:25,Fri,5.2,45,500,45
+i9j0k1l2,USR_009,MG Road,False,Daily_Commuter,Walking,1.24,440,Low,2025-10-15 09:10:10,Mon,6.0,41,500,45
+j0k1l2m3,USR_009,MG Road,False,Daily_Commuter,Walking,1.18,400,Low,2025-10-16 09:11:55,Tue,4.7,44,500,45
+k1l2m3n4,USR_009,MG Road,False,Daily_Commuter,Walking,1.22,360,Low,2025-10-17 09:09:30,Wed,5.5,38,500,45
+l2m3n4o5,USR_009,MG Road,False,Daily_Commuter,Walking,1.20,320,Low,2025-10-18 09:10:45,Thu,5.0,42,500,45
+m3n4o5p6,USR_009,MG Road,False,Daily_Commuter,Walking,1.25,280,Low,2025-10-19 09:13:00,Fri,4.4,47,500,45
+n4o5p6q7,USR_009,MG Road,True,Daily_Commuter,Sprinting,2.10,30,High,2025-10-22 09:14:30,Mon,2.3,36,500,45
+o5p6q7r8,USR_010,Churchgate,False,Daily_Commuter,Walking,1.20,600,Low,2025-10-01 08:35:10,Mon,5.3,43,500,45
+p6q7r8s9,USR_010,Churchgate,False,Daily_Commuter,Walking,1.16,555,Low,2025-10-02 08:38:45,Tue,4.8,39,500,45
+q7r8s9t0,USR_010,Churchgate,False,Daily_Commuter,Walking,1.23,510,Low,2025-10-03 08:36:20,Wed,6.1,46,500,45
+r8s9t0u1,USR_010,Churchgate,False,Daily_Commuter,Walking,1.19,465,Low,2025-10-04 08:39:55,Thu,5.4,41,500,45
+s9t0u1v2,USR_010,Churchgate,False,Daily_Commuter,Walking,1.22,420,Low,2025-10-05 08:37:30,Fri,4.9,38,500,45
+t0u1v2w3,USR_010,Churchgate,False,Daily_Commuter,Walking,1.18,375,Low,2025-10-08 08:34:05,Mon,5.7,44,500,45
+u1v2w3x4,USR_010,Churchgate,False,Daily_Commuter,Walking,1.21,330,Low,2025-10-09 08:36:50,Tue,4.6,40,500,45
+v2w3x4y5,USR_010,Churchgate,False,Daily_Commuter,Walking,1.17,285,Low,2025-10-10 08:38:25,Wed,5.8,45,500,45
+w3x4y5z6,USR_010,Churchgate,False,Daily_Commuter,Walking,1.24,240,Low,2025-10-11 08:35:40,Thu,5.0,37,500,45
+x4y5z6a7,USR_010,Churchgate,False,Daily_Commuter,Walking,1.15,195,Low,2025-10-12 08:39:15,Fri,6.2,42,500,45
+y5z6a7b8,USR_010,Churchgate,False,Daily_Commuter,Walking,1.20,150,Low,2025-10-15 08:36:00,Mon,5.2,48,500,45
+z6a7b8c9,USR_010,Churchgate,False,Daily_Commuter,Walking,1.26,105,Low,2025-10-16 08:37:35,Tue,4.7,39,500,45
+a7b8c9d0,USR_010,Churchgate,False,Daily_Commuter,Walking,1.18,60,Low,2025-10-17 08:35:50,Wed,5.5,43,500,45
+b8c9d0e1,USR_010,Churchgate,False,Daily_Commuter,Walking,1.22,15,High,2025-10-18 08:38:10,Thu,4.8,40,500,45
+c9d0e1f2,USR_010,Churchgate,False,Daily_Commuter,Walking,1.19,515,Low,2025-10-19 08:36:45,Fri,5.9,46,500,45
+d0e1f2g3,USR_010,Churchgate,True,Daily_Commuter,Sprinting,2.16,30,High,2025-10-22 08:40:00,Mon,2.2,35,500,45
+e1f2g3h4,USR_011,Cyber City,False,Irregular_User,Walking,0.92,300,Low,2025-10-01 11:20:10,Mon,5.4,49,200,45
+f2g3h4i5,USR_011,Cyber City,False,Irregular_User,Stationary,0.00,260,Low,2025-10-02 09:45:45,Tue,5.1,43,200,45
+g3h4i5j6,USR_011,Cyber City,False,Irregular_User,Walking,0.76,220,Low,2025-10-03 10:15:30,Wed,4.6,51,200,45
+h4i5j6k7,USR_011,Cyber City,False,Irregular_User,Walking,0.85,180,Low,2025-10-04 11:05:55,Thu,5.8,40,200,45
+i5j6k7l8,USR_011,Cyber City,False,Irregular_User,Walking,1.01,140,Low,2025-10-05 08:55:20,Fri,4.9,47,200,45
+j6k7l8m9,USR_011,Cyber City,False,Irregular_User,Stationary,0.00,100,Low,2025-10-08 10:30:45,Mon,5.5,44,200,45
+k7l8m9n0,USR_011,Cyber City,False,Irregular_User,Walking,0.67,60,Low,2025-10-09 09:10:10,Tue,6.2,38,200,45
+l8m9n0o1,USR_011,Cyber City,False,Irregular_User,Walking,0.88,20,Low,2025-10-10 11:45:35,Wed,5.0,46,200,45
+m9n0o1p2,USR_011,Cyber City,False,Irregular_User,Walking,0.93,520,Low,2025-10-11 08:40:50,Thu,4.7,41,200,45
+n0o1p2q3,USR_011,Cyber City,False,Irregular_User,Stationary,0.00,480,Low,2025-10-12 10:50:15,Fri,5.9,45,200,45
+o1p2q3r4,USR_011,Cyber City,False,Irregular_User,Walking,0.82,440,Low,2025-10-15 09:20:40,Mon,5.3,39,200,45
+p2q3r4s5,USR_011,Cyber City,False,Irregular_User,Walking,0.79,400,Low,2025-10-16 11:10:05,Tue,6.1,48,200,45
+q3r4s5t6,USR_011,Cyber City,False,Irregular_User,Stationary,0.00,360,Low,2025-10-17 10:00:30,Wed,4.8,42,200,45
+r4s5t6u7,USR_011,Cyber City,False,Irregular_User,Walking,0.86,320,Low,2025-10-18 08:35:55,Thu,5.6,49,200,45
+s5t6u7v8,USR_011,Cyber City,False,Irregular_User,Walking,0.94,280,Low,2025-10-19 11:25:20,Fri,4.5,40,200,45
+t6u7v8w9,USR_011,Cyber City,True,Irregular_User,Walking,1.02,20,Low,2025-10-22 10:15:00,Mon,5.2,44,200,45
+u7v8w9x0,USR_012,Indiranagar,False,Irregular_User,Walking,0.72,350,Low,2025-10-01 09:50:15,Mon,6.0,38,200,45
+v8w9x0y1,USR_012,Indiranagar,False,Irregular_User,Walking,0.88,310,Low,2025-10-02 11:10:40,Tue,5.1,45,200,45
+w9x0y1z2,USR_012,Indiranagar,False,Irregular_User,Stationary,0.00,270,Low,2025-10-03 10:30:05,Wed,4.9,41,200,45
+x0y1z2a3,USR_012,Indiranagar,False,Irregular_User,Walking,0.95,230,Low,2025-10-04 09:05:30,Thu,5.7,48,200,45
+y1z2a3b4,USR_012,Indiranagar,False,Irregular_User,Walking,0.68,190,Low,2025-10-05 11:40:55,Fri,4.6,37,200,45
+z2a3b4c5,USR_012,Indiranagar,False,Irregular_User,Walking,0.83,150,Low,2025-10-08 10:00:20,Mon,5.4,43,200,45
+a3b4c5d6,USR_012,Indiranagar,False,Irregular_User,Stationary,0.00,110,Low,2025-10-09 09:25:45,Tue,6.2,39,200,45
+b4c5d6e7,USR_012,Indiranagar,False,Irregular_User,Walking,0.91,70,Low,2025-10-10 11:15:10,Wed,4.8,46,200,45
+c5d6e7f8,USR_012,Indiranagar,False,Irregular_User,Walking,0.77,520,Low,2025-10-11 08:45:35,Thu,5.3,42,200,45
+d6e7f8g9,USR_012,Indiranagar,False,Irregular_User,Walking,0.89,480,Low,2025-10-12 10:55:00,Fri,4.7,49,200,45
+e7f8g9h0,USR_012,Indiranagar,False,Irregular_User,Stationary,0.00,440,Low,2025-10-15 09:40:25,Mon,5.9,40,200,45
+f8g9h0i1,USR_012,Indiranagar,False,Irregular_User,Walking,0.94,400,Low,2025-10-16 11:30:50,Tue,5.0,47,200,45
+g9h0i1j2,USR_012,Indiranagar,False,Irregular_User,Walking,0.65,360,Low,2025-10-17 08:50:15,Wed,6.1,44,200,45
+h0i1j2k3,USR_012,Indiranagar,False,Irregular_User,Walking,0.82,320,Low,2025-10-18 10:20:40,Thu,4.5,38,200,45
+i1j2k3l4,USR_012,Indiranagar,False,Irregular_User,Walking,1.03,280,Low,2025-10-19 11:50:05,Fri,5.6,45,200,45
+j2k3l4m5,USR_012,Indiranagar,True,Irregular_User,Walking,1.10,20,Low,2025-10-22 10:15:00,Mon,4.9,41,200,45
+k3l4m5n6,USR_013,Hauz Khas,False,Irregular_User,Walking,0.74,250,Low,2025-10-01 09:30:30,Mon,5.8,46,200,45
+l4m5n6o7,USR_013,Hauz Khas,False,Irregular_User,Stationary,0.00,210,Low,2025-10-02 11:00:55,Tue,4.7,39,200,45
+m5n6o7p8,USR_013,Hauz Khas,False,Irregular_User,Walking,0.86,170,Low,2025-10-03 10:10:20,Wed,6.2,45,200,45
+n6o7p8q9,USR_013,Hauz Khas,False,Irregular_User,Walking,0.92,130,Low,2025-10-04 09:45:45,Thu,5.1,41,200,45
+o7p8q9r0,USR_013,Hauz Khas,False,Irregular_User,Walking,0.69,90,Low,2025-10-05 11:20:10,Fri,5.5,48,200,45
+p8q9r0s1,USR_013,Hauz Khas,False,Irregular_User,Stationary,0.00,50,Low,2025-10-08 08:55:35,Mon,4.9,37,200,45
+q9r0s1t2,USR_013,Hauz Khas,False,Irregular_User,Walking,0.81,510,Low,2025-10-09 10:40:00,Tue,5.6,44,200,45
+r0s1t2u3,USR_013,Hauz Khas,False,Irregular_User,Walking,0.95,470,Low,2025-10-10 11:50:25,Wed,4.6,40,200,45
+s1t2u3v4,USR_013,Hauz Khas,False,Irregular_User,Walking,0.78,430,Low,2025-10-11 09:15:50,Thu,6.0,47,200,45
+t2u3v4w5,USR_013,Hauz Khas,False,Irregular_User,Stationary,0.00,390,Low,2025-10-12 10:05:15,Fri,5.2,43,200,45
+u3v4w5x6,USR_013,Hauz Khas,False,Irregular_User,Walking,0.89,350,Low,2025-10-15 11:30:40,Mon,4.8,38,200,45
+v4w5x6y7,USR_013,Hauz Khas,False,Irregular_User,Walking,1.01,310,Low,2025-10-16 08:45:05,Tue,5.9,49,200,45
+w5x6y7z8,USR_013,Hauz Khas,False,Irregular_User,Walking,0.66,270,Low,2025-10-17 10:20:30,Wed,5.0,42,200,45
+x6y7z8a9,USR_013,Hauz Khas,False,Irregular_User,Walking,0.83,230,Low,2025-10-18 11:40:55,Thu,5.7,46,200,45
+y7z8a9b0,USR_013,Hauz Khas,False,Irregular_User,Stationary,0.00,190,Low,2025-10-19 09:00:20,Fri,4.5,41,200,45
+z8a9b0c1,USR_013,Hauz Khas,True,Irregular_User,Walking,0.98,20,Low,2025-10-22 10:15:00,Mon,5.4,45,200,45
+a9b0c1d2,USR_014,MG Road,False,Irregular_User,Walking,0.88,400,Low,2025-10-01 10:05:40,Mon,5.3,39,200,45
+b0c1d2e3,USR_014,MG Road,False,Irregular_User,Stationary,0.00,360,Low,2025-10-02 11:30:05,Tue,6.1,47,200,45
+c1d2e3f4,USR_014,MG Road,False,Irregular_User,Walking,0.75,320,Low,2025-10-03 09:20:30,Wed,5.0,43,200,45
+d2e3f4g5,USR_014,MG Road,False,Irregular_User,Walking,0.94,280,Low,2025-10-04 10:55:55,Thu,4.8,38,200,45
+e3f4g5h6,USR_014,MG Road,False,Irregular_User,Walking,0.67,240,Low,2025-10-05 08:40:20,Fri,5.6,44,200,45
+f4g5h6i7,USR_014,MG Road,False,Irregular_User,Walking,0.82,200,Low,2025-10-08 11:15:45,Mon,4.9,40,200,45
+g5h6i7j8,USR_014,MG Road,False,Irregular_User,Stationary,0.00,160,Low,2025-10-09 09:50:10,Tue,5.8,48,200,45
+h6i7j8k9,USR_014,MG Road,False,Irregular_User,Walking,0.89,120,Low,2025-10-10 10:30:35,Wed,5.2,42,200,45
+i7j8k9l0,USR_014,MG Road,False,Irregular_User,Walking,1.05,580,Low,2025-10-11 09:05:00,Thu,6.0,37,200,45
+j8k9l0m1,USR_014,MG Road,False,Irregular_User,Walking,0.71,540,Low,2025-10-12 11:40:25,Fri,4.7,45,200,45
+k9l0m1n2,USR_014,MG Road,False,Irregular_User,Stationary,0.00,500,Low,2025-10-15 08:50:50,Mon,5.5,41,200,45
+l0m1n2o3,USR_014,MG Road,False,Irregular_User,Walking,0.92,460,Low,2025-10-16 10:10:15,Tue,4.6,46,200,45
+m1n2o3p4,USR_014,MG Road,False,Irregular_User,Walking,0.79,420,Low,2025-10-17 11:25:40,Wed,5.9,39,200,45
+n2o3p4q5,USR_014,MG Road,False,Irregular_User,Walking,0.84,380,Low,2025-10-18 09:35:05,Thu,5.1,43,200,45
+o3p4q5r6,USR_014,MG Road,False,Irregular_User,Walking,1.01,340,Low,2025-10-19 10:50:30,Fri,4.8,47,200,45
+p4q5r6s7,USR_014,MG Road,True,Irregular_User,Walking,1.15,20,Low,2025-10-22 10:15:00,Mon,5.3,40,200,45
+q5r6s7t8,USR_015,Churchgate,False,Irregular_User,Walking,0.85,390,Low,2025-10-01 09:15:20,Mon,5.7,45,200,45
+r6s7t8u9,USR_015,Churchgate,False,Irregular_User,Stationary,0.00,350,Low,2025-10-02 10:50:45,Tue,5.0,41,200,45
+s7t8u9v0,USR_015,Churchgate,False,Irregular_User,Walking,0.73,310,Low,2025-10-03 11:30:10,Wed,6.2,49,200,45
+t8u9v0w1,USR_015,Churchgate,False,Irregular_User,Walking,0.96,270,Low,2025-10-04 08:45:35,Thu,4.9,38,200,45
+u9v0w1x2,USR_015,Churchgate,False,Irregular_User,Walking,0.68,230,Low,2025-10-05 10:20:00,Fri,5.5,44,200,45
+v0w1x2y3,USR_015,Churchgate,False,Irregular_User,Walking,0.81,190,Low,2025-10-08 09:55:25,Mon,4.8,40,200,45
+w1x2y3z4,USR_015,Churchgate,False,Irregular_User,Stationary,0.00,150,Low,2025-10-09 11:10:50,Tue,5.6,46,200,45
+x2y3z4a5,USR_015,Churchgate,False,Irregular_User,Walking,0.89,110,Low,2025-10-10 08:35:15,Wed,4.7,42,200,45
+y3z4a5b6,USR_015,Churchgate,False,Irregular_User,Walking,1.04,570,Low,2025-10-11 10:05:40,Thu,5.9,48,200,45
+z4a5b6c7,USR_015,Churchgate,False,Irregular_User,Walking,0.77,530,Low,2025-10-12 11:25:05,Fri,5.1,39,200,45
+a5b6c7d8,USR_015,Churchgate,False,Irregular_User,Walking,0.93,490,Low,2025-10-15 09:40:30,Mon,4.6,45,200,45
+b6c7d8e9,USR_015,Churchgate,False,Irregular_User,Stationary,0.00,450,Low,2025-10-16 10:50:55,Tue,5.8,41,200,45
+c7d8e9f0,USR_015,Churchgate,False,Irregular_User,Walking,0.82,410,Low,2025-10-17 08:55:20,Wed,5.2,47,200,45
+d8e9f0g1,USR_015,Churchgate,False,Irregular_User,Walking,0.69,370,Low,2025-10-18 11:00:45,Thu,6.0,43,200,45
+e9f0g1h2,USR_015,Churchgate,False,Irregular_User,Walking,0.90,330,Low,2025-10-19 09:30:10,Fri,4.9,37,200,45
+f0g1h2i3,USR_015,Churchgate,True,Irregular_User,Walking,1.13,20,Low,2025-10-22 10:15:00,Mon,5.3,44,200,45
+g1h2i3j4,USR_016,Hauz Khas,False,Irregular_User,Walking,0.84,290,Low,2025-10-01 10:30:20,Mon,5.0,46,200,45
+h2i3j4k5,USR_016,Hauz Khas,False,Irregular_User,Stationary,0.00,250,Low,2025-10-02 09:05:45,Tue,5.7,40,200,45
+i3j4k5l6,USR_016,Hauz Khas,False,Irregular_User,Walking,0.76,210,Low,2025-10-03 11:40:10,Wed,4.8,48,200,45
+j4k5l6m7,USR_016,Hauz Khas,False,Irregular_User,Walking,0.93,170,Low,2025-10-04 10:15:35,Thu,5.6,42,200,45
+k5l6m7n8,USR_016,Hauz Khas,False,Irregular_User,Walking,0.68,130,Low,2025-10-05 08:50:00,Fri,4.9,45,200,45
+l6m7n8o9,USR_016,Hauz Khas,False,Irregular_User,Walking,0.89,90,Low,2025-10-08 11:25:25,Mon,5.5,39,200,45
+m7n8o9p0,USR_016,Hauz Khas,False,Irregular_User,Stationary,0.00,50,Low,2025-10-09 09:50:50,Tue,6.1,43,200,45
+n8o9p0q1,USR_016,Hauz Khas,False,Irregular_User,Walking,0.72,510,Low,2025-10-10 10:30:15,Wed,5.2,47,200,45
+o9p0q1r2,USR_016,Hauz Khas,False,Irregular_User,Walking,0.95,470,Low,2025-10-11 08:40:40,Thu,4.7,41,200,45
+p0q1r2s3,USR_016,Hauz Khas,False,Irregular_User,Walking,0.81,430,Low,2025-10-12 11:05:05,Fri,5.8,44,200,45
+q1r2s3t4,USR_016,Hauz Khas,False,Irregular_User,Stationary,0.00,390,Low,2025-10-15 09:20:30,Mon,4.9,40,200,45
+r2s3t4u5,USR_016,Hauz Khas,False,Irregular_User,Walking,0.87,350,Low,2025-10-16 10:45:55,Tue,5.4,46,200,45
+s3t4u5v6,USR_016,Hauz Khas,False,Irregular_User,Walking,0.75,310,Low,2025-10-17 11:15:20,Wed,4.6,38,200,45
+t4u5v6w7,USR_016,Hauz Khas,False,Irregular_User,Walking,0.91,270,Low,2025-10-18 09:00:45,Thu,5.9,42,200,45
+u5v6w7x8,USR_016,Hauz Khas,False,Irregular_User,Walking,0.79,230,Low,2025-10-19 10:25:10,Fri,5.1,49,200,45
+v6w7x8y9,USR_016,Hauz Khas,True,Irregular_User,Walking,1.10,20,Low,2025-10-22 10:15:00,Mon,5.3,44,200,45
+w7x8y9z0,USR_017,Cyber City,False,Irregular_User,Walking,0.94,360,Low,2025-10-01 09:40:50,Mon,5.2,41,200,45
+x8y9z0a1,USR_017,Cyber City,False,Irregular_User,Walking,0.82,320,Low,2025-10-02 11:05:15,Tue,4.7,46,200,45
+y9z0a1b2,USR_017,Cyber City,False,Irregular_User,Walking,0.67,280,Low,2025-10-03 10:20:40,Wed,5.8,39,200,45
+z0a1b2c3,USR_017,Cyber City,False,Irregular_User,Stationary,0.00,240,Low,2025-10-04 08:50:05,Thu,4.9,45,200,45
+a1b2c3d4,USR_017,Cyber City,False,Irregular_User,Walking,0.89,200,Low,2025-10-05 11:30:30,Fri,5.5,42,200,45
+b2c3d4e5,USR_017,Cyber City,False,Irregular_User,Walking,1.02,160,Low,2025-10-08 09:55:55,Mon,4.6,48,200,45
+c3d4e5f6,USR_017,Cyber City,False,Irregular_User,Walking,0.78,120,Low,2025-10-09 10:45:20,Tue,6.1,40,200,45
+d4e5f6g7,USR_017,Cyber City,False,Irregular_User,Stationary,0.00,80,Low,2025-10-10 11:20:45,Wed,5.3,44,200,45
+e5f6g7h8,USR_017,Cyber City,False,Irregular_User,Walking,0.91,540,Low,2025-10-11 08:35:10,Thu,4.8,37,200,45
+f6g7h8i9,USR_017,Cyber City,False,Irregular_User,Walking,0.73,500,Low,2025-10-12 10:00:35,Fri,5.7,43,200,45
+g7h8i9j0,USR_017,Cyber City,False,Irregular_User,Walking,0.85,460,Low,2025-10-15 11:50:00,Mon,5.0,49,200,45
+h8i9j0k1,USR_017,Cyber City,False,Irregular_User,Walking,0.96,420,Low,2025-10-16 09:10:25,Tue,6.2,38,200,45
+i9j0k1l2,USR_017,Cyber City,False,Irregular_User,Stationary,0.00,380,Low,2025-10-17 10:35:50,Wed,4.9,45,200,45
+j0k1l2m3,USR_017,Cyber City,False,Irregular_User,Walking,0.79,340,Low,2025-10-18 11:15:15,Thu,5.4,41,200,45
+k1l2m3n4,USR_017,Cyber City,False,Irregular_User,Walking,0.88,300,Low,2025-10-19 08:50:40,Fri,4.5,47,200,45
+l2m3n4o5,USR_017,Cyber City,True,Irregular_User,Walking,1.15,20,Low,2025-10-22 10:15:00,Mon,5.8,43,200,45
+m3n4o5p6,USR_018,MG Road,False,Irregular_User,Walking,0.86,420,Low,2025-10-01 10:15:30,Mon,5.2,46,200,45
+n4o5p6q7,USR_018,MG Road,False,Irregular_User,Walking,0.94,380,Low,2025-10-02 08:50:55,Tue,4.7,39,200,45
+o5p6q7r8,USR_018,MG Road,False,Irregular_User,Stationary,0.00,340,Low,2025-10-03 11:05:20,Wed,5.9,44,200,45
+p6q7r8s9,USR_018,MG Road,False,Irregular_User,Walking,0.72,300,Low,2025-10-04 10:30:45,Thu,5.1,48,200,45
+q7r8s9t0,USR_018,MG Road,False,Irregular_User,Walking,0.81,260,Low,2025-10-05 11:50:10,Fri,4.8,40,200,45
+r8s9t0u1,USR_018,MG Road,False,Irregular_User,Walking,0.95,220,Low,2025-10-08 09:20:35,Mon,5.6,43,200,45
+s9t0u1v2,USR_018,MG Road,False,Irregular_User,Walking,0.77,180,Low,2025-10-09 10:55:00,Tue,4.5,37,200,45
+t0u1v2w3,USR_018,MG Road,False,Irregular_User,Stationary,0.00,140,Low,2025-10-10 08:40:25,Wed,6.0,49,200,45
+u1v2w3x4,USR_018,MG Road,False,Irregular_User,Walking,0.89,600,Low,2025-10-11 11:15:50,Thu,5.3,42,200,45
+v2w3x4y5,USR_018,MG Road,False,Irregular_User,Walking,0.66,560,Low,2025-10-12 09:45:15,Fri,4.9,45,200,45
+w3x4y5z6,USR_018,MG Road,False,Irregular_User,Walking,0.93,520,Low,2025-10-15 11:00:40,Mon,5.7,38,200,45
+x4y5z6a7,USR_018,MG Road,False,Irregular_User,Walking,0.79,480,Low,2025-10-16 08:50:05,Tue,4.6,47,200,45
+y5z6a7b8,USR_018,MG Road,False,Irregular_User,Stationary,0.00,440,Low,2025-10-17 10:10:30,Wed,5.5,41,200,45
+z6a7b8c9,USR_018,MG Road,False,Irregular_User,Walking,0.85,400,Low,2025-10-18 11:25:55,Thu,4.8,46,200,45
+a7b8c9d0,USR_018,MG Road,False,Irregular_User,Walking,0.91,360,Low,2025-10-19 09:00:20,Fri,6.1,40,200,45
+b8c9d0e1,USR_018,MG Road,True,Irregular_User,Walking,1.19,20,Low,2025-10-22 10:15:00,Mon,5.2,44,200,45
+c9d0e1f2,USR_019,Indiranagar,False,Irregular_User,Walking,0.78,330,Low,2025-10-01 11:10:40,Mon,5.6,48,200,45
+d0e1f2g3,USR_019,Indiranagar,False,Irregular_User,Walking,0.92,290,Low,2025-10-02 09:35:05,Tue,4.7,42,200,45
+e1f2g3h4,USR_019,Indiranagar,False,Irregular_User,Walking,0.84,250,Low,2025-10-03 10:50:30,Wed,5.9,39,200,45
+f2g3h4i5,USR_019,Indiranagar,False,Irregular_User,Stationary,0.00,210,Low,2025-10-04 08:50:55,Thu,5.0,45,200,45
+g3h4i5j6,USR_019,Indiranagar,False,Irregular_User,Walking,0.67,170,Low,2025-10-05 11:25:20,Fri,4.5,40,200,45
+h4i5j6k7,USR_019,Indiranagar,False,Irregular_User,Walking,0.89,130,Low,2025-10-08 09:45:45,Mon,5.4,47,200,45
+i5j6k7l8,USR_019,Indiranagar,False,Irregular_User,Walking,0.96,90,Low,2025-10-09 10:10:10,Tue,4.9,37,200,45
+j6k7l8m9,USR_019,Indiranagar,False,Irregular_User,Stationary,0.00,50,Low,2025-10-10 11:40:35,Wed,5.8,43,200,45
+k7l8m9n0,USR_019,Indiranagar,False,Irregular_User,Walking,0.75,510,Low,2025-10-11 08:50:00,Thu,4.6,49,200,45
+l8m9n0o1,USR_019,Indiranagar,False,Irregular_User,Walking,0.82,470,Low,2025-10-12 10:20:25,Fri,6.0,41,200,45
+m9n0o1p2,USR_019,Indiranagar,False,Irregular_User,Walking,0.91,430,Low,2025-10-15 11:00:50,Mon,5.2,46,200,45
+n0o1p2q3,USR_019,Indiranagar,False,Irregular_User,Walking,0.69,390,Low,2025-10-16 09:15:15,Tue,4.8,38,200,45
+o1p2q3r4,USR_019,Indiranagar,False,Irregular_User,Stationary,0.00,350,Low,2025-10-17 10:40:40,Wed,5.5,44,200,45
+p2q3r4s5,USR_019,Indiranagar,False,Irregular_User,Walking,0.86,310,Low,2025-10-18 11:55:05,Thu,4.7,40,200,45
+q3r4s5t6,USR_019,Indiranagar,False,Irregular_User,Walking,0.94,270,Low,2025-10-19 08:50:30,Fri,5.9,45,200,45
+r4s5t6u7,USR_019,Indiranagar,True,Irregular_User,Walking,1.13,20,Low,2025-10-22 10:15:00,Mon,5.1,42,200,45
+s5t6u7v8,USR_020,Churchgate,False,Irregular_User,Walking,0.91,410,Low,2025-10-01 10:00:50,Mon,5.5,39,200,45
+t6u7v8w9,USR_020,Churchgate,False,Irregular_User,Walking,0.79,370,Low,2025-10-02 11:20:15,Tue,4.9,47,200,45
+u7v8w9x0,USR_020,Churchgate,False,Irregular_User,Walking,0.85,330,Low,2025-10-03 08:50:40,Wed,6.1,43,200,45
+v8w9x0y1,USR_020,Churchgate,False,Irregular_User,Stationary,0.00,290,Low,2025-10-04 09:35:05,Thu,5.3,38,200,45
+w9x0y1z2,USR_020,Churchgate,False,Irregular_User,Walking,0.96,250,Low,2025-10-05 10:50:30,Fri,4.8,45,200,45
+x0y1z2a3,USR_020,Churchgate,False,Irregular_User,Walking,0.68,210,Low,2025-10-08 11:45:55,Mon,5.6,40,200,45
+y1z2a3b4,USR_020,Churchgate,False,Irregular_User,Walking,0.82,170,Low,2025-10-09 08:50:20,Tue,4.7,46,200,45
+z2a3b4c5,USR_020,Churchgate,False,Irregular_User,Walking,0.93,130,Low,2025-10-10 10:05:45,Wed,5.9,37,200,45
+a3b4c5d6,USR_020,Churchgate,False,Irregular_User,Stationary,0.00,90,Low,2025-10-11 11:25:10,Thu,5.0,44,200,45
+b4c5d6e7,USR_020,Churchgate,False,Irregular_User,Walking,0.75,550,Low,2025-10-12 09:40:35,Fri,4.6,39,200,45
+c5d6e7f8,USR_020,Churchgate,False,Irregular_User,Walking,0.88,510,Low,2025-10-15 10:30:00,Mon,5.7,48,200,45
+d6e7f8g9,USR_020,Churchgate,False,Irregular_User,Walking,0.94,470,Low,2025-10-16 11:55:25,Tue,5.2,42,200,45
+e7f8g9h0,USR_020,Churchgate,False,Irregular_User,Walking,0.66,430,Low,2025-10-17 08:50:50,Wed,6.0,38,200,45
+f8g9h0i1,USR_020,Churchgate,False,Irregular_User,Walking,0.83,390,Low,2025-10-18 09:15:15,Thu,4.9,46,200,45
+g9h0i1j2,USR_020,Churchgate,False,Irregular_User,Stationary,0.00,350,Low,2025-10-19 10:50:40,Fri,5.5,41,200,45
+h0i1j2k3,USR_020,Churchgate,True,Irregular_User,Walking,1.14,20,Low,2025-10-22 10:15:00,Mon,4.8,49,200,45
+i1j2k3l4,USR_021,Churchgate,False,Irregular_User,Walking,0.73,430,Low,2025-10-01 11:35:10,Mon,5.6,40,200,45
+j2k3l4m5,USR_021,Churchgate,False,Irregular_User,Walking,0.89,390,Low,2025-10-02 09:20:35,Tue,4.8,46,200,45
+k3l4m5n6,USR_021,Churchgate,False,Irregular_User,Walking,0.95,350,Low,2025-10-03 10:50:00,Wed,5.9,39,200,45
+l4m5n6o7,USR_021,Churchgate,False,Irregular_User,Stationary,0.00,310,Low,2025-10-04 11:05:25,Thu,5.0,43,200,45
+m5n6o7p8,USR_021,Churchgate,False,Irregular_User,Walking,0.82,270,Low,2025-10-05 08:50:50,Fri,4.5,47,200,45
+n6o7p8q9,USR_021,Churchgate,False,Irregular_User,Walking,0.68,230,Low,2025-10-08 09:40:15,Mon,5.7,42,200,45
+o7p8q9r0,USR_021,Churchgate,False,Irregular_User,Walking,0.84,190,Low,2025-10-09 10:10:40,Tue,4.9,38,200,45
+p8q9r0s1,USR_021,Churchgate,False,Irregular_User,Walking,0.92,150,Low,2025-10-10 11:30:05,Wed,5.5,45,200,45
+q9r0s1t2,USR_021,Churchgate,False,Irregular_User,Stationary,0.00,110,Low,2025-10-11 08:55:30,Thu,4.6,41,200,45
+r0s1t2u3,USR_021,Churchgate,False,Irregular_User,Walking,0.76,570,Low,2025-10-12 09:25:55,Fri,5.8,48,200,45
+s1t2u3v4,USR_021,Churchgate,False,Irregular_User,Walking,0.88,530,Low,2025-10-15 10:50:20,Mon,5.1,44,200,45
+t2u3v4w5,USR_021,Churchgate,False,Irregular_User,Walking,0.91,490,Low,2025-10-16 11:15:45,Tue,6.0,37,200,45
+u3v4w5x6,USR_021,Churchgate,False,Irregular_User,Walking,0.66,450,Low,2025-10-17 08:50:10,Wed,4.7,46,200,45
+v4w5x6y7,USR_021,Churchgate,False,Irregular_User,Stationary,0.00,410,Low,2025-10-18 09:35:35,Thu,5.3,42,200,45
+w5x6y7z8,USR_021,Churchgate,False,Irregular_User,Walking,0.85,370,Low,2025-10-19 10:10:00,Fri,4.8,39,200,45
+x6y7z8a9,USR_021,Churchgate,True,Irregular_User,Walking,1.13,20,Low,2025-10-22 10:15:00,Mon,5.6,45,200,45
+y7z8a9b0,USR_022,Hauz Khas,False,Irregular_User,Walking,0.77,350,Low,2025-10-01 09:05:30,Mon,4.9,40,200,45
+z8a9b0c1,USR_022,Hauz Khas,False,Irregular_User,Walking,0.93,310,Low,2025-10-02 10:45:55,Tue,5.4,47,200,45
+a9b0c1d2,USR_022,Hauz Khas,False,Irregular_User,Stationary,0.00,270,Low,2025-10-03 11:20:20,Wed,4.6,42,200,45
+b0c1d2e3,USR_022,Hauz Khas,False,Irregular_User,Walking,0.86,230,Low,2025-10-04 08:50:45,Thu,5.8,38,200,45
+c1d2e3f4,USR_022,Hauz Khas,False,Irregular_User,Walking,0.69,190,Low,2025-10-05 09:30:10,Fri,5.0,45,200,45
+d2e3f4g5,USR_022,Hauz Khas,False,Irregular_User,Walking,0.84,150,Low,2025-10-08 10:15:35,Mon,6.1,41,200,45
+e3f4g5h6,USR_022,Hauz Khas,False,Irregular_User,Walking,0.91,110,Low,2025-10-09 11:50:00,Tue,4.8,49,200,45
+f4g5h6i7,USR_022,Hauz Khas,False,Irregular_User,Stationary,0.00,70,Low,2025-10-10 08:55:25,Wed,5.5,43,200,45
+g5h6i7j8,USR_022,Hauz Khas,False,Irregular_User,Walking,0.75,530,Low,2025-10-11 09:40:50,Thu,4.7,39,200,45
+h6i7j8k9,USR_022,Hauz Khas,False,Irregular_User,Walking,0.88,490,Low,2025-10-12 10:10:15,Fri,5.9,44,200,45
+i7j8k9l0,USR_022,Hauz Khas,False,Irregular_User,Walking,0.95,450,Low,2025-10-15 11:25:40,Mon,5.1,48,200,45
+j8k9l0m1,USR_022,Hauz Khas,False,Irregular_User,Walking,0.82,410,Low,2025-10-16 08:50:05,Tue,6.0,40,200,45
+k9l0m1n2,USR_022,Hauz Khas,False,Irregular_User,Stationary,0.00,370,Low,2025-10-17 09:15:30,Wed,4.9,46,200,45
+l0m1n2o3,USR_022,Hauz Khas,False,Irregular_User,Walking,0.67,330,Low,2025-10-18 10:00:55,Thu,5.3,37,200,45
+m1n2o3p4,USR_022,Hauz Khas,False,Irregular_User,Walking,0.89,290,Low,2025-10-19 11:35:20,Fri,4.5,42,200,45
+n2o3p4q5,USR_022,Hauz Khas,True,Irregular_User,Walking,1.14,20,Low,2025-10-22 10:15:00,Mon,5.7,45,200,45
+o3p4q5r6,USR_023,Cyber City,False,Irregular_User,Walking,0.85,240,Low,2025-10-01 10:45:50,Mon,5.2,40,200,45
+p4q5r6s7,USR_023,Cyber City,False,Irregular_User,Walking,0.92,200,Low,2025-10-02 08:50:15,Tue,4.7,48,200,45
+q5r6s7t8,USR_023,Cyber City,False,Irregular_User,Stationary,0.00,160,Low,2025-10-03 09:20:40,Wed,6.0,43,200,45
+r6s7t8u9,USR_023,Cyber City,False,Irregular_User,Walking,0.78,120,Low,2025-10-04 11:00:05,Thu,4.9,38,200,45
+s7t8u9v0,USR_023,Cyber City,False,Irregular_User,Walking,0.88,80,Low,2025-10-05 10:15:30,Fri,5.5,46,200,45
+t8u9v0w1,USR_023,Cyber City,False,Irregular_User,Walking,0.96,540,Low,2025-10-08 08:50:55,Mon,4.6,41,200,45
+u9v0w1x2,USR_023,Cyber City,False,Irregular_User,Walking,0.71,500,Low,2025-10-09 11:25:20,Tue,5.8,49,200,45
+v0w1x2y3,USR_023,Cyber City,False,Irregular_User,Stationary,0.00,460,Low,2025-10-10 10:05:45,Wed,5.0,37,200,45
+w1x2y3z4,USR_023,Cyber City,False,Irregular_User,Walking,0.84,420,Low,2025-10-11 11:40:10,Thu,6.1,44,200,45
+x2y3z4a5,USR_023,Cyber City,False,Irregular_User,Walking,0.91,380,Low,2025-10-12 08:55:35,Fri,4.8,40,200,45
+y3z4a5b6,USR_023,Cyber City,False,Irregular_User,Walking,0.65,340,Low,2025-10-15 09:50:00,Mon,5.3,47,200,45
+z4a5b6c7,USR_023,Cyber City,False,Irregular_User,Walking,0.79,300,Low,2025-10-16 10:35:25,Tue,4.7,42,200,45
+a5b6c7d8,USR_023,Cyber City,False,Irregular_User,Stationary,0.00,260,Low,2025-10-17 11:50:50,Wed,5.9,39,200,45
+b6c7d8e9,USR_023,Cyber City,False,Irregular_User,Walking,0.87,220,Low,2025-10-18 09:10:15,Thu,5.1,45,200,45
+c7d8e9f0,USR_023,Cyber City,False,Irregular_User,Walking,0.94,180,Low,2025-10-19 10:00:40,Fri,4.5,48,200,45
+d8e9f0g1,USR_023,Cyber City,True,Irregular_User,Walking,1.15,20,Low,2025-10-22 10:15:00,Mon,5.6,41,200,45
+e9f0g1h2,USR_024,MG Road,False,Irregular_User,Walking,0.93,280,Low,2025-10-01 08:50:10,Mon,4.9,46,200,45
+f0g1h2i3,USR_024,MG Road,False,Irregular_User,Walking,0.76,240,Low,2025-10-02 10:20:35,Tue,5.8,39,200,45
+g1h2i3j4,USR_024,MG Road,False,Irregular_User,Walking,0.82,200,Low,2025-10-03 11:15:00,Wed,5.0,43,200,45
+h2i3j4k5,USR_024,MG Road,False,Irregular_User,Stationary,0.00,160,Low,2025-10-04 09:05:25,Thu,6.2,40,200,45
+i3j4k5l6,USR_024,MG Road,False,Irregular_User,Walking,0.89,120,Low,2025-10-05 09:40:50,Fri,4.8,47,200,45
+j4k5l6m7,USR_024,MG Road,False,Irregular_User,Walking,0.95,80,Low,2025-10-08 10:35:15,Mon,5.5,42,200,45
+k5l6m7n8,USR_024,MG Road,False,Irregular_User,Walking,0.67,540,Low,2025-10-09 11:30:40,Tue,4.7,45,200,45
+l6m7n8o9,USR_024,MG Road,False,Irregular_User,Walking,0.85,500,Low,2025-10-10 08:50:05,Wed,5.9,38,200,45
+m7n8o9p0,USR_024,MG Road,False,Irregular_User,Stationary,0.00,460,Low,2025-10-11 09:20:30,Thu,5.1,49,200,45
+n8o9p0q1,USR_024,MG Road,False,Irregular_User,Walking,0.91,420,Low,2025-10-12 11:00:55,Fri,4.5,44,200,45
+o9p0q1r2,USR_024,MG Road,False,Irregular_User,Walking,0.74,380,Low,2025-10-15 09:50:20,Mon,5.6,40,200,45
+p0q1r2s3,USR_024,MG Road,False,Irregular_User,Walking,0.88,340,Low,2025-10-16 10:45:45,Tue,4.9,46,200,45
+q1r2s3t4,USR_024,MG Road,False,Irregular_User,Walking,0.96,300,Low,2025-10-17 11:50:10,Wed,6.0,37,200,45
+r2s3t4u5,USR_024,MG Road,False,Irregular_User,Stationary,0.00,260,Low,2025-10-18 09:05:35,Thu,5.3,42,200,45
+s3t4u5v6,USR_024,MG Road,False,Irregular_User,Walking,0.81,220,Low,2025-10-19 10:20:00,Fri,4.8,48,200,45
+t4u5v6w7,USR_024,MG Road,True,Irregular_User,Walking,1.11,20,Low,2025-10-22 10:15:00,Mon,5.7,43,200,45
+u5v6w7x8,USR_025,Indiranagar,False,Irregular_User,Walking,0.79,270,Low,2025-10-01 11:40:30,Mon,5.0,41,200,45
+v6w7x8y9,USR_025,Indiranagar,False,Irregular_User,Walking,0.92,230,Low,2025-10-02 09:10:55,Tue,5.8,47,200,45
+w7x8y9z0,USR_025,Indiranagar,False,Irregular_User,Walking,0.86,190,Low,2025-10-03 10:05:20,Wed,4.9,40,200,45
+x8y9z0a1,USR_025,Indiranagar,False,Irregular_User,Stationary,0.00,150,Low,2025-10-04 10:50:45,Thu,5.5,44,200,45
+y9z0a1b2,USR_025,Indiranagar,False,Irregular_User,Walking,0.68,110,Low,2025-10-05 11:30:10,Fri,4.6,39,200,45
+z0a1b2c3,USR_025,Indiranagar,False,Irregular_User,Walking,0.84,70,Low,2025-10-08 08:50:35,Mon,6.1,48,200,45
+a1b2c3d4,USR_025,Indiranagar,False,Irregular_User,Walking,0.95,530,Low,2025-10-09 09:35:00,Tue,5.2,42,200,45
+b2c3d4e5,USR_025,Indiranagar,False,Irregular_User,Walking,0.73,490,Low,2025-10-10 10:20:25,Wed,4.8,46,200,45
+c3d4e5f6,USR_025,Indiranagar,False,Irregular_User,Walking,0.89,450,Low,2025-10-11 11:15:50,Thu,5.6,41,200,45
+d4e5f6g7,USR_025,Indiranagar,False,Irregular_User,Stationary,0.00,410,Low,2025-10-12 09:00:15,Fri,4.7,45,200,45
+e5f6g7h8,USR_025,Indiranagar,False,Irregular_User,Walking,0.91,370,Low,2025-10-15 09:55:40,Mon,5.9,38,200,45
+f6g7h8i9,USR_025,Indiranagar,False,Irregular_User,Walking,0.77,330,Low,2025-10-16 10:40:05,Tue,5.1,43,200,45
+g7h8i9j0,USR_025,Indiranagar,False,Irregular_User,Walking,0.85,290,Low,2025-10-17 11:35:30,Wed,4.6,47,200,45
+h8i9j0k1,USR_025,Indiranagar,False,Irregular_User,Walking,0.96,250,Low,2025-10-18 09:20:55,Thu,6.0,40,200,45
+i9j0k1l2,USR_025,Indiranagar,False,Irregular_User,Stationary,0.00,210,Low,2025-10-19 10:10:20,Fri,5.3,44,200,45
+j0k1l2m3,USR_025,Indiranagar,True,Irregular_User,Walking,1.12,20,Low,2025-10-22 10:15:00,Mon,4.9,39,200,45
+k3l4m5n6,USR_026,Cyber City,False,Irregular_User,Walking,0.92,450,Low,2025-10-01 10:45:10,Mon,5.2,46,200,45
+l4m5n6o7,USR_026,Cyber City,False,Irregular_User,Stationary,0.00,410,Low,2025-10-02 09:15:35,Tue,4.8,40,200,45
+m5n6o7p8,USR_026,Cyber City,False,Irregular_User,Walking,0.85,370,Low,2025-10-03 11:30:50,Wed,6.1,44,200,45
+n6o7p8q9,USR_026,Cyber City,False,Irregular_User,Walking,0.76,330,Low,2025-10-04 10:05:15,Thu,5.3,39,200,45
+o7p8q9r0,USR_026,Cyber City,False,Irregular_User,Walking,0.94,290,Low,2025-10-05 08:55:40,Fri,4.9,47,200,45
+p8q9r0s1,USR_026,Cyber City,False,Irregular_User,Walking,0.69,250,Low,2025-10-08 11:10:05,Mon,5.7,42,200,45
+q9r0s1t2,USR_026,Cyber City,False,Irregular_User,Stationary,0.00,210,Low,2025-10-09 09:40:30,Tue,4.6,45,200,45
+r0s1t2u3,USR_026,Cyber City,False,Irregular_User,Walking,0.81,170,Low,2025-10-10 10:55:55,Wed,6.0,38,200,45
+s1t2u3v4,USR_026,Cyber City,False,Irregular_User,Walking,0.88,130,Low,2025-10-11 11:45:20,Thu,5.1,49,200,45
+t2u3v4w5,USR_026,Cyber City,False,Irregular_User,Walking,0.73,90,Low,2025-10-12 09:20:45,Fri,4.8,41,200,45
+u3v4w5x6,USR_026,Cyber City,False,Irregular_User,Walking,0.96,50,Low,2025-10-15 10:35:10,Mon,5.5,43,200,45
+v4w5x6y7,USR_026,Cyber City,False,Irregular_User,Stationary,0.00,550,Low,2025-10-16 08:45:35,Tue,6.2,46,200,45
+w5x6y7z8,USR_026,Cyber City,False,Irregular_User,Walking,0.79,510,Low,2025-10-17 11:25:00,Wed,4.9,37,200,45
+x6y7z8a9,USR_026,Cyber City,False,Irregular_User,Walking,0.84,470,Low,2025-10-18 09:50:25,Thu,5.4,44,200,45
+y7z8a9b0,USR_026,Cyber City,False,Irregular_User,Walking,0.91,430,Low,2025-10-19 10:15:50,Fri,4.7,40,200,45
+z8a9b0c1,USR_026,Cyber City,True,Irregular_User,Walking,1.05,20,Low,2025-10-22 10:15:00,Mon,5.8,45,200,45
+a9b0c1d2,USR_027,Indiranagar,False,Irregular_User,Walking,0.83,380,Low,2025-10-01 09:55:15,Mon,5.3,39,200,45
+b0c1d2e3,USR_027,Indiranagar,False,Irregular_User,Walking,0.95,340,Low,2025-10-02 11:40:40,Tue,4.8,47,200,45
+c1d2e3f4,USR_027,Indiranagar,False,Irregular_User,Walking,0.72,300,Low,2025-10-03 10:25:05,Wed,6.0,41,200,45
+d2e3f4g5,USR_027,Indiranagar,False,Irregular_User,Stationary,0.00,260,Low,2025-10-04 09:10:30,Thu,5.1,45,200,45
+e3f4g5h6,USR_027,Indiranagar,False,Irregular_User,Walking,0.89,220,Low,2025-10-05 11:55:55,Fri,4.6,38,200,45
+f4g5h6i7,USR_027,Indiranagar,False,Irregular_User,Walking,0.67,180,Low,2025-10-08 10:45:20,Mon,5.7,44,200,45
+g5h6i7j8,USR_027,Indiranagar,False,Irregular_User,Walking,0.81,140,Low,2025-10-09 09:30:45,Tue,4.9,40,200,45
+h6i7j8k9,USR_027,Indiranagar,False,Irregular_User,Walking,0.93,100,Low,2025-10-10 11:15:10,Wed,6.1,48,200,45
+i7j8k9l0,USR_027,Indiranagar,False,Irregular_User,Stationary,0.00,60,Low,2025-10-11 08:50:35,Thu,5.2,42,200,45
+j8k9l0m1,USR_027,Indiranagar,False,Irregular_User,Walking,0.86,550,Low,2025-10-12 10:05:00,Fri,4.7,46,200,45
+k9l0m1n2,USR_027,Indiranagar,False,Irregular_User,Walking,0.78,510,Low,2025-10-15 11:20:25,Mon,5.9,37,200,45
+l0m1n2o3,USR_027,Indiranagar,False,Irregular_User,Walking,0.92,470,Low,2025-10-16 09:45:50,Tue,5.0,43,200,45
+m1n2o3p4,USR_027,Indiranagar,False,Irregular_User,Walking,0.69,430,Low,2025-10-17 10:55:15,Wed,6.2,39,200,45
+n2o3p4q5,USR_027,Indiranagar,False,Irregular_User,Stationary,0.00,390,Low,2025-10-18 11:35:40,Thu,4.8,47,200,45
+o3p4q5r6,USR_027,Indiranagar,False,Irregular_User,Walking,0.84,350,Low,2025-10-19 09:10:05,Fri,5.5,41,200,45
+p4q5r6s7,USR_027,Indiranagar,True,Irregular_User,Walking,1.08,20,Low,2025-10-22 10:15:00,Mon,5.1,44,200,45
+q5r6s7t8,USR_028,MG Road,False,Irregular_User,Walking,0.88,400,Low,2025-10-01 11:05:30,Mon,5.6,45,200,45
+r6s7t8u9,USR_028,MG Road,False,Irregular_User,Walking,0.75,360,Low,2025-10-02 09:50:55,Tue,4.9,38,200,45
+s7t8u9v0,USR_028,MG Road,False,Irregular_User,Walking,0.96,320,Low,2025-10-03 10:30:20,Wed,6.0,43,200,45
+t8u9v0w1,USR_028,MG Road,False,Irregular_User,Stationary,0.00,280,Low,2025-10-04 11:45:45,Thu,5.3,49,200,45
+u9v0w1x2,USR_028,MG Road,False,Irregular_User,Walking,0.82,240,Low,2025-10-05 08:40:10,Fri,4.7,40,200,45
+v0w1x2y3,USR_028,MG Road,False,Irregular_User,Walking,0.67,200,Low,2025-10-08 09:25:35,Mon,5.8,46,200,45
+w1x2y3z4,USR_028,MG Road,False,Irregular_User,Walking,0.93,160,Low,2025-10-09 10:50:00,Tue,5.1,39,200,45
+x2y3z4a5,USR_028,MG Road,False,Irregular_User,Walking,0.74,120,Low,2025-10-10 11:55:25,Wed,4.6,44,200,45
+y3z4a5b6,USR_028,MG Road,False,Irregular_User,Stationary,0.00,80,Low,2025-10-11 09:10:50,Thu,6.1,37,200,45
+z4a5b6c7,USR_028,MG Road,False,Irregular_User,Walking,0.89,580,Low,2025-10-12 10:35:15,Fri,5.0,42,200,45
+a5b6c7d8,USR_028,MG Road,False,Irregular_User,Walking,0.95,540,Low,2025-10-15 11:15:40,Mon,5.7,48,200,45
+b6c7d8e9,USR_028,MG Road,False,Irregular_User,Walking,0.71,500,Low,2025-10-16 08:55:05,Tue,4.8,41,200,45
+c7d8e9f0,USR_028,MG Road,False,Irregular_User,Walking,0.85,460,Low,2025-10-17 09:40:30,Wed,5.9,45,200,45
+d8e9f0g1,USR_028,MG Road,False,Irregular_User,Stationary,0.00,420,Low,2025-10-18 11:20:55,Thu,5.2,38,200,45
+e9f0g1h2,USR_028,MG Road,False,Irregular_User,Walking,0.91,380,Low,2025-10-19 10:05:20,Fri,4.6,47,200,45
+f0g1h2i3,USR_028,MG Road,True,Irregular_User,Walking,1.17,20,Low,2025-10-22 10:15:00,Mon,5.5,43,200,45
+g1h2i3j4,USR_029,Hauz Khas,False,Irregular_User,Walking,0.79,320,Low,2025-10-01 09:35:45,Mon,5.9,42,200,45
+h2i3j4k5,USR_029,Hauz Khas,False,Irregular_User,Walking,0.94,280,Low,2025-10-02 11:50:10,Tue,4.9,48,200,45
+i3j4k5l6,USR_029,Hauz Khas,False,Irregular_User,Stationary,0.00,240,Low,2025-10-03 10:15:35,Wed,5.6,40,200,45
+j4k5l6m7,USR_029,Hauz Khas,False,Irregular_User,Walking,0.86,200,Low,2025-10-04 09:00:00,Thu,4.7,46,200,45
+k5l6m7n8,USR_029,Hauz Khas,False,Irregular_User,Walking,0.68,160,Low,2025-10-05 11:25:25,Fri,6.2,39,200,45
+l6m7n8o9,USR_029,Hauz Khas,False,Irregular_User,Walking,0.83,120,Low,2025-10-08 10:40:50,Mon,5.1,43,200,45
+m7n8o9p0,USR_029,Hauz Khas,False,Irregular_User,Walking,0.92,80,Low,2025-10-09 08:55:15,Tue,4.8,47,200,45
+n8o9p0q1,USR_029,Hauz Khas,False,Irregular_User,Stationary,0.00,40,Low,2025-10-10 11:10:40,Wed,5.7,41,200,45
+o9p0q1r2,USR_029,Hauz Khas,False,Irregular_User,Walking,0.75,540,Low,2025-10-11 09:25:05,Thu,5.0,45,200,45
+p0q1r2s3,USR_029,Hauz Khas,False,Irregular_User,Walking,0.89,500,Low,2025-10-12 10:50:30,Fri,4.6,38,200,45
+q1r2s3t4,USR_029,Hauz Khas,False,Irregular_User,Walking,0.96,460,Low,2025-10-15 11:35:55,Mon,6.0,44,200,45
+r2s3t4u5,USR_029,Hauz Khas,False,Irregular_User,Walking,0.71,420,Low,2025-10-16 09:50:20,Tue,5.2,49,200,45
+s3t4u5v6,USR_029,Hauz Khas,False,Irregular_User,Stationary,0.00,380,Low,2025-10-17 08:45:45,Wed,4.7,42,200,45
+t4u5v6w7,USR_029,Hauz Khas,False,Irregular_User,Walking,0.85,340,Low,2025-10-18 10:30:10,Thu,5.8,37,200,45
+u5v6w7x8,USR_029,Hauz Khas,False,Irregular_User,Walking,0.93,300,Low,2025-10-19 11:55:35,Fri,5.1,46,200,45
+v6w7x8y9,USR_029,Hauz Khas,True,Irregular_User,Walking,1.11,20,Low,2025-10-22 10:15:00,Mon,4.9,40,200,45
+w7x8y9z0,USR_030,Cyber City,False,Irregular_User,Walking,0.95,440,Low,2025-10-01 11:45:20,Mon,5.6,43,200,45
+x8y9z0a1,USR_030,Cyber City,False,Irregular_User,Walking,0.73,400,Low,2025-10-02 09:10:45,Tue,4.8,47,200,45
+y9z0a1b2,USR_030,Cyber City,False,Irregular_User,Stationary,0.00,360,Low,2025-10-03 10:25:10,Wed,5.9,41,200,45
+z0a1b2c3,USR_030,Cyber City,False,Irregular_User,Walking,0.88,320,Low,2025-10-04 11:50:35,Thu,5.0,45,200,45
+a1b2c3d4,USR_030,Cyber City,False,Irregular_User,Walking,0.94,280,Low,2025-10-05 08:50:00,Fri,4.7,39,200,45
+b2c3d4e5,USR_030,Cyber City,False,Irregular_User,Walking,0.67,240,Low,2025-10-08 10:05:25,Mon,6.2,44,200,45
+c3d4e5f6,USR_030,Cyber City,False,Irregular_User,Walking,0.81,200,Low,2025-10-09 11:20:50,Tue,5.1,48,200,45
+d4e5f6g7,USR_030,Cyber City,False,Irregular_User,Walking,0.92,160,Low,2025-10-10 09:35:15,Wed,4.9,42,200,45
+e5f6g7h8,USR_030,Cyber City,False,Irregular_User,Stationary,0.00,120,Low,2025-10-11 10:50:40,Thu,5.7,38,200,45
+f6g7h8i9,USR_030,Cyber City,False,Irregular_User,Walking,0.86,80,Low,2025-10-12 11:30:05,Fri,5.2,46,200,45
+g7h8i9j0,USR_030,Cyber City,False,Irregular_User,Walking,0.79,580,Low,2025-10-15 08:45:30,Mon,4.6,40,200,45
+h8i9j0k1,USR_030,Cyber City,False,Irregular_User,Walking,0.95,540,Low,2025-10-16 10:00:55,Tue,6.0,43,200,45
+i9j0k1l2,USR_030,Cyber City,False,Irregular_User,Walking,0.69,500,Low,2025-10-17 11:15:20,Wed,5.3,47,200,45
+j0k1l2m3,USR_030,Cyber City,False,Irregular_User,Stationary,0.00,460,Low,2025-10-18 09:30:45,Thu,4.8,39,200,45
+k1l2m3n4,USR_030,Cyber City,False,Irregular_User,Walking,0.84,420,Low,2025-10-19 10:45:10,Fri,5.5,45,200,45
+l2m3n4o5,USR_030,Cyber City,True,Irregular_User,Walking,1.16,20,Low,2025-10-22 10:15:00,Mon,5.0,41,200,45
+m3n4o5p6,USR_031,Indiranagar,False,Irregular_User,Walking,0.76,370,Low,2025-10-01 10:25:35,Mon,6.1,43,200,45
+n4o5p6q7,USR_031,Indiranagar,False,Irregular_User,Walking,0.89,330,Low,2025-10-02 11:40:00,Tue,5.2,38,200,45
+o5p6q7r8,USR_031,Indiranagar,False,Irregular_User,Walking,0.96,290,Low,2025-10-03 08:55:25,Wed,4.9,44,200,45
+p6q7r8s9,USR_031,Indiranagar,False,Irregular_User,Stationary,0.00,250,Low,2025-10-04 10:10:50,Thu,5.8,47,200,45
+q7r8s9t0,USR_031,Indiranagar,False,Irregular_User,Walking,0.82,210,Low,2025-10-05 11:25:15,Fri,5.0,42,200,45
+r8s9t0u1,USR_031,Indiranagar,False,Irregular_User,Walking,0.68,170,Low,2025-10-08 09:40:40,Mon,4.6,40,200,45
+s9t0u1v2,USR_031,Indiranagar,False,Irregular_User,Walking,0.91,130,Low,2025-10-09 10:55:05,Tue,5.9,45,200,45
+t0u1v2w3,USR_031,Indiranagar,False,Irregular_User,Stationary,0.00,90,Low,2025-10-10 11:50:30,Wed,5.1,39,200,45
+u1v2w3x4,USR_031,Indiranagar,False,Irregular_User,Walking,0.74,50,Low,2025-10-11 09:05:55,Thu,4.8,46,200,45
+v2w3x4y5,USR_031,Indiranagar,False,Irregular_User,Walking,0.87,550,Low,2025-10-12 10:20:20,Fri,5.6,41,200,45
+w3x4y5z6,USR_031,Indiranagar,False,Irregular_User,Walking,0.94,510,Low,2025-10-15 11:35:45,Mon,4.9,44,200,45
+x4y5z6a7,USR_031,Indiranagar,False,Irregular_User,Walking,0.66,470,Low,2025-10-16 08:50:10,Tue,5.7,48,200,45
+y5z6a7b8,USR_031,Indiranagar,False,Irregular_User,Stationary,0.00,430,Low,2025-10-17 10:05:35,Wed,5.2,43,200,45
+z6a7b8c9,USR_031,Indiranagar,False,Irregular_User,Walking,0.83,390,Low,2025-10-18 11:20:00,Thu,4.7,40,200,45
+a7b8c9d0,USR_031,Indiranagar,False,Irregular_User,Walking,0.90,350,Low,2025-10-19 09:35:25,Fri,6.0,46,200,45
+b8c9d0e1,USR_031,Indiranagar,True,Irregular_User,Walking,1.13,20,Low,2025-10-22 10:15:00,Mon,5.3,42,200,45
+c9d0e1f2,USR_032,Churchgate,False,Irregular_User,Walking,0.85,300,Low,2025-10-01 11:55:50,Mon,5.4,39,200,45
+d0e1f2g3,USR_032,Churchgate,False,Irregular_User,Walking,0.73,260,Low,2025-10-02 09:10:15,Tue,4.8,47,200,45
+e1f2g3h4,USR_032,Churchgate,False,Irregular_User,Stationary,0.00,220,Low,2025-10-03 10:25:40,Wed,6.1,43,200,45
+f2g3h4i5,USR_032,Churchgate,False,Irregular_User,Walking,0.92,180,Low,2025-10-04 11:40:05,Thu,5.0,38,200,45
+g3h4i5j6,USR_032,Churchgate,False,Irregular_User,Walking,0.86,140,Low,2025-10-05 08:55:30,Fri,5.5,45,200,45
+h4i5j6k7,USR_032,Churchgate,False,Irregular_User,Walking,0.67,100,Low,2025-10-08 10:10:55,Mon,4.9,41,200,45
+i5j6k7l8,USR_032,Churchgate,False,Irregular_User,Walking,0.89,60,Low,2025-10-09 11:25:20,Tue,5.8,46,200,45
+j6k7l8m9,USR_032,Churchgate,False,Irregular_User,Stationary,0.00,560,Low,2025-10-10 09:40:45,Wed,5.1,40,200,45
+k7l8m9n0,USR_032,Churchgate,False,Irregular_User,Walking,0.96,520,Low,2025-10-11 10:55:10,Thu,4.7,48,200,45
+l8m9n0o1,USR_032,Churchgate,False,Irregular_User,Walking,0.81,480,Low,2025-10-12 11:50:35,Fri,6.2,42,200,45
+m9n0o1p2,USR_032,Churchgate,False,Irregular_User,Walking,0.75,440,Low,2025-10-15 09:05:00,Mon,5.3,37,200,45
+n0o1p2q3,USR_032,Churchgate,False,Irregular_User,Walking,0.91,400,Low,2025-10-16 10:20:25,Tue,4.8,44,200,45
+o1p2q3r4,USR_032,Churchgate,False,Irregular_User,Stationary,0.00,360,Low,2025-10-17 11:35:50,Wed,5.9,49,200,45
+p2q3r4s5,USR_032,Churchgate,False,Irregular_User,Walking,0.84,320,Low,2025-10-18 08:50:15,Thu,5.0,45,200,45
+q3r4s5t6,USR_032,Churchgate,False,Irregular_User,Walking,0.68,280,Low,2025-10-19 10:05:40,Fri,5.6,40,200,45
+r4s5t6u7,USR_032,Churchgate,True,Irregular_User,Walking,1.15,20,Low,2025-10-22 10:15:00,Mon,4.9,46,200,45
+s5t6u7v8,USR_033,MG Road,False,Irregular_User,Walking,0.94,430,Low,2025-10-01 09:25:05,Mon,5.4,39,200,45
+t6u7v8w9,USR_033,MG Road,False,Irregular_User,Walking,0.82,390,Low,2025-10-02 10:40:30,Tue,4.7,43,200,45
+u7v8w9x0,USR_033,MG Road,False,Irregular_User,Walking,0.67,350,Low,2025-10-03 11:55:55,Wed,5.8,48,200,45
+v8w9x0y1,USR_033,MG Road,False,Irregular_User,Stationary,0.00,310,Low,2025-10-04 09:10:20,Thu,5.1,41,200,45
+w9x0y1z2,USR_033,MG Road,False,Irregular_User,Walking,0.89,270,Low,2025-10-05 10:25:45,Fri,4.6,45,200,45
+x0y1z2a3,USR_033,MG Road,False,Irregular_User,Walking,1.02,230,Low,2025-10-08 11:40:10,Mon,6.0,38,200,45
+y1z2a3b4,USR_033,MG Road,False,Irregular_User,Walking,0.78,190,Low,2025-10-09 08:55:35,Tue,5.2,42,200,45
+z2a3b4c5,USR_033,MG Road,False,Irregular_User,Stationary,0.00,150,Low,2025-10-10 10:10:00,Wed,4.9,47,200,45
+a3b4c5d6,USR_033,MG Road,False,Irregular_User,Walking,0.91,110,Low,2025-10-11 11:25:25,Thu,5.7,44,200,45
+b4c5d6e7,USR_033,MG Road,False,Irregular_User,Walking,0.73,70,Low,2025-10-12 09:40:50,Fri,5.0,40,200,45
+c5d6e7f8,USR_033,MG Road,False,Irregular_User,Walking,0.85,570,Low,2025-10-15 10:55:15,Mon,4.8,46,200,45
+d6e7f8g9,USR_033,MG Road,False,Irregular_User,Walking,0.96,530,Low,2025-10-16 11:10:40,Tue,5.9,41,200,45
+e7f8g9h0,USR_033,MG Road,False,Irregular_User,Stationary,0.00,490,Low,2025-10-17 09:25:05,Wed,5.3,37,200,45
+f8g9h0i1,USR_033,MG Road,False,Irregular_User,Walking,0.79,450,Low,2025-10-18 10:40:30,Thu,4.7,49,200,45
+g9h0i1j2,USR_033,MG Road,False,Irregular_User,Walking,0.88,410,Low,2025-10-19 11:55:55,Fri,5.6,42,200,45
+h0i1j2k3,USR_033,MG Road,True,Irregular_User,Walking,1.15,20,Low,2025-10-22 10:15:00,Mon,5.2,45,200,45
+i1j2k3l4,USR_034,Hauz Khas,False,Irregular_User,Walking,0.86,260,Low,2025-10-01 11:10:20,Mon,6.1,48,200,45
+j2k3l4m5,USR_034,Hauz Khas,False,Irregular_User,Walking,0.94,220,Low,2025-10-02 09:25:45,Tue,5.0,40,200,45
+k3l4m5n6,USR_034,Hauz Khas,False,Irregular_User,Stationary,0.00,180,Low,2025-10-03 10:40:10,Wed,4.8,44,200,45
+l4m5n6o7,USR_034,Hauz Khas,False,Irregular_User,Walking,0.72,140,Low,2025-10-04 11:55:35,Thu,5.7,41,200,45
+m5n6o7p8,USR_034,Hauz Khas,False,Irregular_User,Walking,0.81,100,Low,2025-10-05 09:10:00,Fri,4.9,39,200,45
+n6o7p8q9,USR_034,Hauz Khas,False,Irregular_User,Walking,0.95,60,Low,2025-10-08 10:25:25,Mon,6.2,46,200,45
+o7p8q9r0,USR_034,Hauz Khas,False,Irregular_User,Walking,0.77,560,Low,2025-10-09 11:40:50,Tue,5.3,42,200,45
+p8q9r0s1,USR_034,Hauz Khas,False,Irregular_User,Stationary,0.00,520,Low,2025-10-10 08:55:15,Wed,4.7,45,200,45
+q9r0s1t2,USR_034,Hauz Khas,False,Irregular_User,Walking,0.89,480,Low,2025-10-11 10:10:40,Thu,5.8,38,200,45
+r0s1t2u3,USR_034,Hauz Khas,False,Irregular_User,Walking,0.66,440,Low,2025-10-12 11:25:05,Fri,5.1,49,200,45
+s1t2u3v4,USR_034,Hauz Khas,False,Irregular_User,Walking,0.93,400,Low,2025-10-15 09:40:30,Mon,4.6,43,200,45
+t2u3v4w5,USR_034,Hauz Khas,False,Irregular_User,Walking,0.79,360,Low,2025-10-16 10:55:55,Tue,5.9,47,200,45
+u3v4w5x6,USR_034,Hauz Khas,False,Irregular_User,Stationary,0.00,320,Low,2025-10-17 11:10:20,Wed,5.4,40,200,45
+v4w5x6y7,USR_034,Hauz Khas,False,Irregular_User,Walking,0.85,280,Low,2025-10-18 09:25:45,Thu,4.8,44,200,45
+w5x6y7z8,USR_034,Hauz Khas,False,Irregular_User,Walking,0.91,240,Low,2025-10-19 10:40:10,Fri,5.6,39,200,45
+x6y7z8a9,USR_034,Hauz Khas,True,Irregular_User,Walking,1.19,20,Low,2025-10-22 10:15:00,Mon,5.0,46,200,45
+y7z8a9b0,USR_035,Cyber City,False,Irregular_User,Walking,0.78,390,Low,2025-10-01 11:35:35,Mon,5.7,45,200,45
+z8a9b0c1,USR_035,Cyber City,False,Irregular_User,Walking,0.92,350,Low,2025-10-02 08:50:00,Tue,4.8,41,200,45
+a9b0c1d2,USR_035,Cyber City,False,Irregular_User,Stationary,0.00,310,Low,2025-10-03 10:05:25,Wed,6.0,48,200,45
+b0c1d2e3,USR_035,Cyber City,False,Irregular_User,Walking,0.84,270,Low,2025-10-04 11:20:50,Thu,5.1,43,200,45
+c1d2e3f4,USR_035,Cyber City,False,Irregular_User,Walking,0.67,230,Low,2025-10-05 09:35:15,Fri,4.5,39,200,45
+d2e3f4g5,USR_035,Cyber City,False,Irregular_User,Walking,0.89,190,Low,2025-10-08 10:50:40,Mon,5.5,47,200,45
+e3f4g5h6,USR_035,Cyber City,False,Irregular_User,Walking,0.96,150,Low,2025-10-09 11:05:05,Tue,4.9,42,200,45
+f4g5h6i7,USR_035,Cyber City,False,Irregular_User,Stationary,0.00,110,Low,2025-10-10 09:20:30,Wed,5.8,46,200,45
+g5h6i7j8,USR_035,Cyber City,False,Irregular_User,Walking,0.75,70,Low,2025-10-11 10:35:55,Thu,5.2,40,200,45
+h6i7j8k9,USR_035,Cyber City,False,Irregular_User,Walking,0.82,570,Low,2025-10-12 11:50:20,Fri,6.1,49,200,45
+i7j8k9l0,USR_035,Cyber City,False,Irregular_User,Walking,0.91,530,Low,2025-10-15 09:05:45,Mon,4.7,44,200,45
+j8k9l0m1,USR_035,Cyber City,False,Irregular_User,Walking,0.69,490,Low,2025-10-16 10:20:10,Tue,5.6,38,200,45
+k9l0m1n2,USR_035,Cyber City,False,Irregular_User,Stationary,0.00,450,Low,2025-10-17 11:35:35,Wed,5.0,45,200,45
+l0m1n2o3,USR_035,Cyber City,False,Irregular_User,Walking,0.86,410,Low,2025-10-18 09:50:00,Thu,5.4,41,200,45
+m1n2o3p4,USR_035,Cyber City,False,Irregular_User,Walking,0.94,370,Low,2025-10-19 11:05:25,Fri,4.9,48,200,45
+n2o3p4q5,USR_035,Cyber City,True,Irregular_User,Walking,1.13,20,Low,2025-10-22 10:15:00,Mon,5.7,43,200,45
+o3p4q5r6,USR_036,Indiranagar,False,Irregular_User,Walking,0.91,220,Low,2025-10-01 09:10:50,Mon,5.2,46,200,45
+p4q5r6s7,USR_036,Indiranagar,False,Irregular_User,Walking,0.79,180,Low,2025-10-02 10:25:15,Tue,6.0,40,200,45
+q5r6s7t8,USR_036,Indiranagar,False,Irregular_User,Walking,0.85,140,Low,2025-10-03 11:40:40,Wed,4.8,49,200,45
+r6s7t8u9,USR_036,Indiranagar,False,Irregular_User,Stationary,0.00,100,Low,2025-10-04 09:55:05,Thu,5.7,42,200,45
+s7t8u9v0,USR_036,Indiranagar,False,Irregular_User,Walking,0.96,60,Low,2025-10-05 11:10:30,Fri,5.1,45,200,45
+t8u9v0w1,USR_036,Indiranagar,False,Irregular_User,Walking,0.68,560,Low,2025-10-08 09:25:55,Mon,4.6,39,200,45
+u9v0w1x2,USR_036,Indiranagar,False,Irregular_User,Walking,0.81,520,Low,2025-10-09 10:40:20,Tue,5.9,44,200,45
+v0w1x2y3,USR_036,Indiranagar,False,Irregular_User,Stationary,0.00,480,Low,2025-10-10 11:55:45,Wed,5.3,38,200,45
+w1x2y3z4,USR_036,Indiranagar,False,Irregular_User,Walking,0.89,440,Low,2025-10-11 09:10:10,Thu,4.7,47,200,45
+x2y3z4a5,USR_036,Indiranagar,False,Irregular_User,Walking,1.04,400,Low,2025-10-12 10:25:35,Fri,5.5,41,200,45
+y3z4a5b6,USR_036,Indiranagar,False,Irregular_User,Walking,0.77,360,Low,2025-10-15 11:40:00,Mon,4.9,46,200,45
+z4a5b6c7,USR_036,Indiranagar,False,Irregular_User,Walking,0.93,320,Low,2025-10-16 09:55:25,Tue,6.1,43,200,45
+a5b6c7d8,USR_036,Indiranagar,False,Irregular_User,Stationary,0.00,280,Low,2025-10-17 11:10:50,Wed,5.0,37,200,45
+b6c7d8e9,USR_036,Indiranagar,False,Irregular_User,Walking,0.82,240,Low,2025-10-18 09:25:15,Thu,5.8,45,200,45
+c7d8e9f0,USR_036,Indiranagar,False,Irregular_User,Walking,0.69,200,Low,2025-10-19 10:40:40,Fri,4.5,40,200,45
+d8e9f0g1,USR_036,Indiranagar,True,Irregular_User,Walking,1.14,20,Low,2025-10-22 10:15:00,Mon,5.4,48,200,45
+e9f0g1h2,USR_037,Churchgate,False,Irregular_User,Walking,0.90,350,Low,2025-10-01 11:55:05,Mon,5.6,41,200,45
+f0g1h2i3,USR_037,Churchgate,False,Irregular_User,Walking,1.13,310,Low,2025-10-02 10:10:30,Tue,4.8,47,200,45
+g1h2i3j4,USR_037,Churchgate,False,Irregular_User,Walking,0.84,270,Low,2025-10-03 11:25:55,Wed,6.2,39,200,45
+h2i3j4k5,USR_037,Churchgate,False,Irregular_User,Stationary,0.00,230,Low,2025-10-04 09:40:20,Thu,5.1,44,200,45
+i3j4k5l6,USR_037,Churchgate,False,Irregular_User,Walking,0.76,190,Low,2025-10-05 10:55:45,Fri,4.5,48,200,45
+j4k5l6m7,USR_037,Churchgate,False,Irregular_User,Walking,0.93,150,Low,2025-10-08 09:10:10,Mon,5.9,43,200,45
+k5l6m7n8,USR_037,Churchgate,False,Irregular_User,Walking,0.68,110,Low,2025-10-09 10:25:35,Tue,5.3,40,200,45
+l6m7n8o9,USR_037,Churchgate,False,Irregular_User,Walking,0.89,70,Low,2025-10-10 11:40:00,Wed,4.7,46,200,45
+m7n8o9p0,USR_037,Churchgate,False,Irregular_User,Stationary,0.00,570,Low,2025-10-11 09:55:25,Thu,5.5,38,200,45
+n8o9p0q1,USR_037,Churchgate,False,Irregular_User,Walking,0.72,530,Low,2025-10-12 11:10:50,Fri,6.0,45,200,45
+o9p0q1r2,USR_037,Churchgate,False,Irregular_User,Walking,0.95,490,Low,2025-10-15 09:25:15,Mon,5.0,49,200,45
+p0q1r2s3,USR_037,Churchgate,False,Irregular_User,Walking,0.81,450,Low,2025-10-16 10:40:40,Tue,4.6,42,200,45
+q1r2s3t4,USR_037,Churchgate,False,Irregular_User,Stationary,0.00,410,Low,2025-10-17 11:55:05,Wed,5.8,37,200,45
+r2s3t4u5,USR_037,Churchgate,False,Irregular_User,Walking,0.87,370,Low,2025-10-18 10:10:30,Thu,5.2,44,200,45
+s3t4u5v6,USR_037,Churchgate,False,Irregular_User,Walking,0.75,330,Low,2025-10-19 11:25:55,Fri,4.9,41,200,45
+t4u5v6w7,USR_037,Churchgate,True,Irregular_User,Walking,0.91,20,Low,2025-10-22 10:15:00,Mon,5.6,46,200,45
+u5v6w7x8,USR_038,MG Road,False,Irregular_User,Walking,0.79,480,Low,2025-10-01 10:40:20,Mon,4.8,39,200,45
+v6w7x8y9,USR_038,MG Road,False,Irregular_User,Walking,1.10,440,Low,2025-10-02 11:55:45,Tue,6.1,43,200,45
+w7x8y9z0,USR_038,MG Road,False,Irregular_User,Walking,0.94,400,Low,2025-10-03 09:10:10,Wed,5.4,48,200,45
+x8y9z0a1,USR_038,MG Road,False,Irregular_User,Stationary,0.00,360,Low,2025-10-04 10:25:35,Thu,4.5,42,200,45
+y9z0a1b2,USR_038,MG Road,False,Irregular_User,Walking,0.82,320,Low,2025-10-05 11:40:00,Fri,5.7,40,200,45
+z0a1b2c3,USR_038,MG Road,False,Irregular_User,Walking,0.67,280,Low,2025-10-08 09:55:25,Mon,5.0,45,200,45
+a1b2c3d4,USR_038,MG Road,False,Irregular_User,Walking,0.89,240,Low,2025-10-09 11:10:50,Tue,6.2,38,200,45
+b2c3d4e5,USR_038,MG Road,False,Irregular_User,Walking,0.96,200,Low,2025-10-10 09:25:15,Wed,4.9,47,200,45
+c3d4e5f6,USR_038,MG Road,False,Irregular_User,Stationary,0.00,160,Low,2025-10-11 10:40:40,Thu,5.5,41,200,45
+d4e5f6g7,USR_038,MG Road,False,Irregular_User,Walking,0.75,120,Low,2025-10-12 11:55:05,Fri,4.6,44,200,45
+e5f6g7h8,USR_038,MG Road,False,Irregular_User,Walking,0.88,80,Low,2025-10-15 10:10:30,Mon,5.8,37,200,45
+f6g7h8i9,USR_038,MG Road,False,Irregular_User,Walking,0.95,580,Low,2025-10-16 11:25:55,Tue,5.1,49,200,45
+g7h8i9j0,USR_038,MG Road,False,Irregular_User,Walking,0.82,540,Low,2025-10-17 09:40:20,Wed,6.0,43,200,45
+h8i9j0k1,USR_038,MG Road,False,Irregular_User,Stationary,0.00,500,Low,2025-10-18 10:55:45,Thu,4.7,46,200,45
+i9j0k1l2,USR_038,MG Road,False,Irregular_User,Walking,0.67,460,Low,2025-10-19 09:10:10,Fri,5.3,40,200,45
+j0k1l2m3,USR_038,MG Road,True,Irregular_User,Walking,0.89,20,Low,2025-10-22 10:15:00,Mon,5.9,45,200,45
+k1l2m3n4,USR_039,Cyber City,False,Irregular_User,Walking,0.88,270,Low,2025-10-01 11:25:35,Mon,4.8,39,200,45
+l2m3n4o5,USR_039,Cyber City,False,Irregular_User,Walking,0.71,230,Low,2025-10-02 09:40:00,Tue,5.6,44,200,45
+m3n4o5p6,USR_039,Cyber City,False,Irregular_User,Stationary,0.00,190,Low,2025-10-03 10:55:25,Wed,5.0,47,200,45
+n4o5p6q7,USR_039,Cyber City,False,Irregular_User,Walking,0.85,150,Low,2025-10-04 09:10:50,Thu,6.1,41,200,45
+o5p6q7r8,USR_039,Cyber City,False,Irregular_User,Walking,0.96,110,Low,2025-10-05 10:25:15,Fri,4.9,38,200,45
+p6q7r8s9,USR_039,Cyber City,False,Irregular_User,Walking,0.67,70,Low,2025-10-08 11:40:40,Mon,5.7,46,200,45
+q7r8s9t0,USR_039,Cyber City,False,Irregular_User,Walking,0.81,570,Low,2025-10-09 09:55:05,Tue,5.2,42,200,45
+r8s9t0u1,USR_039,Cyber City,False,Irregular_User,Stationary,0.00,530,Low,2025-10-10 11:10:30,Wed,4.6,49,200,45
+s9t0u1v2,USR_039,Cyber City,False,Irregular_User,Walking,0.92,490,Low,2025-10-11 09:25:55,Thu,5.8,37,200,45
+t0u1v2w3,USR_039,Cyber City,False,Irregular_User,Walking,0.73,450,Low,2025-10-12 10:40:20,Fri,5.1,45,200,45
+u1v2w3x4,USR_039,Cyber City,False,Irregular_User,Walking,0.89,410,Low,2025-10-15 11:55:45,Mon,4.7,40,200,45
+v2w3x4y5,USR_039,Cyber City,False,Irregular_User,Walking,0.95,370,Low,2025-10-16 10:10:10,Tue,5.5,43,200,45
+w3x4y5z6,USR_039,Cyber City,False,Irregular_User,Stationary,0.00,330,Low,2025-10-17 11:25:35,Wed,6.2,48,200,45
+x4y5z6a7,USR_039,Cyber City,False,Irregular_User,Walking,0.82,290,Low,2025-10-18 09:40:00,Thu,5.0,39,200,45
+y5z6a7b8,USR_039,Cyber City,False,Irregular_User,Walking,0.66,250,Low,2025-10-19 10:55:25,Fri,5.9,46,200,45
+z6a7b8c9,USR_039,Cyber City,True,Irregular_User,Walking,0.83,20,Low,2025-10-22 10:15:00,Mon,4.8,42,200,45
+a7b8c9d0,USR_040,Hauz Khas,False,Irregular_User,Walking,0.90,390,Low,2025-10-01 10:10:50,Mon,5.3,47,200,45
+b8c9d0e1,USR_040,Hauz Khas,False,Irregular_User,Walking,1.13,350,Low,2025-10-02 11:25:15,Tue,4.7,41,200,45
+c9d0e1f2,USR_040,Hauz Khas,False,Irregular_User,Walking,0.84,310,Low,2025-10-03 09:40:40,Wed,5.6,45,200,45
+d0e1f2g3,USR_040,Hauz Khas,False,Irregular_User,Stationary,0.00,270,Low,2025-10-04 10:55:05,Thu,5.1,38,200,45
+e1f2g3h4,USR_040,Hauz Khas,False,Irregular_User,Walking,0.76,230,Low,2025-10-05 09:10:30,Fri,4.5,44,200,45
+f2g3h4i5,USR_040,Hauz Khas,False,Irregular_User,Walking,0.93,190,Low,2025-10-08 10:25:55,Mon,5.8,49,200,45
+g3h4i5j6,USR_040,Hauz Khas,False,Irregular_User,Walking,0.68,150,Low,2025-10-09 11:40:20,Tue,4.9,42,200,45
+h4i5j6k7,USR_040,Hauz Khas,False,Irregular_User,Stationary,0.00,110,Low,2025-10-10 09:55:45,Wed,6.0,37,200,45
+i5j6k7l8,USR_040,Hauz Khas,False,Irregular_User,Walking,0.89,70,Low,2025-10-11 11:10:10,Thu,5.2,46,200,45
+j6k7l8m9,USR_040,Hauz Khas,False,Irregular_User,Walking,0.95,570,Low,2025-10-12 09:25:35,Fri,4.6,40,200,45
+k7l8m9n0,USR_040,Hauz Khas,False,Irregular_User,Walking,0.72,530,Low,2025-10-15 10:40:00,Mon,5.7,48,200,45
+l8m9n0o1,USR_040,Hauz Khas,False,Irregular_User,Walking,0.81,490,Low,2025-10-16 11:55:25,Tue,5.0,43,200,45
+m9n0o1p2,USR_040,Hauz Khas,False,Irregular_User,Stationary,0.00,450,Low,2025-10-17 10:10:50,Wed,4.8,39,200,45
+n0o1p2q3,USR_040,Hauz Khas,False,Irregular_User,Walking,0.87,410,Low,2025-10-18 11:25:15,Thu,5.9,45,200,45
+o1p2q3r4,USR_040,Hauz Khas,False,Irregular_User,Walking,0.75,370,Low,2025-10-19 09:40:40,Fri,5.4,41,200,45
+p2q3r4s5,USR_040,Hauz Khas,True,Irregular_User,Walking,0.91,20,Low,2025-10-22 10:15:00,Mon,4.7,47,200,45
+q3r4s5t6,USR_041,Indiranagar,False,Irregular_User,Walking,0.82,210,Low,2025-10-01 10:55:25,Mon,5.3,42,200,45
+r4s5t6u7,USR_041,Indiranagar,False,Irregular_User,Walking,0.96,170,Low,2025-10-02 09:10:50,Tue,4.8,49,200,45
+s5t6u7v8,USR_041,Indiranagar,False,Irregular_User,Walking,0.69,130,Low,2025-10-03 10:25:15,Wed,6.2,38,200,45
+t6u7v8w9,USR_041,Indiranagar,False,Irregular_User,Stationary,0.00,90,Low,2025-10-04 11:40:40,Thu,5.1,44,200,45
+u7v8w9x0,USR_041,Indiranagar,False,Irregular_User,Walking,0.85,50,Low,2025-10-05 09:55:05,Fri,4.5,40,200,45
+v8w9x0y1,USR_041,Indiranagar,False,Irregular_User,Walking,0.73,550,Low,2025-10-08 11:10:30,Mon,5.6,46,200,45
+w9x0y1z2,USR_041,Indiranagar,False,Irregular_User,Walking,0.92,510,Low,2025-10-09 09:25:55,Tue,4.9,41,200,45
+x0y1z2a3,USR_041,Indiranagar,False,Irregular_User,Stationary,0.00,470,Low,2025-10-10 10:40:20,Wed,5.8,45,200,45
+y1z2a3b4,USR_041,Indiranagar,False,Irregular_User,Walking,0.81,430,Low,2025-10-11 11:55:45,Thu,5.0,37,200,45
+z2a3b4c5,USR_041,Indiranagar,False,Irregular_User,Walking,0.94,390,Low,2025-10-12 10:10:10,Fri,6.1,48,200,45
+a3b4c5d6,USR_041,Indiranagar,False,Irregular_User,Walking,0.66,350,Low,2025-10-15 11:25:35,Mon,4.7,43,200,45
+b4c5d6e7,USR_041,Indiranagar,False,Irregular_User,Walking,0.83,310,Low,2025-10-16 09:40:00,Tue,5.5,39,200,45
+c5d6e7f8,USR_041,Indiranagar,False,Irregular_User,Stationary,0.00,270,Low,2025-10-17 10:55:25,Wed,4.9,46,200,45
+d6e7f8g9,USR_041,Indiranagar,False,Irregular_User,Walking,0.88,230,Low,2025-10-18 09:10:50,Thu,5.7,41,200,45
+e7f8g9h0,USR_041,Indiranagar,False,Irregular_User,Walking,0.76,190,Low,2025-10-19 10:25:15,Fri,5.1,47,200,45
+f8g9h0i1,USR_041,Indiranagar,True,Irregular_User,Walking,1.15,20,Low,2025-10-22 10:15:00,Mon,4.6,42,200,45
+g9h0i1j2,USR_042,Churchgate,False,Irregular_User,Walking,0.89,330,Low,2025-10-01 11:40:35,Mon,5.2,40,200,45
+h0i1j2k3,USR_042,Churchgate,False,Irregular_User,Walking,0.71,290,Low,2025-10-02 09:55:00,Tue,6.0,48,200,45
+i1j2k3l4,USR_042,Churchgate,False,Irregular_User,Stationary,0.00,250,Low,2025-10-03 11:10:25,Wed,4.8,43,200,45
+j2k3l4m5,USR_042,Churchgate,False,Irregular_User,Walking,0.85,210,Low,2025-10-04 09:25:50,Thu,5.6,38,200,45
+k3l4m5n6,USR_042,Churchgate,False,Irregular_User,Walking,0.96,170,Low,2025-10-05 10:40:15,Fri,4.9,45,200,45
+l4m5n6o7,USR_042,Churchgate,False,Irregular_User,Walking,0.67,130,Low,2025-10-08 11:55:40,Mon,5.8,41,200,45
+m5n6o7p8,USR_042,Churchgate,False,Irregular_User,Walking,0.81,90,Low,2025-10-09 10:10:05,Tue,5.0,46,200,45
+n6o7p8q9,USR_042,Churchgate,False,Irregular_User,Stationary,0.00,50,Low,2025-10-10 11:25:30,Wed,5.5,39,200,45
+o7p8q9r0,USR_042,Churchgate,False,Irregular_User,Walking,0.92,550,Low,2025-10-11 09:40:55,Thu,4.7,44,200,45
+p8q9r0s1,USR_042,Churchgate,False,Irregular_User,Walking,0.73,510,Low,2025-10-12 10:55:20,Fri,6.1,48,200,45
+q9r0s1t2,USR_042,Churchgate,False,Irregular_User,Walking,0.89,470,Low,2025-10-15 09:10:45,Mon,5.2,40,200,45
+r0s1t2u3,USR_042,Churchgate,False,Irregular_User,Walking,0.95,430,Low,2025-10-16 10:25:10,Tue,4.6,47,200,45
+s1t2u3v4,USR_042,Churchgate,False,Irregular_User,Stationary,0.00,390,Low,2025-10-17 11:40:35,Wed,5.7,42,200,45
+t2u3v4w5,USR_042,Churchgate,False,Irregular_User,Walking,0.82,350,Low,2025-10-18 09:55:00,Thu,5.1,38,200,45
+u3v4w5x6,USR_042,Churchgate,False,Irregular_User,Walking,0.68,310,Low,2025-10-19 11:10:25,Fri,5.9,45,200,45
+v4w5x6y7,USR_042,Churchgate,True,Irregular_User,Walking,1.13,20,Low,2025-10-22 10:15:00,Mon,4.8,41,200,45
+w5x6y7z8,USR_043,Hauz Khas,False,Irregular_User,Walking,0.86,290,Low,2025-10-01 10:25:40,Mon,5.4,43,200,45
+x6y7z8a9,USR_043,Hauz Khas,False,Irregular_User,Walking,0.93,250,Low,2025-10-02 11:40:05,Tue,4.9,40,200,45
+y7z8a9b0,USR_043,Hauz Khas,False,Irregular_User,Walking,0.72,210,Low,2025-10-03 09:55:30,Wed,5.8,47,200,45
+z8a9b0c1,USR_043,Hauz Khas,False,Irregular_User,Stationary,0.00,170,Low,2025-10-04 11:10:55,Thu,5.0,42,200,45
+a9b0c1d2,USR_043,Hauz Khas,False,Irregular_User,Walking,0.81,130,Low,2025-10-05 09:25:20,Fri,5.6,39,200,45
+b0c1d2e3,USR_043,Hauz Khas,False,Irregular_User,Walking,0.95,90,Low,2025-10-08 10:40:45,Mon,4.7,46,200,45
+c1d2e3f4,USR_043,Hauz Khas,False,Irregular_User,Walking,0.77,50,Low,2025-10-09 11:55:10,Tue,6.0,41,200,45
+d2e3f4g5,USR_043,Hauz Khas,False,Irregular_User,Stationary,0.00,550,Low,2025-10-10 10:10:35,Wed,5.2,48,200,45
+e3f4g5h6,USR_043,Hauz Khas,False,Irregular_User,Walking,0.89,510,Low,2025-10-11 11:25:00,Thu,4.6,44,200,45
+f4g5h6i7,USR_043,Hauz Khas,False,Irregular_User,Walking,0.66,470,Low,2025-10-12 09:40:25,Fri,5.5,38,200,45
+g5h6i7j8,USR_043,Hauz Khas,False,Irregular_User,Walking,0.91,430,Low,2025-10-15 10:55:50,Mon,4.9,45,200,45
+h6i7j8k9,USR_043,Hauz Khas,False,Irregular_User,Walking,0.94,390,Low,2025-10-16 09:10:15,Tue,5.8,40,200,45
+i7j8k9l0,USR_043,Hauz Khas,False,Irregular_User,Stationary,0.00,350,Low,2025-10-17 10:25:40,Wed,5.1,47,200,45
+j8k9l0m1,USR_043,Hauz Khas,False,Irregular_User,Walking,0.82,310,Low,2025-10-18 11:40:05,Thu,4.5,42,200,45
+k9l0m1n2,USR_043,Hauz Khas,False,Irregular_User,Walking,0.68,270,Low,2025-10-19 09:55:30,Fri,5.9,37,200,45
+l0m1n2o3,USR_043,Hauz Khas,True,Irregular_User,Walking,1.10,20,Low,2025-10-22 10:15:00,Mon,5.2,43,200,45
+m1n2o3p4,USR_044,Cyber City,False,Irregular_User,Walking,0.92,410,Low,2025-10-01 11:10:45,Mon,5.5,45,200,45
+n2o3p4q5,USR_044,Cyber City,False,Irregular_User,Walking,0.73,370,Low,2025-10-02 09:25:10,Tue,4.8,40,200,45
+o3p4q5r6,USR_044,Cyber City,False,Irregular_User,Walking,0.85,330,Low,2025-10-03 10:40:35,Wed,5.7,46,200,45
+p4q5r6s7,USR_044,Cyber City,False,Irregular_User,Stationary,0.00,290,Low,2025-10-04 11:55:00,Thu,5.0,41,200,45
+q5r6s7t8,USR_044,Cyber City,False,Irregular_User,Walking,0.96,250,Low,2025-10-05 10:10:25,Fri,4.6,48,200,45
+r6s7t8u9,USR_044,Cyber City,False,Irregular_User,Walking,0.67,210,Low,2025-10-08 11:25:50,Mon,5.9,43,200,45
+s7t8u9v0,USR_044,Cyber City,False,Irregular_User,Walking,0.81,170,Low,2025-10-09 09:40:15,Tue,5.1,38,200,45
+t8u9v0w1,USR_044,Cyber City,False,Irregular_User,Stationary,0.00,130,Low,2025-10-10 10:55:40,Wed,5.6,44,200,45
+u9v0w1x2,USR_044,Cyber City,False,Irregular_User,Walking,0.89,90,Low,2025-10-11 09:10:05,Thu,4.7,40,200,45
+v0w1x2y3,USR_044,Cyber City,False,Irregular_User,Walking,0.75,50,Low,2025-10-12 10:25:30,Fri,6.0,47,200,45
+w1x2y3z4,USR_044,Cyber City,False,Irregular_User,Walking,0.93,550,Low,2025-10-15 11:40:55,Mon,5.3,42,200,45
+x2y3z4a5,USR_044,Cyber City,False,Irregular_User,Walking,0.95,510,Low,2025-10-16 09:55:20,Tue,4.8,37,200,45
+y3z4a5b6,USR_044,Cyber City,False,Irregular_User,Stationary,0.00,470,Low,2025-10-17 11:10:45,Wed,5.7,45,200,45
+z4a5b6c7,USR_044,Cyber City,False,Irregular_User,Walking,0.82,430,Low,2025-10-18 09:25:10,Thu,5.0,40,200,45
+a5b6c7d8,USR_044,Cyber City,False,Irregular_User,Walking,0.68,390,Low,2025-10-19 10:40:35,Fri,5.5,46,200,45
+b6c7d8e9,USR_044,Cyber City,True,Irregular_User,Walking,1.14,20,Low,2025-10-22 10:15:00,Mon,4.9,41,200,45
+c7d8e9f0,USR_045,MG Road,False,Irregular_User,Walking,0.90,350,Low,2025-10-01 11:55:50,Mon,5.4,39,200,45
+d8e9f0g1,USR_045,MG Road,False,Irregular_User,Walking,0.77,310,Low,2025-10-02 10:10:15,Tue,4.7,45,200,45
+e9f0g1h2,USR_045,MG Road,False,Irregular_User,Walking,0.86,270,Low,2025-10-03 11:25:40,Wed,5.8,40,200,45
+f0g1h2i3,USR_045,MG Road,False,Irregular_User,Stationary,0.00,230,Low,2025-10-04 09:40:05,Thu,5.1,46,200,45
+g1h2i3j4,USR_045,MG Road,False,Irregular_User,Walking,0.92,190,Low,2025-10-05 10:55:30,Fri,4.6,38,200,45
+h2i3j4k5,USR_045,MG Road,False,Irregular_User,Walking,0.69,150,Low,2025-10-08 09:10:55,Mon,5.6,43,200,45
+i3j4k5l6,USR_045,MG Road,False,Irregular_User,Walking,0.81,110,Low,2025-10-09 10:25:20,Tue,4.9,47,200,45
+j4k5l6m7,USR_045,MG Road,False,Irregular_User,Stationary,0.00,70,Low,2025-10-10 11:40:45,Wed,5.8,41,200,45
+k5l6m7n8,USR_045,MG Road,False,Irregular_User,Walking,0.88,570,Low,2025-10-11 09:55:10,Thu,5.0,46,200,45
+l6m7n8o9,USR_045,MG Road,False,Irregular_User,Walking,0.95,530,Low,2025-10-12 11:10:35,Fri,5.7,39,200,45
+m7n8o9p0,USR_045,MG Road,False,Irregular_User,Walking,0.72,490,Low,2025-10-15 09:25:00,Mon,4.8,44,200,45
+n8o9p0q1,USR_045,MG Road,False,Irregular_User,Walking,0.84,450,Low,2025-10-16 10:40:25,Tue,6.0,48,200,45
+o9p0q1r2,USR_045,MG Road,False,Irregular_User,Stationary,0.00,410,Low,2025-10-17 11:55:50,Wed,5.3,42,200,45
+p0q1r2s3,USR_045,MG Road,False,Irregular_User,Walking,0.91,370,Low,2025-10-18 10:10:15,Thu,4.7,37,200,45
+q1r2s3t4,USR_045,MG Road,False,Irregular_User,Walking,0.75,330,Low,2025-10-19 11:25:40,Fri,5.5,45,200,45
+r2s3t4u5,USR_045,MG Road,True,Irregular_User,Walking,1.13,20,Low,2025-10-22 10:15:00,Mon,5.0,40,200,45
+s3t4u5v6,USR_046,Indiranagar,False,Irregular_User,Walking,0.79,290,Low,2025-10-01 10:40:50,Mon,5.4,46,200,45
+t4u5v6w7,USR_046,Indiranagar,False,Irregular_User,Walking,0.93,250,Low,2025-10-02 11:55:15,Tue,4.8,41,200,45
+u5v6w7x8,USR_046,Indiranagar,False,Irregular_User,Walking,0.82,210,Low,2025-10-03 09:10:40,Wed,5.7,47,200,45
+v6w7x8y9,USR_046,Indiranagar,False,Irregular_User,Stationary,0.00,170,Low,2025-10-04 10:25:05,Thu,5.1,43,200,45
+w7x8y9z0,USR_046,Indiranagar,False,Irregular_User,Walking,0.96,130,Low,2025-10-05 11:40:30,Fri,4.6,38,200,45
+x8y9z0a1,USR_046,Indiranagar,False,Irregular_User,Walking,0.67,90,Low,2025-10-08 09:55:55,Mon,5.9,44,200,45
+y9z0a1b2,USR_046,Indiranagar,False,Irregular_User,Walking,0.88,50,Low,2025-10-09 11:10:20,Tue,5.2,39,200,45
+z0a1b2c3,USR_046,Indiranagar,False,Irregular_User,Stationary,0.00,550,Low,2025-10-10 09:25:45,Wed,6.0,45,200,45
+a1b2c3d4,USR_046,Indiranagar,False,Irregular_User,Walking,0.76,510,Low,2025-10-11 10:40:10,Thu,4.8,40,200,45
+b2c3d4e5,USR_046,Indiranagar,False,Irregular_User,Walking,0.92,470,Low,2025-10-12 11:55:35,Fri,5.5,46,200,45
+c3d4e5f6,USR_046,Indiranagar,False,Irregular_User,Walking,0.84,430,Low,2025-10-15 10:10:00,Mon,4.9,42,200,45
+d4e5f6g7,USR_046,Indiranagar,False,Irregular_User,Walking,0.69,390,Low,2025-10-16 11:25:25,Tue,5.8,48,200,45
+e5f6g7h8,USR_046,Indiranagar,False,Irregular_User,Stationary,0.00,350,Low,2025-10-17 08:40:50,Wed,5.0,37,200,45
+f6g7h8i9,USR_046,Indiranagar,False,Irregular_User,Walking,0.89,310,Low,2025-10-18 09:55:15,Thu,5.6,43,200,45
+g7h8i9j0,USR_046,Indiranagar,False,Irregular_User,Walking,0.95,270,Low,2025-10-19 11:10:40,Fri,4.7,47,200,45
+h8i9j0k1,USR_046,Indiranagar,True,Irregular_User,Walking,1.12,20,Low,2025-10-22 10:15:00,Mon,5.3,42,200,45
+i9j0k1l2,USR_047,Churchgate,False,Irregular_User,Walking,0.87,490,Low,2025-10-01 11:25:25,Mon,5.1,46,200,45
+j0k1l2m3,USR_047,Churchgate,False,Irregular_User,Walking,0.73,450,Low,2025-10-02 08:40:50,Tue,6.0,41,200,45
+k1l2m3n4,USR_047,Churchgate,False,Irregular_User,Walking,0.92,410,Low,2025-10-03 09:55:15,Wed,5.4,39,200,45
+l2m3n4o5,USR_047,Churchgate,False,Irregular_User,Stationary,0.00,370,Low,2025-10-04 11:10:40,Thu,4.8,44,200,45
+m3n4o5p6,USR_047,Churchgate,False,Irregular_User,Walking,0.81,330,Low,2025-10-05 09:25:05,Fri,5.7,48,200,45
+n4o5p6q7,USR_047,Churchgate,False,Irregular_User,Walking,0.67,290,Low,2025-10-08 10:40:30,Mon,5.0,42,200,45
+o5p6q7r8,USR_047,Churchgate,False,Irregular_User,Walking,0.85,250,Low,2025-10-09 11:55:55,Tue,5.9,38,200,45
+p6q7r8s9,USR_047,Churchgate,False,Irregular_User,Stationary,0.00,210,Low,2025-10-10 09:10:20,Wed,4.6,45,200,45
+q7r8s9t0,USR_047,Churchgate,False,Irregular_User,Walking,0.94,170,Low,2025-10-11 10:25:45,Thu,5.5,49,200,45
+r8s9t0u1,USR_047,Churchgate,False,Irregular_User,Walking,0.78,130,Low,2025-10-12 11:40:10,Fri,4.9,43,200,45
+s9t0u1v2,USR_047,Churchgate,False,Irregular_User,Walking,0.88,90,Low,2025-10-15 09:55:35,Mon,5.8,40,200,45
+t0u1v2w3,USR_047,Churchgate,False,Irregular_User,Walking,0.96,50,Low,2025-10-16 11:10:00,Tue,5.1,46,200,45
+u1v2w3x4,USR_047,Churchgate,False,Irregular_User,Stationary,0.00,550,Low,2025-10-17 09:25:25,Wed,6.1,42,200,45
+v2w3x4y5,USR_047,Churchgate,False,Irregular_User,Walking,0.83,510,Low,2025-10-18 10:40:50,Thu,4.7,47,200,45
+w3x4y5z6,USR_047,Churchgate,False,Irregular_User,Walking,0.71,470,Low,2025-10-19 11:55:15,Fri,5.6,39,200,45
+x4y5z6a7,USR_047,Churchgate,True,Irregular_User,Walking,1.14,20,Low,2025-10-22 10:15:00,Mon,5.2,44,200,45
+y5z6a7b8,USR_048,Hauz Khas,False,Irregular_User,Walking,0.93,270,Low,2025-10-01 10:10:20,Mon,6.0,41,200,45
+z6a7b8c9,USR_048,Hauz Khas,False,Irregular_User,Walking,0.82,230,Low,2025-10-02 11:25:45,Tue,5.1,46,200,45
+a7b8c9d0,USR_048,Hauz Khas,False,Irregular_User,Walking,0.76,190,Low,2025-10-03 09:40:10,Wed,4.8,40,200,45
+b8c9d0e1,USR_048,Hauz Khas,False,Irregular_User,Stationary,0.00,150,Low,2025-10-04 10:55:35,Thu,5.7,45,200,45
+c9d0e1f2,USR_048,Hauz Khas,False,Irregular_User,Walking,0.89,110,Low,2025-10-05 09:10:00,Fri,4.9,39,200,45
+d0e1f2g3,USR_048,Hauz Khas,False,Irregular_User,Walking,0.67,70,Low,2025-10-08 10:25:25,Mon,5.8,44,200,45
+e1f2g3h4,USR_048,Hauz Khas,False,Irregular_User,Walking,0.85,570,Low,2025-10-09 11:40:50,Tue,5.2,48,200,45
+f2g3h4i5,USR_048,Hauz Khas,False,Irregular_User,Stationary,0.00,530,Low,2025-10-10 08:55:15,Wed,4.6,42,200,45
+g3h4i5j6,USR_048,Hauz Khas,False,Irregular_User,Walking,0.94,490,Low,2025-10-11 10:10:40,Thu,6.1,47,200,45
+h4i5j6k7,USR_048,Hauz Khas,False,Irregular_User,Walking,0.79,450,Low,2025-10-12 11:25:05,Fri,5.0,41,200,45
+i5j6k7l8,USR_048,Hauz Khas,False,Irregular_User,Walking,0.88,410,Low,2025-10-15 09:40:30,Mon,5.5,46,200,45
+j6k7l8m9,USR_048,Hauz Khas,False,Irregular_User,Walking,0.96,370,Low,2025-10-16 10:55:55,Tue,4.7,38,200,45
+k7l8m9n0,USR_048,Hauz Khas,False,Irregular_User,Stationary,0.00,330,Low,2025-10-17 09:10:20,Wed,5.9,43,200,45
+l8m9n0o1,USR_048,Hauz Khas,False,Irregular_User,Walking,0.72,290,Low,2025-10-18 10:25:45,Thu,5.3,49,200,45
+m9n0o1p2,USR_048,Hauz Khas,False,Irregular_User,Walking,0.84,250,Low,2025-10-19 11:40:10,Fri,4.8,40,200,45
+n0o1p2q3,USR_048,Hauz Khas,True,Irregular_User,Walking,1.15,20,Low,2025-10-22 10:15:00,Mon,5.6,45,200,45
+o1p2q3r4,USR_049,Cyber City,False,Irregular_User,Walking,0.81,430,Low,2025-10-01 10:55:25,Mon,5.1,41,200,45
+p2q3r4s5,USR_049,Cyber City,False,Irregular_User,Walking,0.92,390,Low,2025-10-02 09:10:50,Tue,5.8,46,200,45
+q3r4s5t6,USR_049,Cyber City,False,Irregular_User,Walking,0.76,350,Low,2025-10-03 10:25:15,Wed,4.9,42,200,45
+r4s5t6u7,USR_049,Cyber City,False,Irregular_User,Stationary,0.00,310,Low,2025-10-04 11:40:40,Thu,5.7,39,200,45
+s5t6u7v8,USR_049,Cyber City,False,Irregular_User,Walking,0.89,270,Low,2025-10-05 09:55:05,Fri,5.2,44,200,45
+t6u7v8w9,USR_049,Cyber City,False,Irregular_User,Walking,0.95,230,Low,2025-10-08 11:10:30,Mon,4.6,48,200,45
+u7v8w9x0,USR_049,Cyber City,False,Irregular_User,Walking,0.67,190,Low,2025-10-09 09:25:55,Tue,6.0,40,200,45
+v8w9x0y1,USR_049,Cyber City,False,Irregular_User,Stationary,0.00,150,Low,2025-10-10 10:40:20,Wed,5.4,45,200,45
+w9x0y1z2,USR_049,Cyber City,False,Irregular_User,Walking,0.85,110,Low,2025-10-11 11:55:45,Thu,4.8,38,200,45
+x0y1z2a3,USR_049,Cyber City,False,Irregular_User,Walking,0.91,70,Low,2025-10-12 09:10:10,Fri,5.9,43,200,45
+y1z2a3b4,USR_049,Cyber City,False,Irregular_User,Walking,0.73,570,Low,2025-10-15 10:25:35,Mon,5.0,47,200,45
+z2a3b4c5,USR_049,Cyber City,False,Irregular_User,Walking,0.88,530,Low,2025-10-16 11:40:00,Tue,5.6,41,200,45
+a3b4c5d6,USR_049,Cyber City,False,Irregular_User,Stationary,0.00,490,Low,2025-10-17 08:55:25,Wed,4.9,46,200,45
+b4c5d6e7,USR_049,Cyber City,False,Irregular_User,Walking,0.96,450,Low,2025-10-18 10:10:50,Thu,5.8,39,200,45
+c5d6e7f8,USR_049,Cyber City,False,Irregular_User,Walking,0.82,410,Low,2025-10-19 11:25:15,Fri,5.3,44,200,45
+d6e7f8g9,USR_049,Cyber City,True,Irregular_User,Walking,1.13,20,Low,2025-10-22 10:15:00,Mon,4.7,40,200,45
+e7f8g9h0,USR_050,MG Road,False,Irregular_User,Walking,0.75,370,Low,2025-10-01 11:40:25,Mon,5.5,49,200,45
+f8g9h0i1,USR_050,MG Road,False,Irregular_User,Walking,0.89,330,Low,2025-10-02 09:55:50,Tue,4.8,42,200,45
+g9h0i1j2,USR_050,MG Road,False,Irregular_User,Walking,0.94,290,Low,2025-10-03 11:10:15,Wed,5.9,46,200,45
+h0i1j2k3,USR_050,MG Road,False,Irregular_User,Stationary,0.00,250,Low,2025-10-04 09:25:40,Thu,5.1,40,200,45
+i1j2k3l4,USR_050,MG Road,False,Irregular_User,Walking,0.83,210,Low,2025-10-05 10:40:05,Fri,5.7,45,200,45
+j2k3l4m5,USR_050,MG Road,False,Irregular_User,Walking,0.67,170,Low,2025-10-08 11:55:30,Mon,4.6,39,200,45
+k3l4m5n6,USR_050,MG Road,False,Irregular_User,Walking,0.91,130,Low,2025-10-09 09:10:55,Tue,6.0,43,200,45
+l4m5n6o7,USR_050,MG Road,False,Irregular_User,Stationary,0.00,90,Low,2025-10-10 10:25:20,Wed,5.2,48,200,45
+m5n6o7p8,USR_050,MG Road,False,Irregular_User,Walking,0.86,550,Low,2025-10-11 11:40:45,Thu,4.9,41,200,45
+n6o7p8q9,USR_050,MG Road,False,Irregular_User,Walking,0.95,510,Low,2025-10-12 08:55:10,Fri,5.6,47,200,45
+o7p8q9r0,USR_050,MG Road,False,Irregular_User,Walking,0.78,470,Low,2025-10-15 10:10:35,Mon,5.0,38,200,45
+p8q9r0s1,USR_050,MG Road,False,Irregular_User,Walking,0.92,430,Low,2025-10-16 11:25:00,Tue,5.8,44,200,45
+q9r0s1t2,USR_050,MG Road,False,Irregular_User,Stationary,0.00,390,Low,2025-10-17 09:40:25,Wed,4.7,49,200,45
+r0s1t2u3,USR_050,MG Road,False,Irregular_User,Walking,0.84,350,Low,2025-10-18 10:55:50,Thu,5.9,42,200,45
+s1t2u3v4,USR_050,MG Road,False,Irregular_User,Walking,0.69,310,Low,2025-10-19 09:10:15,Fri,5.3,46,200,45
+t2u3v4w5,USR_050,MG Road,True,Irregular_User,Walking,1.11,20,Low,2025-10-22 10:15:00,Mon,4.8,40,200,45
+  
